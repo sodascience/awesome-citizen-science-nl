@@ -18,7 +18,7 @@ csv = pd.read_csv(CSV)
 categories = pd.unique(csv["Category"])
 categories.sort()
 
-with open('README.md', 'r') as read_me_file:
+with open('README.md', 'r', encoding='utf-8') as read_me_file:
     read_me = read_me_file.read()
     main_text = ''.join(read_me.split('- - -')[0])
     toc = "\n\n- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)\n"
@@ -42,7 +42,7 @@ for cat in range(len(categories)):
             start_date = int(r['Start Date'])
         except:
             start_date = "NA"
-        project = f"* [{r['Name']}]({r['Main Source']}) - {r['Description']} (`{start_date} - {str(r['End Date'])}`) \n"
+        project = f"* [{r['Name']}]({r['Main Source']}) - {r['Description']} (`{start_date}` - `{str(r['End Date'])}`) \n"
         list_items = list_items + project
     list_blocks = list_blocks + block + list_items
 
@@ -50,5 +50,5 @@ for cat in range(len(categories)):
 final_README = final_README + list_blocks
 
 # Save to new README.md
-with open('README.md', 'w+') as sorted_file:
+with open('README.md', 'w+', encoding='utf-8') as sorted_file:
     sorted_file.write(final_README)
