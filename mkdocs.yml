@@ -6,8 +6,8 @@ repo_url: https://github.com/sodascience/awesome-citizen-science-projects
 theme:
   name: material
   palette:
-    primary: red
-    accent: pink
+    primary: indigo
+    accent: teal
 extra:
   social:
     - icon: fontawesome/brands/github-alt
