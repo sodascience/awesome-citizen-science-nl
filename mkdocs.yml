@@ -1,8 +1,8 @@
 site_name: Awesome Citizen Science Projects
 site_description: A curated list of awesome Citizen Science projects
-site_author: SoDa Science
+site_author: ODISSEI SoDa Team
 repo_name: sodascience/awesome-citizen-science-projects
-repo_url: https://github.com/sodascience/awesome-citizen-science-projectss
+repo_url: https://github.com/sodascience/awesome-citizen-science-projects
 theme:
   name: material
   palette:
