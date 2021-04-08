@@ -4,7 +4,7 @@ Your contributions are always welcome!
 
 ## Guideline
 
-* Add one link per Pull Request.
+* Add one project per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
     * Write down the reason why the project is awesome.
 * For each project, please add the following:
