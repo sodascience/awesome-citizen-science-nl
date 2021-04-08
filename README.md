@@ -274,3 +274,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Uncategorized
 * [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of “Kilometerhokken Inventariseren”. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `repeating`) 
+
+
+<!-- CONTACT -->
+## Contact
+
+This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
+(SoDa)](https://odissei-data.nl/nl/soda/) team.
+
+<img src="figures/word_colour-l.png" width="250px"></img>
+
