@@ -19,17 +19,19 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 - - -
 
-## Archaeology
+## Projects
+
+### Archaeology
 * [Erfgoed Gezocht 1](https://www.archeologieleeft.nl/archeosuccessen/erfgoed-gezocht/) - The project consists of two stages. In the first stage, citizen examine elevation maps of the designated area where they identify possible locations for excavations. In the second stage, citizens can actually join and assist archeologists on their excavations.  (`2019` - `ongoing`) 
 * [Erfgoed Gezocht 2](https://www.universiteitleiden.nl/citizensciencelab/projecten/erfgoed-gezocht) - The project consists of two stages. In the first stage, citizen examine elevation maps of the designated area where they identify possible locations for excavations. In the second stage, citizens can actually join and assist archeologists on their excavations.  (`2020` - `ongoing`) 
 * [Erfgoed Gezocht Junior](https://www.universiteitleiden.nl/nieuws/2020/04/erfgoed-gezocht-junior-kinderen-speuren-vanuit-huis-mee-met-archeologen) - Children between the ages of 8 and 12 examine elevation maps of the designated area where they identify possible locations for excavations.  (`2020` - `repeating`) 
 
 
-## Cities
+### Cities
 * [Nationale PlasticWatch](https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-6-nationale-plasticwatch) - Citizens report litter. (`2020` - `repeating`) 
 
 
-## Ecology
+### Ecology
 * [GrowApp](https://www.growapp.today/#/) - Citizens make pictures of a certain spot in nature, which the app transforms into a time-lapse to capture the change of seasons. The app sheds light on the impact of climate change on nature.  (`2017` - `repeating`) 
 * [Essentaksterfte](https://www.naturetoday.com/intl/nl/observations/essentaksterfte) - Citizens report whether ash trees are affected by a fungus. (`2016` - `repeating`) 
 * [Natuurkalender](https://www.naturetoday.com/intl/nl/observations/natuurkalender?utm_source=natuurkalender.nl&utm_medium=redirect&utm_campaign=olddomain) - Citizens observe a certain animal species on a location they have chosen themselves and note the first day when they enter a new phenological phase. (`1868` - `repeating`) 
@@ -88,7 +90,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 * [Kruidenrijk Grasland App](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=26207) - Citizens make pictures with an app of different kinds of grasslands.  (`2019` - `ongoing`) 
 
 
-## Environment
+### Environment
 * [Samen Meten aan Luchtkwaliteit](https://www.samenmetenaanluchtkwaliteit.nl/) - Citizens measure airquality by putting sensors in their backyards.  (`2016` - `repeating`) 
 * [Waterkwaliteit in Europa](https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-1-waterkwaliteit-in-europa) - Citizens first request research packages with which they collect a sample of water they send back.  (`2017` - `repeating`) 
 * [Check de Stadvergroening!](https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-2-check-de-stadsvergroening) - Citizens first register, alone or in a group, and then follow a step-by-step plan of what they ought to do. They inspect a place they choose themselves on what the soil consists of, and check the draining of rainwater and whether flooding occurs after heavy rain. (`2018` - `repeating`) 
@@ -145,7 +147,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 * [WaterLab Circulair Water Flevoland](https://www.flevoland.nl/dossiers/waterlab-circulair-water) - Citizens test circular water solutions in seven situations in practice.  (`2021` - `ongoing`) 
 
 
-## Health
+### Health
 * [Hooikoortsradar ](https://hooikoortsradar.nl/) - Citizens report how much they suffer from hayfever at the moment of reporting (1-10 scale).  (`2009` - `repeating`) 
 * [Tekenradar](https://www.tekenradar.nl/) - Citizens report 1) a tick bite, 2) tick bite fever, 3) Lyme and/or 4) a red circular rash (Erythema Migrans). (`2012` - `repeating`) 
 * [Grote Griep Meting](https://www.nemokennislink.nl/publicaties/doe-mee-aan-de-grote-griepmeting/) - Citizens report when they or someone they know gets a cold or the flu.  (`2003` - `repeating`) 
@@ -155,7 +157,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 * [Ik heb last-app](https://www.rivm.nl/rivm/kennis-en-kunde/strategisch-programma-rivm/spr-2015-2018/integrale-risicobeoordeling/ik-heb-nu-last-app) - Citizens indicate how much their airways bother them and what symptoms they experience to provide further insights into the air quality.  (`2015` - `ongoing`) 
 
 
-## History
+### History
 * [Oude Krantenproject](https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd) - Citizens register the information on scans of the newspapers from the 17th century, so they can be incorporated into a searchable database.   (`NA` - `2017`) 
 * [Duik in historisch Amsterdam](https://www.iedereenwetenschapper.be/projects/duik-historisch-amsterdam) - Citizens describe photos of monuments in Amsterdam so those can be digitalized.  (`2014` - `2014`) 
 * [Ja, ik wil!](https://velehanden.nl/projecten/bekijk/details/project/ja_ik_wil) - Citizens help digitalize registered banns from Amsterdam (1602-1811).  (`2014` - `2017`) 
@@ -245,14 +247,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 * [AlleFriezen - Bevolkingsregisters](https://velehanden.nl/projecten/bekijk/details/page/2/project/frl) - Citizens help index scans of population registers from Friesland (1850 - 1939). (`2013` - `ongoing`) 
 
 
-## Science
+### Science
 * [CREDO](https://www.iedereenwetenschapper.be/projects/download-je-eigen-deeltjesdetector) - Citizens help detect glowing pixels with the cameras of their phones to test one of the theories of what dark matter could be.  (`2019` - `ongoing`) 
 * [Verdwaald in de Nacht](https://www.iedereenwetenschapper.be/projects/bekijk-de-aarde-vanuit-de-ruimte) - Citizens match photos made of places on the Earth in the night from space with the correct location.  (`2014` - `ongoing`) 
 * [SMAP: bodemvochtigheid](https://globenederland.nl/onderzoeksproject/smap/#info) - High school students measure the soil moisture to help NASA calibrate its satellite that attempts to estimate this from a distance.  (`2011` - `ongoing`) 
 * [Aerosolen](https://globenederland.nl/onderzoeksproject/aerosolen/#info) - High school students help calibrate the measures of a satellite by measuring the amount of aerosols in an area of the air. (`2004` - `ongoing`) 
 
 
-## Society
+### Society
 * [Vreemdelingenkaarten](https://velehanden.nl/projecten/bekijk/details/project/amsterdam_index_vreemdelingenkaarten) - Citizens register the information on scans of the cards, so it can be incorporated into a searchable database.  (`2021` - `repeating`) 
 * [Amsterdamse Doodsoorzaken 1854 – 1940](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_run) - Citizens register the information on scans of the cards, so it can be incorporated into a searchable database.  (`2016` - `nan`) 
 * [Straatpoëzie](https://straatpoezie.nl/) - Citizens report streetpoetry, poetry that is placed out in the open and can be read by anyone.  (`2017` - `ongoing`) 
@@ -272,14 +274,12 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 * [WeSense](http://www.wesense.info/en/index.html) - Citizens fill out short surveys about their perception of their current surroundings and wellbeing, who they are with, where they are, and what they are doing.  (`2019` - `ongoing`) 
 
 
-## Uncategorized
+### Uncategorized
 * [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of “Kilometerhokken Inventariseren”. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `repeating`) 
 
 ## Contributing
 
 Your contributions are always welcome!
-
-### Guideline
 
 * Add one project per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
