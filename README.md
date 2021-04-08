@@ -282,5 +282,5 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
-<img src="figures/word_colour-l.png" width="250px"></img>
+<img src="word_colour-l.png" width="250px"></img>
 
