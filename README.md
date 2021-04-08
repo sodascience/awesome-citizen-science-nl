@@ -1,6 +1,6 @@
-# Awesome Citizen Science Projects
+# Awesome Citizen Science NL 
 
-A curated list of awesome Citizen Science projects with additional information such as duration, organizations and links to resources.
+A curated list of awesome Citizen Science projects from the Netherlands with additional information such as duration, organizations and links to resources.
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
