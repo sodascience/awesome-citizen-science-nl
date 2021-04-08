@@ -18,7 +18,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Society](#Society)
     - [Uncategorized](#Uncategorized)
   - [Contributing](#contributing)
-  - [Contact](#contract)
+  - [Contact](#contact)
 
 - - -
 
