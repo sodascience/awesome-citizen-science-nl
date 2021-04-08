@@ -7,15 +7,18 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - - -
 
 - [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
-  - [Archaeology](#Archaeology)
-  - [Cities](#Cities)
-  - [Ecology](#Ecology)
-  - [Environment](#Environment)
-  - [Health](#Health)
-  - [History](#History)
-  - [Science](#Science)
-  - [Society](#Society)
-  - [Uncategorized](#Uncategorized)
+  - [Projects](#projects)
+    - [Archaeology](#Archaeology)
+    - [Cities](#Cities)
+    - [Ecology](#Ecology)
+    - [Environment](#Environment)
+    - [Health](#Health)
+    - [History](#History)
+    - [Science](#Science)
+    - [Society](#Society)
+    - [Uncategorized](#Uncategorized)
+  - [Contributing](#contributing)
+  - [Contact](#contract)
 
 - - -
 
