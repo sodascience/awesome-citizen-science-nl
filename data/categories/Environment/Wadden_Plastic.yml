@@ -1,0 +1,6 @@
+--- {name: Wadden Plastic, description: 'Citizens choose a flood mark on either the
+Wadden or North Sea beaches, follow that mark and report every ten meters their estimate
+for the number of plastic granules for an area of 40x40 cm. ', category: Environment,
+organization: University of Groningen, location: Groningen, start_date: 2018.0, end_date: ongoing,
+notes_duration: '-', available_data: Viewable, available_for_research: Yes, main_source: https://survey123.arcgis.com/share/9c12036c270940c58de97252e1676ea8,
+link_to_data: 'https://www.arcgis.com/home/webmap/viewer.html?webmap=3eb9b39fda224e1086ce8b8ffdacf053&extent=6.0562,53.4204,6.2258,53.4812'}

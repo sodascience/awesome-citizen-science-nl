@@ -1,0 +1,7 @@
+--- {name: Samen Luchtkwaliteit Meten in Zuid-Holland, description: 'Citizens place
+sensors that measure the local air quality. This is mostly done in so-called "meetclubs",
+where multiple sensors are placed close to each other in cluster. ', category: Environment,
+organization: 'Provincie Zuid-Holland, RIVM and DCMR Milieudienst Rijnmond', location: 'Zuid-Holland ',
+start_date: 2017.0, end_date: ongoing, notes_duration: '-', available_data: Viewable,
+available_for_research: Yes, main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-luchtkwaliteit-meten-in-zuid-holland,
+link_to_data: 'https://samenmeten.rivm.nl/dataportaal/  '}

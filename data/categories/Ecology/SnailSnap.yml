@@ -1,0 +1,8 @@
+--- {name: SnailSnap, description: 'Citizens download an app with which they make
+pictures of snails they encountered from April up until October. The app sends the
+photo, along with the coordinates of the place it was taken at to waarneming.nl.',
+category: Ecology, organization: 'EvoScope (Gemeente Leiden, Leiden University and
+Naturalis)  and EIS Kenniscentrum Insecten', location: The Netherlands, start_date: 2017.0,
+end_date: recurring, notes_duration: '-', available_data: Viewable, available_for_research: Yes,
+main_source: https://www.universiteitleiden.nl/citizensciencelab/projecten/naturalis,
+link_to_data: https://www.ndff.nl/overdendff/data/}

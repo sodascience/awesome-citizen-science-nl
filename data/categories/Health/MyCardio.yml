@@ -1,0 +1,6 @@
+--- {name: MyCardio, description: 'Citizens with cardiovascular diseases or citizens
+that are at risk of hart problems, report on their health to get more insights into
+the cause. ', category: Health, organization: 'Henk Duinkerken, Salut and Mijn Data
+Onze Gezondheid', location: The Netherlands, start_date: 2019.0, end_date: ongoing,
+notes_duration: '-', available_data: No direct download, available_for_research: No,
+main_source: https://www.mycardio.nl/, link_to_data: '-'}

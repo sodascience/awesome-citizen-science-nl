@@ -1,0 +1,6 @@
+--- {name: Tekenradar, description: 'Citizens report whether they or their child have
+a tick bite, tick bite fever, a red circular rash (Erythema Migrans) and/or Lyme disease,
+alongside their age.', category: Health, organization: RIVM and Wageningen University
+& Research, location: The Netherlands, start_date: 2012.0, end_date: ongoing, notes_duration: '-',
+available_data: Viewable, available_for_research: Yes, main_source: https://www.tekenradar.nl/,
+link_to_data: https://www.tekenradar.nl/}
