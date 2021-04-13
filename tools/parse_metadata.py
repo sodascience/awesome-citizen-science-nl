@@ -83,7 +83,7 @@ def read_yml_files():
         "name", "url", "error"])
     problems_url["icon"] = NOT_OK
     df = df.merge(problems_url, how="left", on="name")
-    df[['icon']] = df[['icon']].fillna(value=OK)
+    #df[['icon']] = df[['icon']].fillna(value=OK)
 
     return df
 
@@ -147,8 +147,12 @@ def create_readme(df):
                 start_date = int(r['start_date'])
             except:
                 start_date = "NA"
-            project = f"- {r['icon']} [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
-            list_items = list_items + project
+            if not pd.isna(r['icon']):
+                project = f"- {r['icon']}  [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                list_items = list_items + project
+            else:
+                project = f"- [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                list_items = list_items + project
         list_blocks = list_blocks + block + list_items
 
     # Add to categories to README.md
@@ -163,7 +167,6 @@ def create_readme(df):
 
 # Write new README.md
 if __name__ == "__main__":
-    read_csv_data()
     df = read_yml_files()
     readme_file = create_readme(df)
     with open('README.md', 'w+', encoding='utf-8') as sorted_file:
