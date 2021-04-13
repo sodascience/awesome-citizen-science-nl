@@ -11,8 +11,8 @@ from ruamel.yaml import YAML
 # Path data
 CSV = "data/citizen-science-projects.csv"
 DATA = "data/categories"
-NOT_OK = ":x:"  # "[](../docs/check-circle.png)"
-OK = ":white_check_mark:"  # "()[../docs/x-cirlce.png]"
+NOT_OK = ":x:"
+OK = ":white_check_mark:"
 
 
 def read_csv_data():
@@ -28,7 +28,7 @@ def read_csv_data():
 
     # Save rows csv to yaml files
     y = YAML()
-    y.default_flow_style = None
+    y.default_flow_style = False
     y.explicit_start = True
     y.indent(sequence=4, offset=2)
 
@@ -163,6 +163,7 @@ def create_readme(df):
 
 # Write new README.md
 if __name__ == "__main__":
+    read_csv_data()
     df = read_yml_files()
     readme_file = create_readme(df)
     with open('README.md', 'w+', encoding='utf-8') as sorted_file:

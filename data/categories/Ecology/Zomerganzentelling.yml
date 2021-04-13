@@ -1,6 +1,13 @@
---- {name: Zomerganzentelling, description: 'Citizens count summer geese and report
-on their number and species. ', category: Ecology, organization: Koninklijke Nederlandse
-Jachtvereniging and Sovon Vogelonderzoek Nederland, location: The Netherlands, start_date: 2005.0,
-end_date: recurring, notes_duration: '-', available_data: Several reports can be downloaded,
-available_for_research: No, main_source: https://www.jagersvereniging.nl/downloads/bestuurdersdocumenten/telprotocol-zomerganzentelling/,
-link_to_data: '-'}
+---
+name: Zomerganzentelling
+description: 'Citizens count summer geese and report on their number and species. '
+category: Ecology
+organization: Koninklijke Nederlandse Jachtvereniging and Sovon Vogelonderzoek Nederland
+location: The Netherlands
+start_date: 2005.0
+end_date: recurring
+notes_duration: '-'
+available_data: Several reports can be downloaded
+available_for_research: No
+main_source: https://www.jagersvereniging.nl/downloads/bestuurdersdocumenten/telprotocol-zomerganzentelling/
+link_to_data: '-'

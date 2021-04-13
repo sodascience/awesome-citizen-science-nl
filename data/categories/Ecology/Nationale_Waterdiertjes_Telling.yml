@@ -1,8 +1,16 @@
---- {name: Nationale Waterdiertjes Telling, description: Citizens report which and
-how many animals live in the water in their nearby ditches. They also report the type
-and quality of the water., category: Ecology, organization: 'Wageningen University
-& Research, GLOBE, Ons Water, IVM Natuureducatie, NIOO-KNAW, Unie van Waterschappen,
-Stowa, Ministerie van Infrastructuur en Waterstaat and Watereducatie. ', location: 'Officially
-worldwide, but most activity is in the Netherlands.', start_date: 2018.0, end_date: recurring,
-notes_duration: '-', available_data: Viewable, available_for_research: Yes, main_source: https://www.waterdiertjes.nl/#/info,
-link_to_data: https://www.waterdiertjes.nl/#/info}
+---
+name: Nationale Waterdiertjes Telling
+description: Citizens report which and how many animals live in the water in their
+  nearby ditches. They also report the type and quality of the water.
+category: Ecology
+organization: 'Wageningen University & Research, GLOBE, Ons Water, IVM Natuureducatie,
+  NIOO-KNAW, Unie van Waterschappen, Stowa, Ministerie van Infrastructuur en Waterstaat
+  and Watereducatie. '
+location: Officially worldwide, but most activity is in the Netherlands.
+start_date: 2018.0
+end_date: recurring
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.waterdiertjes.nl/#/info
+link_to_data: https://www.waterdiertjes.nl/#/info

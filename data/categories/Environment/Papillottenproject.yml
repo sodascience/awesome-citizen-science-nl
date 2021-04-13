@@ -1,6 +1,14 @@
---- {name: Papillottenproject, description: 'Citizens photograph, register and repackage
-papillots in new acid-free bags and store them in high drawers in a standard manner
-again.', category: Environment, organization: Naturalis Biodiversity Center, location: Leiden,
-start_date: 2016.0, end_date: ongoing, notes_duration: '-', available_data: No direct
-download, available_for_research: No, main_source: https://www.naturalis.nl/collectie/verborgen-vlinders-het-gestroomlijnd-zichtbaar-maken-van-papillotten,
-link_to_data: '-'}
+---
+name: Papillottenproject
+description: Citizens photograph, register and repackage papillots in new acid-free
+  bags and store them in high drawers in a standard manner again.
+category: Environment
+organization: Naturalis Biodiversity Center
+location: Leiden
+start_date: 2016.0
+end_date: ongoing
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.naturalis.nl/collectie/verborgen-vlinders-het-gestroomlijnd-zichtbaar-maken-van-papillotten
+link_to_data: '-'

@@ -1,6 +1,15 @@
---- {name: Amsterdam Sounds, description: 'Citizens in Amsterdam place sensors that
-measure the amount and kind of noise. ', category: Environment, organization: 'Gemeente
-Amsterdam, Ombudsman Metropool Amsterdam, Sensemakers Amsterdam, Sensing Clues and
-Waag Technology & Society', location: Amsterdam, start_date: 2019.0, end_date: ongoing,
-notes_duration: '-', available_data: Viewable (though there is almost nothing), available_for_research: Yes,
-main_source: https://amsterdamsounds.waag.org/, link_to_data: https://amsterdamsounds.waag.org/kaart/}
+---
+name: Amsterdam Sounds
+description: 'Citizens in Amsterdam place sensors that measure the amount and kind
+  of noise. '
+category: Environment
+organization: Gemeente Amsterdam, Ombudsman Metropool Amsterdam, Sensemakers Amsterdam,
+  Sensing Clues and Waag Technology & Society
+location: Amsterdam
+start_date: 2019.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable (though there is almost nothing)
+available_for_research: Yes
+main_source: https://amsterdamsounds.waag.org/
+link_to_data: https://amsterdamsounds.waag.org/kaart/

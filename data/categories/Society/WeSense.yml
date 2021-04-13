@@ -1,5 +1,15 @@
---- {name: WeSense, description: 'Citizens fill out short surveys about their perception
-of their current surroundings and wellbeing, who they are with, where they are, and
-what they are doing. ', category: Society, organization: TU Delft, location: Amsterdam
-(pilot), start_date: 2019.0, end_date: ongoing, notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: http://www.wesense.info/en/index.html, link_to_data: http://www.wesense.info/en/maps.html}
+---
+name: WeSense
+description: 'Citizens fill out short surveys about their perception of their current
+  surroundings and wellbeing, who they are with, where they are, and what they are
+  doing. '
+category: Society
+organization: TU Delft
+location: Amsterdam (pilot)
+start_date: 2019.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: http://www.wesense.info/en/index.html
+link_to_data: http://www.wesense.info/en/maps.html

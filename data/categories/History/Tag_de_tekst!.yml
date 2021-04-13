@@ -1,7 +1,15 @@
---- {name: Tag de tekst!, description: 'Citizens tag names, locations and dates in
-already transcribed texts to train an AI to recognize those that were missed by people.',
-category: History, organization: 'Stadsarchief Amsterdam, Noord-Hollands Archief,
-Nationaal Archief and Regionaal Historische Centra', location: The Netherlands, start_date: 2020.0,
-end_date: ongoing, notes_duration: '-', available_data: Probably viewable once finished,
-available_for_research: No, main_source: https://velehanden.nl/projecten/bekijk/details/project/sibr_annotate,
-link_to_data: '-'}
+---
+name: Tag de tekst!
+description: Citizens tag names, locations and dates in already transcribed texts
+  to train an AI to recognize those that were missed by people.
+category: History
+organization: Stadsarchief Amsterdam, Noord-Hollands Archief, Nationaal Archief and
+  Regionaal Historische Centra
+location: The Netherlands
+start_date: 2020.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Probably viewable once finished
+available_for_research: No
+main_source: https://velehanden.nl/projecten/bekijk/details/project/sibr_annotate
+link_to_data: '-'

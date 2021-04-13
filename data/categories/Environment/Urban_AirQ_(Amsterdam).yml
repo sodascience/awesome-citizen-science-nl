@@ -1,6 +1,15 @@
---- {name: Urban AirQ (Amsterdam), description: Citizens help measure fine dust and
-nitrogen dioxide in the air in their street., category: Environment, organization: 'Wageningen
-University & Research, KNMI, Waag Technology and Society, and GGD Amsterdam', location: Amsterdam,
-start_date: 2016.0, end_date: '2016', notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/urban-airq-amsterdam,
-link_to_data: https://amt.copernicus.org/articles/11/1297/2018/}
+---
+name: Urban AirQ (Amsterdam)
+description: Citizens help measure fine dust and nitrogen dioxide in the air in their
+  street.
+category: Environment
+organization: Wageningen University & Research, KNMI, Waag Technology and Society,
+  and GGD Amsterdam
+location: Amsterdam
+start_date: 2016.0
+end_date: '2016'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/urban-airq-amsterdam
+link_to_data: https://amt.copernicus.org/articles/11/1297/2018/

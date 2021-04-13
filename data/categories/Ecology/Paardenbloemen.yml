@@ -1,8 +1,15 @@
---- {name: Paardenbloemen, description: 'Citizens collect blowballs of dandelions,
-and report how long and how wide the tails are. Then they go inside, select five achenes
-which they let go five times each and report how long it takes them to land on the
-ground. ', category: Ecology, organization: 'EvoScope (Gemeente Leiden, Leiden University
-and Naturalis) ', location: The Netherlands, start_date: 2019.0, end_date: '2019',
-notes_duration: '-', available_data: No direct download, available_for_research: No,
-main_source: https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---paardenbloemen,
-link_to_data: '-'}
+---
+name: Paardenbloemen
+description: 'Citizens collect blowballs of dandelions, and report how long and how
+  wide the tails are. Then they go inside, select five achenes which they let go five
+  times each and report how long it takes them to land on the ground. '
+category: Ecology
+organization: 'EvoScope (Gemeente Leiden, Leiden University and Naturalis) '
+location: The Netherlands
+start_date: 2019.0
+end_date: '2019'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---paardenbloemen
+link_to_data: '-'

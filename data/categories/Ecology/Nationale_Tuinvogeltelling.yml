@@ -1,6 +1,14 @@
---- {name: Nationale Tuinvogeltelling, description: 'Citizens count on one of the
-predetermined days for 30 minutes the number of birds in their backyards and also
-report on their species. ', category: Ecology, organization: Vogelbescherming Nederland,
-location: The Netherlands, start_date: 2001.0, end_date: recurring, notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://www.vogelbescherming.nl/tuinvogeltelling,
-link_to_data: https://www.ndff.nl/overdendff/data/}
+---
+name: Nationale Tuinvogeltelling
+description: 'Citizens count on one of the predetermined days for 30 minutes the number
+  of birds in their backyards and also report on their species. '
+category: Ecology
+organization: Vogelbescherming Nederland
+location: The Netherlands
+start_date: 2001.0
+end_date: recurring
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.vogelbescherming.nl/tuinvogeltelling
+link_to_data: https://www.ndff.nl/overdendff/data/

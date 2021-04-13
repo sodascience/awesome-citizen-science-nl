@@ -1,5 +1,14 @@
---- {name: AlleFriezen - Bevolkingsregisters, description: Citizens help index scans
-of population registers from Friesland between 1850 and 1939., category: History,
-organization: AlleFriezen, location: The Netherlands, start_date: 2013.0, end_date: ongoing,
-notes_duration: '-', available_data: Probably viewable once finished, available_for_research: No,
-main_source: https://velehanden.nl/projecten/bekijk/details/page/2/project/frl, link_to_data: '-'}
+---
+name: AlleFriezen - Bevolkingsregisters
+description: Citizens help index scans of population registers from Friesland between
+  1850 and 1939.
+category: History
+organization: AlleFriezen
+location: The Netherlands
+start_date: 2013.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Probably viewable once finished
+available_for_research: No
+main_source: https://velehanden.nl/projecten/bekijk/details/page/2/project/frl
+link_to_data: '-'

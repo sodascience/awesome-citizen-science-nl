@@ -1,7 +1,16 @@
---- {name: Drinkable Rivers, description: 'Citizens sign in and pick up one of the
-test kits from one of the locations located all over Europe. The kits are used to
-collect samples of water and measure the water quality. Results are entered into a
-database. ', category: Environment, organization: 'WaterLab (TU Delft), Li An Phoa
-(started it) and Dr. Renata van der Weijden (WUR)', location: Europe, start_date: 2019.0,
-end_date: ongoing, notes_duration: '-', available_data: Viewable, available_for_research: Yes,
-main_source: https://drinkablerivers.org/what-we-do/citizen-science/, link_to_data: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/onderzoeksresultaten}
+---
+name: Drinkable Rivers
+description: 'Citizens sign in and pick up one of the test kits from one of the locations
+  located all over Europe. The kits are used to collect samples of water and measure
+  the water quality. Results are entered into a database. '
+category: Environment
+organization: WaterLab (TU Delft), Li An Phoa (started it) and Dr. Renata van der
+  Weijden (WUR)
+location: Europe
+start_date: 2019.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://drinkablerivers.org/what-we-do/citizen-science/
+link_to_data: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/onderzoeksresultaten

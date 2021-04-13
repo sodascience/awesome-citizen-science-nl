@@ -1,5 +1,14 @@
---- {name: Nationale Lichtmeting, description: 'Elementary school children build their
-own spectroscope and see what lamps are used in their surroundings. ', category: Environment,
-organization: GLOBE Nederand, location: The Netherlands, start_date: 2015.0, end_date: '2020',
-notes_duration: '-', available_data: No direct download, available_for_research: No,
-main_source: https://globenederland.nl/onderzoeksprojecten/lichtmeting/, link_to_data: '-'}
+---
+name: Nationale Lichtmeting
+description: 'Elementary school children build their own spectroscope and see what
+  lamps are used in their surroundings. '
+category: Environment
+organization: GLOBE Nederand
+location: The Netherlands
+start_date: 2015.0
+end_date: '2020'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://globenederland.nl/onderzoeksprojecten/lichtmeting/
+link_to_data: '-'

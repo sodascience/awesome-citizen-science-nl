@@ -1,6 +1,14 @@
---- {name: 'Van de kaart: georefereren van historische kaarten van Stadsarchief Amsterdam',
+---
+name: 'Van de kaart: georefereren van historische kaarten van Stadsarchief Amsterdam'
 description: 'Citizens do georeferencing by placing old maps of Amsterdam over existing
-ones to determine their placement. ', category: History, organization: Stadsarchief
-Amsterdam, location: The Netherlands, start_date: 2016.0, end_date: '2019', notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_kaarten,
-link_to_data: https://archief.amsterdam/inventarissen/details/10035}
+  ones to determine their placement. '
+category: History
+organization: Stadsarchief Amsterdam
+location: The Netherlands
+start_date: 2016.0
+end_date: '2019'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_kaarten
+link_to_data: https://archief.amsterdam/inventarissen/details/10035

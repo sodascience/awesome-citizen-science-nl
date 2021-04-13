@@ -1,6 +1,15 @@
---- {name: Het Nieuwe Strepen, description: 'Special form of “Kilometerhokken Inventariseren”.
-It works similar to that project, but now the area is searched by two citizens, independent
-from each other. ', category: Uncategorized, organization: FLORON, location: The Netherlands,
-start_date: 2012.0, end_date: ongoing, notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: 'https://www.floron.nl/meedoen/het-nieuwe-strepen ',
-link_to_data: https://www.ndff.nl/overdendff/data/}
+---
+name: Het Nieuwe Strepen
+description: 'Special form of “Kilometerhokken Inventariseren”. It works similar to
+  that project, but now the area is searched by two citizens, independent from each
+  other. '
+category: Uncategorized
+organization: FLORON
+location: The Netherlands
+start_date: 2012.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: 'https://www.floron.nl/meedoen/het-nieuwe-strepen '
+link_to_data: https://www.ndff.nl/overdendff/data/

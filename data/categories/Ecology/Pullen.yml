@@ -1,6 +1,14 @@
---- {name: Pullen, description: 'Citizens ring young birds to gain insights in the
-first year of life of their peers. ', category: Ecology, organization: 'Sovon Vogelonderzoek
-Nederland, Vogeltrekstation and NIOO-KNAW', location: The Netherlands, start_date: 2007.0,
-end_date: ongoing, notes_duration: '-', available_data: Probably viewable, available_for_research: Yes,
-main_source: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/pullen#quicktabs-pullen=0,
-link_to_data: https://euring.org/data-and-codes/obtaining-data}
+---
+name: Pullen
+description: 'Citizens ring young birds to gain insights in the first year of life
+  of their peers. '
+category: Ecology
+organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation and NIOO-KNAW
+location: The Netherlands
+start_date: 2007.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Probably viewable
+available_for_research: Yes
+main_source: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/pullen#quicktabs-pullen=0
+link_to_data: https://euring.org/data-and-codes/obtaining-data

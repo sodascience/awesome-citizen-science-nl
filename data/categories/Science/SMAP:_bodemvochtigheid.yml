@@ -1,6 +1,14 @@
---- {name: 'SMAP: bodemvochtigheid', description: 'High school students measure the
-soil moisture to help NASA calibrate its satellite that attempts to estimate this
-from a distance. ', category: Science, organization: GLOBE Nederand, location: The
-Netherlands / Worldwide, start_date: 2011.0, end_date: ongoing, notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://globenederland.nl/onderzoeksproject/smap/#info,
-link_to_data: https://www.globe.gov/globe-data/visualize-and-retrieve-data}
+---
+name: 'SMAP: bodemvochtigheid'
+description: 'High school students measure the soil moisture to help NASA calibrate
+  its satellite that attempts to estimate this from a distance. '
+category: Science
+organization: GLOBE Nederand
+location: The Netherlands / Worldwide
+start_date: 2011.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://globenederland.nl/onderzoeksproject/smap/#info
+link_to_data: https://www.globe.gov/globe-data/visualize-and-retrieve-data

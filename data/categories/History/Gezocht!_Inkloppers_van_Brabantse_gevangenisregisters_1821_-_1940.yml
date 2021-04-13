@@ -1,6 +1,14 @@
---- {name: Gezocht! Inkloppers van Brabantse gevangenisregisters 1821 - 1940, description: Citizens
-help digitalize the registration files from prisons in Brabant from the period from
-1821 up until 1940., category: History, organization: Brabants Historisch Informatie
-Centrum, location: The Netherlands, start_date: 2014.0, end_date: '2015', notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/bhic_strafgevangenissen,
-link_to_data: http://www.bhic.nl/onderzoeken/hulp-bij-onderzoek/gevangenisarchieven}
+---
+name: Gezocht! Inkloppers van Brabantse gevangenisregisters 1821 - 1940
+description: Citizens help digitalize the registration files from prisons in Brabant
+  from the period from 1821 up until 1940.
+category: History
+organization: Brabants Historisch Informatie Centrum
+location: The Netherlands
+start_date: 2014.0
+end_date: '2015'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/bhic_strafgevangenissen
+link_to_data: http://www.bhic.nl/onderzoeken/hulp-bij-onderzoek/gevangenisarchieven

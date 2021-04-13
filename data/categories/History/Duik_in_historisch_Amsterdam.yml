@@ -1,6 +1,13 @@
---- {name: Duik in historisch Amsterdam, description: 'Citizens describe photos of
-monuments in Amsterdam so they can be digitalized. ', category: History, organization: Stadsarchief
-Amsterdam and Monumenten en Archeologie (MA), location: The Netherlands, start_date: 2014.0,
-end_date: '2017', notes_duration: '-', available_data: No direct download, available_for_research: No,
-main_source: https://www.iedereenwetenschapper.be/projects/duik-historisch-amsterdam,
-link_to_data: '-'}
+---
+name: Duik in historisch Amsterdam
+description: 'Citizens describe photos of monuments in Amsterdam so they can be digitalized. '
+category: History
+organization: Stadsarchief Amsterdam and Monumenten en Archeologie (MA)
+location: The Netherlands
+start_date: 2014.0
+end_date: '2017'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.iedereenwetenschapper.be/projects/duik-historisch-amsterdam
+link_to_data: '-'

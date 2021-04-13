@@ -1,6 +1,14 @@
---- {name: Dijken van Polders, description: 'Citizens add unto the already existing
-description of photos with events and people depicted on them. ', category: History,
-organization: Flevolands Archief, location: The Netherlands, start_date: 2020.0, end_date: ongoing,
-notes_duration: '-', available_data: Probably viewable once finished, available_for_research: No,
-main_source: https://velehanden.nl/projecten/bekijk/details/project/hfl_tagging_rijpcollectie,
-link_to_data: '-'}
+---
+name: Dijken van Polders
+description: 'Citizens add unto the already existing description of photos with events
+  and people depicted on them. '
+category: History
+organization: Flevolands Archief
+location: The Netherlands
+start_date: 2020.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Probably viewable once finished
+available_for_research: No
+main_source: https://velehanden.nl/projecten/bekijk/details/project/hfl_tagging_rijpcollectie
+link_to_data: '-'

@@ -1,5 +1,14 @@
---- {name: Kijk Je Rijk(er)!, description: 'Citizens help describe digitalize film
-fragments of Omroep Amersfoort between 1985 and 2011. ', category: History, organization: Archief
-Eemland, location: The Netherlands, start_date: 2015.0, end_date: '2017', notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/gam2,
-link_to_data: https://www.archiefeemland.nl/}
+---
+name: Kijk Je Rijk(er)!
+description: 'Citizens help describe digitalize film fragments of Omroep Amersfoort
+  between 1985 and 2011. '
+category: History
+organization: Archief Eemland
+location: The Netherlands
+start_date: 2015.0
+end_date: '2017'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/gam2
+link_to_data: https://www.archiefeemland.nl/

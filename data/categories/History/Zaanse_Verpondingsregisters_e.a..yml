@@ -1,5 +1,13 @@
---- {name: Zaanse Verpondingsregisters e.a., description: 'Citizens enter in the names
-of landowners in Zaanstad from scans. ', category: History, organization: Gemeentearchief
-Zaanstad, location: The Netherlands, start_date: 2019.0, end_date: ongoing, notes_duration: '-',
-available_data: Probably viewable once finished, available_for_research: No, main_source: https://velehanden.nl/projecten/bekijk/details/project/zaa_index_gaarder,
-link_to_data: '-'}
+---
+name: Zaanse Verpondingsregisters e.a.
+description: 'Citizens enter in the names of landowners in Zaanstad from scans. '
+category: History
+organization: Gemeentearchief Zaanstad
+location: The Netherlands
+start_date: 2019.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Probably viewable once finished
+available_for_research: No
+main_source: https://velehanden.nl/projecten/bekijk/details/project/zaa_index_gaarder
+link_to_data: '-'

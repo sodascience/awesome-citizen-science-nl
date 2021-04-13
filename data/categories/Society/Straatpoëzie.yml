@@ -1,6 +1,15 @@
---- {name: Straatpoëzie, description: 'Citizens report streetpoetry, poetry that is
-placed out in the open and can be read by anyone. ', category: Society, organization: Utrecht
-University and the Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO),
-location: The Netherlands, start_date: 2017.0, end_date: ongoing, notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://straatpoezie.nl/,
-link_to_data: https://straatpoezie.nl/}
+---
+name: Straatpoëzie
+description: 'Citizens report streetpoetry, poetry that is placed out in the open
+  and can be read by anyone. '
+category: Society
+organization: Utrecht University and the Nederlandse Organisatie voor Wetenschappelijk
+  Onderzoek (NWO)
+location: The Netherlands
+start_date: 2017.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://straatpoezie.nl/
+link_to_data: https://straatpoezie.nl/

@@ -1,5 +1,14 @@
---- {name: EyeOnWater, description: 'Citizens help classify rivers, lakes, coastal
-waters, seas and oceans based on their color with the help of an app.', category: Environment,
-organization: NIOZ and VU Amsterdam, location: The Netherlands / Worldwide, start_date: 2016.0,
-end_date: ongoing, notes_duration: '-', available_data: Viewable, available_for_research: Yes,
-main_source: https://www.eyeonwater.org/about-us, link_to_data: https://www.eyeonwater.org/search/}
+---
+name: EyeOnWater
+description: Citizens help classify rivers, lakes, coastal waters, seas and oceans
+  based on their color with the help of an app.
+category: Environment
+organization: NIOZ and VU Amsterdam
+location: The Netherlands / Worldwide
+start_date: 2016.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.eyeonwater.org/about-us
+link_to_data: https://www.eyeonwater.org/search/

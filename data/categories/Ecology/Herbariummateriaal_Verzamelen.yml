@@ -1,8 +1,16 @@
---- {name: Herbariummateriaal Verzamelen, description: 'Citizens collect samples of
-plants that are either rare, believed to have gone extinct in the Netherlands, plants
-with flowers or fruits that they are unable to identify or they want to argue a species
-can better be split into multiple species. After collecting the sample, it is send
-to a predetermined address. ', category: Ecology, organization: FLORON and Naturalis,
-location: The Netherlands, start_date: 2013.0, end_date: ongoing, notes_duration: '-',
-available_data: No direct download, available_for_research: No, main_source: https://www.floron.nl/meedoen/herbariummateriaal,
-link_to_data: '-'}
+---
+name: Herbariummateriaal Verzamelen
+description: 'Citizens collect samples of plants that are either rare, believed to
+  have gone extinct in the Netherlands, plants with flowers or fruits that they are
+  unable to identify or they want to argue a species can better be split into multiple
+  species. After collecting the sample, it is send to a predetermined address. '
+category: Ecology
+organization: FLORON and Naturalis
+location: The Netherlands
+start_date: 2013.0
+end_date: ongoing
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.floron.nl/meedoen/herbariummateriaal
+link_to_data: '-'

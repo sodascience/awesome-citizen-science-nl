@@ -1,6 +1,15 @@
---- {name: Kijk! Een gezonde wijk, description: Citizens install an app to report
-on opportunities to sport and play in their neighborhood, category: Society, organization: 'Hogeschool
-van Amsterdam, RIVM, Gemeente Amsterdam Nieuw-West, Huis van de Wijk, EigenWijks,
-GGD Amsterdam', location: Slotermeer, start_date: 2017.0, end_date: '2017', notes_duration: '-',
-available_data: No direct download, available_for_research: No, main_source: http://www.kijkeengezondewijk.nl/#/info,
-link_to_data: '-'}
+---
+name: Kijk! Een gezonde wijk
+description: Citizens install an app to report on opportunities to sport and play
+  in their neighborhood
+category: Society
+organization: Hogeschool van Amsterdam, RIVM, Gemeente Amsterdam Nieuw-West, Huis
+  van de Wijk, EigenWijks, GGD Amsterdam
+location: Slotermeer
+start_date: 2017.0
+end_date: '2017'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: http://www.kijkeengezondewijk.nl/#/info
+link_to_data: '-'

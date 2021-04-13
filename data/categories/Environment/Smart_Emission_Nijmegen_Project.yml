@@ -1,6 +1,15 @@
---- {name: Smart Emission Nijmegen Project, description: 'Citizens in Nijmegen place
-sensors that measure the air quality, the amount of noise, vibrations en meteorological
-indicators. ', category: Environment, organization: 'Radboud University, gemeente
-Nijmegen, Geonovum, Intemo, CityGIS and the RIVM', location: Nijmegen, start_date: 2015.0,
-end_date: ongoing, notes_duration: '-', available_data: Viewable, available_for_research: Yes,
-main_source: https://data.smartemission.nl/home, link_to_data: https://data.smartemission.nl/data}
+---
+name: Smart Emission Nijmegen Project
+description: 'Citizens in Nijmegen place sensors that measure the air quality, the
+  amount of noise, vibrations en meteorological indicators. '
+category: Environment
+organization: Radboud University, gemeente Nijmegen, Geonovum, Intemo, CityGIS and
+  the RIVM
+location: Nijmegen
+start_date: 2015.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://data.smartemission.nl/home
+link_to_data: https://data.smartemission.nl/data

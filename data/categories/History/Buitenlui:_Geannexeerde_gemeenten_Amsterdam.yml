@@ -1,6 +1,14 @@
---- {name: 'Buitenlui: Geannexeerde gemeenten Amsterdam', description: Citizens help
-index scans of population registers from municapalities that were annexed to Amsterdam
-between 1830 and 1921., category: History, organization: Stadsarchief Amsterdam, location: The
-Netherlands, start_date: 2017.0, end_date: '2019', notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_annex_gem,
-link_to_data: https://archief.amsterdam/uitleg/indexen/67-bevolkingsregister-geannexeerde-gemeenten-1830-1921}
+---
+name: 'Buitenlui: Geannexeerde gemeenten Amsterdam'
+description: Citizens help index scans of population registers from municapalities
+  that were annexed to Amsterdam between 1830 and 1921.
+category: History
+organization: Stadsarchief Amsterdam
+location: The Netherlands
+start_date: 2017.0
+end_date: '2019'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_annex_gem
+link_to_data: https://archief.amsterdam/uitleg/indexen/67-bevolkingsregister-geannexeerde-gemeenten-1830-1921

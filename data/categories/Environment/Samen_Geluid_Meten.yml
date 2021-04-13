@@ -1,5 +1,13 @@
---- {name: Samen Geluid Meten, description: 'Citizens place sensors that measure the
-amount of noise. ', category: Environment, organization: RIVM, location: The Netherlands,
-start_date: 2021.0, end_date: ongoing, notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-geluid-meten,
-link_to_data: https://samenmeten.rivm.nl/dataportaal/}
+---
+name: Samen Geluid Meten
+description: 'Citizens place sensors that measure the amount of noise. '
+category: Environment
+organization: RIVM
+location: The Netherlands
+start_date: 2021.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-geluid-meten
+link_to_data: https://samenmeten.rivm.nl/dataportaal/

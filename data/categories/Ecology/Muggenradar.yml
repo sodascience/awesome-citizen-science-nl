@@ -1,5 +1,14 @@
---- {name: Muggenradar, description: 'Citizens report how much trouble they experience
-from mosquitoes (none, a little, much, very much). ', category: Ecology, organization: Wageningen
-University & Research, location: The Netherlands, start_date: 2016.0, end_date: ongoing,
-notes_duration: 1 observation in 2009 and 2014, available_data: Viewable, available_for_research: Yes,
-main_source: https://www.naturetoday.com/intl/nl/observations/mosquito-radar, link_to_data: https://www.naturetoday.com/intl/nl/observations/mosquito-radar}
+---
+name: Muggenradar
+description: 'Citizens report how much trouble they experience from mosquitoes (none,
+  a little, much, very much). '
+category: Ecology
+organization: Wageningen University & Research
+location: The Netherlands
+start_date: 2016.0
+end_date: ongoing
+notes_duration: 1 observation in 2009 and 2014
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.naturetoday.com/intl/nl/observations/mosquito-radar
+link_to_data: https://www.naturetoday.com/intl/nl/observations/mosquito-radar

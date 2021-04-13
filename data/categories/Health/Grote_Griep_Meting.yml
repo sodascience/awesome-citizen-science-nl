@@ -1,7 +1,14 @@
---- {name: Grote Griep Meting, description: 'Citizens report when they or someone
-they know gets a cold or the flu. ', category: Health, organization: 'Kennislink,
-Natuurwetenschap&Techniek, NIBI, CWI, RIVM, de Digitale School, Kennisnet, Nijgh Versluys,
-NVON and NIVEL', location: The Netherlands and Belgium, start_date: 2003.0, end_date: '2017',
-notes_duration: '-', available_data: No direct download, available_for_research: No,
-main_source: https://www.nemokennislink.nl/publicaties/doe-mee-aan-de-grote-griepmeting/,
-link_to_data: '-'}
+---
+name: Grote Griep Meting
+description: 'Citizens report when they or someone they know gets a cold or the flu. '
+category: Health
+organization: Kennislink, Natuurwetenschap&Techniek, NIBI, CWI, RIVM, de Digitale
+  School, Kennisnet, Nijgh Versluys, NVON and NIVEL
+location: The Netherlands and Belgium
+start_date: 2003.0
+end_date: '2017'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.nemokennislink.nl/publicaties/doe-mee-aan-de-grote-griepmeting/
+link_to_data: '-'

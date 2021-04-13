@@ -1,5 +1,13 @@
---- {name: Vele Ajacieden, description: Citizens describe photos in the archives of
-Ajax., category: History, organization: Ajax Archief, location: The Netherlands, start_date: 2014.0,
-end_date: '2016', notes_duration: '-', available_data: Viewable, available_for_research: Yes,
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/afc_tagging,
-link_to_data: https://archief.ajax.nl/}
+---
+name: Vele Ajacieden
+description: Citizens describe photos in the archives of Ajax.
+category: History
+organization: Ajax Archief
+location: The Netherlands
+start_date: 2014.0
+end_date: '2016'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/afc_tagging
+link_to_data: https://archief.ajax.nl/

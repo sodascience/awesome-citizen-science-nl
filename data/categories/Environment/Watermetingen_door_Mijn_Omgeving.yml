@@ -1,6 +1,14 @@
---- {name: Watermetingen door Mijn Omgeving, description: 'Citizens buy cheap sensors
-that measure the electrical conductivity of the water all day long. ', category: Environment,
-organization: Mijn Omgeving and the RIVM, location: The Netherlands, start_date: 2019.0,
-end_date: ongoing, notes_duration: '-', available_data: Viewable, available_for_research: Yes,
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/watermetingen-door-mijn-omgeving,
-link_to_data: https://grafana.sensemakersams.org/d/m2HAkciWk/mijn-omgeving?orgId=1}
+---
+name: Watermetingen door Mijn Omgeving
+description: 'Citizens buy cheap sensors that measure the electrical conductivity
+  of the water all day long. '
+category: Environment
+organization: Mijn Omgeving and the RIVM
+location: The Netherlands
+start_date: 2019.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/watermetingen-door-mijn-omgeving
+link_to_data: https://grafana.sensemakersams.org/d/m2HAkciWk/mijn-omgeving?orgId=1

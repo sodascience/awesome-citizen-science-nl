@@ -1,6 +1,14 @@
---- {name: Bevolkingsregisters gemeentearchief Steenwijkerland 1826 - 1939, description: Citizens
-help index scans of population registers from Steenwijkerland between 1826 and 1939.,
-category: History, organization: Gemeentearchief Steenwijkerland, location: The Netherlands,
-start_date: 2015.0, end_date: '2016', notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/swl_bvr,
-link_to_data: https://www.archieven.nl/mi/1648/?mivast=1648&mizig=0&miadt=1648&miview=lst&mizk_alle=trefwoord:Bevolkingsregistratiehttps://www.archieven.nl/mi/1648/?mivast=1648&mizig=0&miadt=1648&miview=lst&mizk_alle=trefwoord:Bevolkingsregistratie}
+---
+name: Bevolkingsregisters gemeentearchief Steenwijkerland 1826 - 1939
+description: Citizens help index scans of population registers from Steenwijkerland
+  between 1826 and 1939.
+category: History
+organization: Gemeentearchief Steenwijkerland
+location: The Netherlands
+start_date: 2015.0
+end_date: '2016'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/swl_bvr
+link_to_data: https://www.archieven.nl/mi/1648/?mivast=1648&mizig=0&miadt=1648&miview=lst&mizk_alle=trefwoord:Bevolkingsregistratiehttps://www.archieven.nl/mi/1648/?mivast=1648&mizig=0&miadt=1648&miview=lst&mizk_alle=trefwoord:Bevolkingsregistratie

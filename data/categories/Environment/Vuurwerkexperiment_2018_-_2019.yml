@@ -1,5 +1,13 @@
---- {name: Vuurwerkexperiment 2018 - 2019, description: Citizens help measure fine
-dust in the air during New Year's Eve., category: Environment, organization: RIVM,
-location: The Netherlands, start_date: 2018.0, end_date: '2019', notes_duration: '-',
-available_data: Viewable, available_for_research: Yes, main_source: https://www.samenmetenaanluchtkwaliteit.nl/vuurwerkexperiment-2018-2019,
-link_to_data: https://samenmeten.rivm.nl/dataportaal/}
+---
+name: Vuurwerkexperiment 2018 - 2019
+description: Citizens help measure fine dust in the air during New Year's Eve.
+category: Environment
+organization: RIVM
+location: The Netherlands
+start_date: 2018.0
+end_date: '2019'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.samenmetenaanluchtkwaliteit.nl/vuurwerkexperiment-2018-2019
+link_to_data: https://samenmeten.rivm.nl/dataportaal/

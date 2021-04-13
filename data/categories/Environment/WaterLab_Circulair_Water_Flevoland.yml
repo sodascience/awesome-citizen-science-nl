@@ -1,6 +1,13 @@
---- {name: WaterLab Circulair Water Flevoland, description: 'Citizens test circular
-water solutions in seven situations in practice. ', category: Environment, organization: 'Gemeente
-Almere, the province of Flevoland, Vitens and Waterschap Zuiderzeeland ', location: Flevoland,
-start_date: 2021.0, end_date: ongoing, notes_duration: '-', available_data: No direct
-download, available_for_research: No, main_source: https://www.flevoland.nl/dossiers/waterlab-circulair-water,
-link_to_data: '-'}
+---
+name: WaterLab Circulair Water Flevoland
+description: 'Citizens test circular water solutions in seven situations in practice. '
+category: Environment
+organization: 'Gemeente Almere, the province of Flevoland, Vitens and Waterschap Zuiderzeeland '
+location: Flevoland
+start_date: 2021.0
+end_date: ongoing
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.flevoland.nl/dossiers/waterlab-circulair-water
+link_to_data: '-'

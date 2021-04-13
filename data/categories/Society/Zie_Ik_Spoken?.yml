@@ -1,9 +1,18 @@
---- {name: Zie Ik Spoken?, description: 'Citizens first complete an extensive questionnaire
-about who they are, what their sleeping habits are and whether they sometimes feel
-like seeing, hearing, feeling or smelling things that are not there. Then they play
-a game where they have to press a certain key when they see a specific item of clothing
-or hear a specific word in a movie. Finally, they receive a few questions about substance
-use (drugs and alcohol) and the project concludes with a hearing test.', category: Society,
-organization: UMC Utrecht, location: The Netherlands, start_date: 2016.0, end_date: '2016',
-notes_duration: '-', available_data: No direct download, available_for_research: No,
-main_source: https://www.nemokennislink.nl/publicaties/zie-ik-spoken/, link_to_data: '-'}
+---
+name: Zie Ik Spoken?
+description: Citizens first complete an extensive questionnaire about who they are,
+  what their sleeping habits are and whether they sometimes feel like seeing, hearing,
+  feeling or smelling things that are not there. Then they play a game where they
+  have to press a certain key when they see a specific item of clothing or hear a
+  specific word in a movie. Finally, they receive a few questions about substance
+  use (drugs and alcohol) and the project concludes with a hearing test.
+category: Society
+organization: UMC Utrecht
+location: The Netherlands
+start_date: 2016.0
+end_date: '2016'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.nemokennislink.nl/publicaties/zie-ik-spoken/
+link_to_data: '-'

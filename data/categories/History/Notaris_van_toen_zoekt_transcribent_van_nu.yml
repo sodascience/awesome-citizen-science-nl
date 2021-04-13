@@ -1,6 +1,14 @@
---- {name: Notaris van toen zoekt transcribent van nu, description: 'Citizens transcribe
-notary deeds from 19th and 20th century notaries from Tilburg. ', category: History,
-organization: Regionaal Archief Tilbrug, location: The Netherlands, start_date: 2017.0,
-end_date: ongoing, notes_duration: '-', available_data: Probably viewable once finished,
-available_for_research: No, main_source: https://velehanden.nl/projecten/bekijk/details/page/2/project/tlb_index,
-link_to_data: '-'}
+---
+name: Notaris van toen zoekt transcribent van nu
+description: 'Citizens transcribe notary deeds from 19th and 20th century notaries
+  from Tilburg. '
+category: History
+organization: Regionaal Archief Tilbrug
+location: The Netherlands
+start_date: 2017.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Probably viewable once finished
+available_for_research: No
+main_source: https://velehanden.nl/projecten/bekijk/details/page/2/project/tlb_index
+link_to_data: '-'

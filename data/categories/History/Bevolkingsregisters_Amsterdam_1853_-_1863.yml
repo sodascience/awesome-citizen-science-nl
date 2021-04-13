@@ -1,6 +1,14 @@
---- {name: Bevolkingsregisters Amsterdam 1853 - 1863, description: Citizens help index
-scans of population registers from Amsterdam between 1853 and 1863., category: History,
-organization: Stadsarchief Amsterdam, location: The Netherlands, start_date: 2015.0,
-end_date: '2017', notes_duration: '-', available_data: Viewable, available_for_research: Yes,
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_13442,
-link_to_data: https://archief.amsterdam/indexen/persons}
+---
+name: Bevolkingsregisters Amsterdam 1853 - 1863
+description: Citizens help index scans of population registers from Amsterdam between
+  1853 and 1863.
+category: History
+organization: Stadsarchief Amsterdam
+location: The Netherlands
+start_date: 2015.0
+end_date: '2017'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_13442
+link_to_data: https://archief.amsterdam/indexen/persons

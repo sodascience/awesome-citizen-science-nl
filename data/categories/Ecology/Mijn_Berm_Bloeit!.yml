@@ -1,6 +1,15 @@
---- {name: Mijn Berm Bloeit!, description: 'Citizens choose between a predetermined
-period a road verge. Then, they register one hundred meter of road verge and stand
-still every ten meters to note the nectar plants that are within one meter of themselves.',
-category: Ecology, organization: FLORON and Vlinderstichting, location: The Netherlands,
-start_date: 2017.0, end_date: recurring, notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: https://www.floron.nl/bermen, link_to_data: https://www.ndff.nl/overdendff/data/}
+---
+name: Mijn Berm Bloeit!
+description: Citizens choose between a predetermined period a road verge. Then, they
+  register one hundred meter of road verge and stand still every ten meters to note
+  the nectar plants that are within one meter of themselves.
+category: Ecology
+organization: FLORON and Vlinderstichting
+location: The Netherlands
+start_date: 2017.0
+end_date: recurring
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.floron.nl/bermen
+link_to_data: https://www.ndff.nl/overdendff/data/

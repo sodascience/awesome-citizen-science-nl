@@ -1,5 +1,14 @@
---- {name: Dagboeken van schrijvers, description: 'Citizens transcribe diaries of
-Lodewijk van Deyssel, Henri van Booven and J. Greshoff.', category: History, organization: Literatuurmuseum,
-location: The Netherlands, start_date: 2017.0, end_date: '2019', notes_duration: '-',
-available_data: Partly viewable, available_for_research: Yes, main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/lkm_index,
-link_to_data: https://literatuurmuseum.nl/}
+---
+name: Dagboeken van schrijvers
+description: Citizens transcribe diaries of Lodewijk van Deyssel, Henri van Booven
+  and J. Greshoff.
+category: History
+organization: Literatuurmuseum
+location: The Netherlands
+start_date: 2017.0
+end_date: '2019'
+notes_duration: '-'
+available_data: Partly viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/lkm_index
+link_to_data: https://literatuurmuseum.nl/

@@ -1,8 +1,16 @@
---- {name: Witte Gebieden, description: 'Citizens (mostly florists) reserve a “Wit
-Gebied” beforehand. These are areas where florists are not as active, so there are
-less observations compared to other areas. Florists then visit such an area for a
-maximum of one day and fill in lists of what they found in the area that covers at
-least three “kilometerhokken”. ', category: Ecology, organization: FLORON, location: The
-Netherlands, start_date: 2016.0, end_date: ongoing, notes_duration: '-', available_data: Viewable,
-available_for_research: Yes, main_source: 'https://www.floron.nl/meedoen/witte-gebieden ',
-link_to_data: https://www.ndff.nl/overdendff/data/}
+---
+name: Witte Gebieden
+description: 'Citizens (mostly florists) reserve a “Wit Gebied” beforehand. These
+  are areas where florists are not as active, so there are less observations compared
+  to other areas. Florists then visit such an area for a maximum of one day and fill
+  in lists of what they found in the area that covers at least three “kilometerhokken”. '
+category: Ecology
+organization: FLORON
+location: The Netherlands
+start_date: 2016.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: 'https://www.floron.nl/meedoen/witte-gebieden '
+link_to_data: https://www.ndff.nl/overdendff/data/

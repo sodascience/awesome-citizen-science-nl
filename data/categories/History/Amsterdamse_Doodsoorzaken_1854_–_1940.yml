@@ -1,6 +1,14 @@
---- {name: Amsterdamse Doodsoorzaken 1854 – 1940, description: Citizens register the
-information on scans of cards regarding cause of death in Amsterdam betweeen 1854
-and 1940., category: History, organization: Radboud University, location: The Netherlands,
-start_date: 2016.0, end_date: '2020', notes_duration: '-', available_data: No direct
-download, available_for_research: No, main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_run,
-link_to_data: '-'}
+---
+name: Amsterdamse Doodsoorzaken 1854 – 1940
+description: Citizens register the information on scans of cards regarding cause of
+  death in Amsterdam betweeen 1854 and 1940.
+category: History
+organization: Radboud University
+location: The Netherlands
+start_date: 2016.0
+end_date: '2020'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_run
+link_to_data: '-'

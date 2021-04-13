@@ -1,6 +1,14 @@
---- {name: De bevolkingsregisters Voorne-Putten, description: 'Citizens help index
-scans of population registers of the population of Voorne-Putten between 1826 and
-1939. ', category: History, organization: Streekarchief Voorne-Putten, location: The
-Netherlands, start_date: 2015.0, end_date: '2017', notes_duration: '-', available_data: Probably
-viewable, available_for_research: '-', main_source: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/picvh_vpr,
-link_to_data: '-'}
+---
+name: De bevolkingsregisters Voorne-Putten
+description: 'Citizens help index scans of population registers of the population
+  of Voorne-Putten between 1826 and 1939. '
+category: History
+organization: Streekarchief Voorne-Putten
+location: The Netherlands
+start_date: 2015.0
+end_date: '2017'
+notes_duration: '-'
+available_data: Probably viewable
+available_for_research: '-'
+main_source: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/picvh_vpr
+link_to_data: '-'
