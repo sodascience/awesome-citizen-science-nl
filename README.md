@@ -2,20 +2,26 @@
 
 A curated list of awesome Citizen Science projects from the Netherlands with additional information such as duration, organizations, and links to resources.
 
+:white_check_mark: Link is working
+
+:x: Link is not working
+
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 <!---->
 
-- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
-  - [Archaeology](#Archaeology)
-  - [Cities](#Cities)
-  - [Ecology](#Ecology)
-  - [Environment](#Environment)
-  - [Health](#Health)
-  - [History](#History)
-  - [Science](#Science)
-  - [Society](#Society)
-  - [Uncategorized](#Uncategorized)
+- [Awesome Citizen Science NL](#awesome-citizen-science-nl)
+  - [Projects](#projects)
+    - [Archaeology](#archaeology)
+    - [Cities](#cities)
+    - [Ecology](#ecology)
+    - [Environment](#environment)
+    - [Health](#health)
+    - [History](#history)
+    - [Science](#science)
+    - [Society](#society)
+    - [Uncategorized](#uncategorized)
+  - [Contact](#contact)
 
 <!---->
 
