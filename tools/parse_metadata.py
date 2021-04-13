@@ -90,7 +90,7 @@ def read_yml_files():
 
 def check_url(url, name):
     try:
-        response = requests.head(url, allow_redirects=False, timeout=5)
+        response = requests.head(url, allow_redirects=False, timeout=20)
         if response.status_code in [301, 302]:
             return name, url, f'Redirects to {response.headers["Location"]}'
     except Exception as e:
@@ -98,7 +98,7 @@ def check_url(url, name):
 
 
 def check_urls(url_list):
-    with ProcessPoolExecutor(max_workers=30) as executor:
+    with ProcessPoolExecutor(max_workers=25) as executor:
         futures = [executor.submit(check_url, **file) for file in url_list]
         responses = [future.result() for future in futures]
 
