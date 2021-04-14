@@ -8,16 +8,18 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 <!---->
 
-- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
-  - [Archaeology](#Archaeology)
-  - [Cities](#Cities)
-  - [Ecology](#Ecology)
-  - [Environment](#Environment)
-  - [Health](#Health)
-  - [History](#History)
-  - [Science](#Science)
-  - [Society](#Society)
-  - [Uncategorized](#Uncategorized)
+- [Awesome Citizen Science NL](#awesome-citizen-science-nl)
+  - [Projects](#projects)
+    - [Archaeology](#archaeology)
+    - [Cities](#cities)
+    - [Ecology](#ecology)
+    - [Environment](#environment)
+    - [Health](#health)
+    - [History](#history)
+    - [Science](#science)
+    - [Society](#society)
+    - [Uncategorized](#uncategorized)
+  - [Contact](#contact)
 
 <!---->
 
@@ -281,22 +283,22 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of “Kilometerhokken Inventariseren”. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `ongoing`)
 <!---->
 
-## Contributing
+## Guidelines
 
-Your contributions are always welcome!
-
-- Add one project per Pull Request.
-  - Make sure the PR title is in the format of `Add project-name`.
-  - Write down the reason why the project is awesome.
-- For each project, please add the following:
-  - Add the main link of the project.
-  - Add a concise and **short** description of the project.
-  - Add the category to which the project belongs, if the category is not present, add a new one. Please try not to add a category if there is already one that might fit.
-- Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
-- Don't mention `Citizen Science` in the description as it's implied.
-- Check your spelling and grammar.
-- Remove any trailing whitespace.
-
+* Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
+* Follow [`How to contribute to a new data entry`](CONTRIBUTING.md)
+* Add one project per Pull Request.
+  * Make sure the PR title is in the format of `Add project-name`.
+  * Don't mention `Citizen Science` in the description as it's implied.
+  * Write down the reason why the project is awesome.
+* For each project, use the template you can find under PULL_REQUEST_TEMPLATE.yml:
+* Each project should have **at least** the following information:
+  * Name;
+  * Concise and **short** description of the project;
+  * Category to which the project belongs, if the category is not present, add a new one. Please try not to add a category if there is already one that might fit;
+  * Main link where more information is present.
+* Check your spelling and grammar.
+* Remove any trailing whitespace.
 <!---->
 
 ## Contact
