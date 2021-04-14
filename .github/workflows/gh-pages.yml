@@ -11,14 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
         with:
-          submodules: "recursive"
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-      - name: Setup Python
-        uses: actions/setup-python@v1
-        with:
-          python-version: "3.8"
-          architecture: "x64"
+          python-version: 3.x
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip       # install pip
