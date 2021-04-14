@@ -83,14 +83,13 @@ def read_yml_files():
         "name", "url", "error"])
     problems_url["icon"] = NOT_OK
     df = df.merge(problems_url, how="left", on="name")
-    #df[['icon']] = df[['icon']].fillna(value=OK)
 
     return df
 
 
 def check_url(url, name):
     try:
-        response = requests.head(url, allow_redirects=False, timeout=20)
+        response = requests.head(url, allow_redirects=True, timeout=25)
         if response.status_code in [301, 302]:
             return name, url, f'Redirects to {response.headers["Location"]}'
     except Exception as e:
@@ -98,7 +97,7 @@ def check_url(url, name):
 
 
 def check_urls(url_list):
-    with ProcessPoolExecutor(max_workers=25) as executor:
+    with ProcessPoolExecutor(max_workers=20) as executor:
         futures = [executor.submit(check_url, **file) for file in url_list]
         responses = [future.result() for future in futures]
 
@@ -127,8 +126,10 @@ def create_readme(df):
         toc = "\n\n- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)\n"
         # Add categories
         for cat in range(len(categories)):
-            toc = toc + \
-                f"  - [{categories[cat]}](#{categories[cat]})" + "\n"
+            toc += f"  - [{categories[cat]}](#{categories[cat]})" + "\n"
+        # Add contributing and contact to TOC
+        toc += "- [Contributing guidelines](#contributing-guidelines)\n"
+        toc += "- [Contacts](#contacts)\n"
 
     # Add first part and toc to README
     readme = text_intro + "<!---->" + toc + "\n<!---->\n"
@@ -156,7 +157,7 @@ def create_readme(df):
         list_blocks = list_blocks + block + list_items
 
     # Add to categories to README.md
-    readme += list_blocks
+    readme += list_blocks + "\n"
 
     # Add contribution and contacts
     readme += '<!---->' + text_contributing
