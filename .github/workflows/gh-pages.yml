@@ -18,5 +18,7 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip       # install pip
           python3 -m pip install -r requirements.txt # install requirements.txt
+      - name: Link README and index.html
+        run: ln -sf $(CURDIR)/README.md $(CURDIR)/docs/index.md
       - name: Build site
         run: mkdocs gh-deploy --force
