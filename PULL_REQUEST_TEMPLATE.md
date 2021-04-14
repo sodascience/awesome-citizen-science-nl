@@ -1,14 +1,13 @@
-## What is this Citzen Science project?
-
-Provide the name of the project.
-Describe the project.
-Provide the start and ending date of the project.
-Provide additional links.
-
-## What's the difference between this project and similar ones?
-
-Enumerate comparisons.
-
---
-
-Anyone who agrees with this pull request could submit an *Approve* review to it.
+---
+name:
+description:
+category:
+organization:
+location:
+start_date:
+end_date:
+notes_duration:
+available_data:
+available_for_research:
+main_source:
+link_to_data:
