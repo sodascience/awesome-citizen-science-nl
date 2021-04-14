@@ -2,24 +2,26 @@
 
 A curated list of awesome Citizen Science projects from the Netherlands with additional information such as duration, organizations, and links to resources.
 
+You can easily contribute to Awesome Citizen Science Projects in the Netherlands dataset by following [our contributing guide](CONTRIBUTING.md).
+
 :x: Link is not working
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 <!---->
 
-- [Awesome Citizen Science NL](#awesome-citizen-science-nl)
-  - [Projects](#projects)
-    - [Archaeology](#archaeology)
-    - [Cities](#cities)
-    - [Ecology](#ecology)
-    - [Environment](#environment)
-    - [Health](#health)
-    - [History](#history)
-    - [Science](#science)
-    - [Society](#society)
-    - [Uncategorized](#uncategorized)
-  - [Contact](#contact)
+- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
+  - [Archaeology](#Archaeology)
+  - [Cities](#Cities)
+  - [Ecology](#Ecology)
+  - [Environment](#Environment)
+  - [Health](#Health)
+  - [History](#History)
+  - [Science](#Science)
+  - [Society](#Society)
+  - [Uncategorized](#Uncategorized)
+- [Contributing guidelines](#contributing-guidelines)
+- [Contacts](#contacts)
 
 <!---->
 
@@ -43,7 +45,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - :x:  [Plonzenweekend](https://www.tuintelling.nl/data/result/evenement/EPLONS) - Citizens count the number of splashes they hear when passing the pond in their backyard or another pond on a walk. If they are able to get close enough to see a frog, they can also count the frog species.  (`2008` - `recurring`)
 - [Special Project Muggenradar](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=27308) - Citizens send researchers the mosquitos they have killed. (`2021` - `ongoing`)
 - [Zomerganzentelling](https://www.jagersvereniging.nl/downloads/bestuurdersdocumenten/telprotocol-zomerganzentelling/) - Citizens count summer geese and report on their number and species.  (`2005` - `recurring`)
-- :x:  [Wantsen](https://www.eis-nederland.nl/wantsenproject) - Citizens make photos of the bugs they encounter and load them unto waarneming.nl.  (`2017` - `2018`)
+- [Wantsen](https://www.eis-nederland.nl/wantsenproject) - Citizens make photos of the bugs they encounter and load them unto waarneming.nl.  (`2017` - `2018`)
 - :x:  [Libellentelling](https://www.tuintelling.nl/evenementen/libellentelling) - Citizens register how many and what kinds of dragonflies they have seen on two predetermined days. They also register whether they saw any dead dragonflies. (`1998` - `recurring`)
 - [Nationale Waterdiertjes Telling](https://www.waterdiertjes.nl/#/info) - Citizens report which and how many animals live in the water in their nearby ditches. They also report the type and quality of the water. (`2018` - `recurring`)
 - [Paardenbloemen](https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---paardenbloemen) - Citizens collect blowballs of dandelions, and report how long and how wide the tails are. Then they go inside, select five achenes which they let go five times each and report how long it takes them to land on the ground.  (`2019` - `2019`)
@@ -52,7 +54,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - :x:  [Kikkerdriltelling](https://www.tuintelling.nl/evenementen/kikkerdriltelling) - Citizens count the number of clumps of spawn in the ponds in their backyards during a predetermined period of time.  (`2018` - `recurring`)
 - [Stoepplantjes](https://www.hortusleiden.nl/onderwijs/stoepplantjes-1) - Citizens report where and what plants/weeds they found on their sidewalks.  (`2020` - `ongoing`)
 - :x:  [Boerenzwaluw - nestentelling](https://www.tuintelling.nl/evenementen ) - Citizens count the number of nests of the barn swallow in their own backyards.  (`2011` - `2019`)
-- :x:  [Mollentelling](https://www.zoogdiervereniging.nl/wat-we-doen/monitoring/jaarrond-tuintelling/mollentelling) - Citizens count on predetermined days the number of moles or molehills they see in their surroundings. (`2019` - `recurring`)
+- [Mollentelling](https://www.zoogdiervereniging.nl/wat-we-doen/monitoring/jaarrond-tuintelling/mollentelling) - Citizens count on predetermined days the number of moles or molehills they see in their surroundings. (`2019` - `recurring`)
 - [Snapshot Hoge Veluwe](https://www.iedereenwetenschapper.be/projects/bestudeer-wilde-dieren-de-hoge-veluwe) - Citizens count the number of animals and species present on a photo.  (`2018` - `ongoing`)
 - [Constant Effort Site Project](https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/ces-het-constant-effort-site-project) - Citizens help ring birds. What is different for this project is that it is all very standardized: citizens go every ten days, for the same amount of time and place the nets on the same places.  (`1994` - `ongoing`)
 - [Nationale Tuinvogeltelling](https://www.vogelbescherming.nl/tuinvogeltelling) - Citizens count on one of the predetermined days for 30 minutes the number of birds in their backyards and also report on their species.  (`2001` - `recurring`)
@@ -87,7 +89,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Tuinvlindertelling](https://www.vlinderstichting.nl/vlindermee/) - Citizens count on one of the predetermined days for 15 minutes the number of butterflies in their backyards and also report on their species.  (`2009` - `recurring`)
 - [Koolmezen](https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---koolmezen) - Citizens hang two fat balls outside during the winter, one with a weird object underneath and the other without one. Then they sit down for half an hour and count how many great tits (koolmezen) come to the ball with the weird object and how many come to the ball without it.  (`2019` - `2019`)
 - [RAS: het "Retrapping Adults for Survival" project](https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/ras-het-retrapping-adults-survival-project) - Citizens focus on one bird species they decide on themselves and then try the trap birds in nets to ring them. When a bird was also ringed last year, this is noted. Together, this gives insights in the survival of birds.  (`1998` - `ongoing`)
-- :x:  [Leuke Vliegen](https://www.eis-nederland.nl/actueel/projecten/leuke-vliegen) - Citizens count the number and species of flies they see in their backyard by making photos of them. The goal is to collect information on five families of flies, to see how many there are and where. This information is used to determine which species are well and which are not.  (`2012` - `2014`)
+- [Leuke Vliegen](https://www.eis-nederland.nl/actueel/projecten/leuke-vliegen) - Citizens count the number and species of flies they see in their backyard by making photos of them. The goal is to collect information on five families of flies, to see how many there are and where. This information is used to determine which species are well and which are not.  (`2012` - `2014`)
 - [Fishing in the Past](https://www.zooniverse.org/projects/anneoverduin/fishing-in-the-past/about/research) - Citizens identify fish species on paintings to gain information on biodiversity and commercial use of fish species throughout history.  (`2020` - `2020`)
 - [Staat Deze Plant Er Nog?](https://www.floron.nl/meedoen/actualisering-groeiplaatsen-bijzondere-soorten) - Citizens search for rare plant species, guided by a map of where they were previously found.  (`2012` - `ongoing`)
 - [Bodemdierendagen](https://bodemdierendagen.nl/) - Citizens count the benthic animals in their backyards, planters and on their roof if they happen to have a so-called green roof. They register to what animal group (out of ten) the benthic animals belong.  (`2015` - `recurring`)
@@ -139,7 +141,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Vuurwerkexperiment 2017/2018](https://www.samenmetenaanluchtkwaliteit.nl/vuurwerkexperiment-20172018) - Citizens help measure fine dust in the air during New Year's Eve. (`2017` - `2018`)
 - [iSPEX](https://www.samenmetenaanluchtkwaliteit.nl/ispex) - Citizens help measure fine dust in the air. (`2012` - `2013`)
 - [AiREAS Eindhoven](https://www.samenmetenaanluchtkwaliteit.nl/aireas-eindhoven) - Citizens set up a project to measure air quality in the city of Eindhoven. (`2013` - `ongoing`)
-- :x:  [Oud & Nieuw 2020 - 2021](https://www.samenmetenaanluchtkwaliteit.nl/oud-nieuw-2020-2021) - Citizens help measure fine dust in the air during New Year's Eve. (`2020` - `2020`)
+- [Oud & Nieuw 2020 - 2021](https://www.samenmetenaanluchtkwaliteit.nl/oud-nieuw-2020-2021) - Citizens help measure fine dust in the air during New Year's Eve. (`2020` - `2020`)
 - [Samen Meten aan Luchtkwaliteit](https://www.samenmetenaanluchtkwaliteit.nl/) - Citizens measure airquality by putting sensors in their backyards.  (`2016` - `ongoing`)
 - [Versheid van Water](https://www.kwrwater.nl/projecten/citizen-science-praktijkpilot-versheid-water/) - Citizens help researchers use the new technique Next Generation Sequencing to determine whether water is a fresh product.  (`2015` - `2015`)
 - [Vuurwerk 2016 - 2017](https://www.samenmetenaanluchtkwaliteit.nl/vuurwerk-2016-2017) - Citizens help measure fine dust in the air during New Year's Eve. (`2016` - `2017`)
@@ -150,7 +152,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Onze Lucht – zelf fijnstof meten in Noord-Nederland](https://www.samenmetenaanluchtkwaliteit.nl/projecten/onze-lucht-zelf-fijnstof-meten-in-noord-nederland) - Citizens build gaugers that measure the amount of fine dust in the air. For every area with the same postal code in Groningen, Friesland or Drenthe, one person can partake in the project. (`2020` - `ongoing`)
 - [Schone Rivieren ](https://www.iedereenwetenschapper.be/projects/word-afvalonderzoeker) - Citizens help researchers by cleaning up rivers and investigating what they find.  (`2015` - `ongoing`)
 - [Hoe gezond is onze lucht?](https://milieudefensie.nl/actueel/eindrapport-hoe-gezond-is-onze-lucht.pdf) - Citizens help measure nitrogen dioxide in the air by placing sensors around place that are important to them, like the local school or the street through which they cycle every day. (`2012` - `2014`)
-- :x:  [Een neus voor luchtkwaliteit](https://www.samenmetenaanluchtkwaliteit.nl/maastricht) - Sensors are placed in places in Maastricht that are chosen by citizens. The sensors measure the local air quality.  (`2016` - `ongoing`)
+- [Een neus voor luchtkwaliteit](https://www.samenmetenaanluchtkwaliteit.nl/maastricht) - Sensors are placed in places in Maastricht that are chosen by citizens. The sensors measure the local air quality.  (`2016` - `ongoing`)
 - [Samen Geluid Meten](https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-geluid-meten) - Citizens place sensors that measure the amount of noise.  (`2021` - `ongoing`)
 - [Boeren en Buren](https://www.rivm.nl/boeren-en-buren) - Citizens place sensors that measure the local air quality and fill in an app regarding the smell.  (`2019` - `2021`)
 
@@ -281,9 +283,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### Uncategorized
 
 - [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of “Kilometerhokken Inventariseren”. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `ongoing`)
+
 <!---->
 
-## Guidelines
+## Contributing guidelines
 
 * Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
 * Follow [`How to contribute to a new data entry`](CONTRIBUTING.md)
@@ -301,7 +304,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 * Remove any trailing whitespace.
 <!---->
 
-## Contact
+## Contacts
 
 This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
