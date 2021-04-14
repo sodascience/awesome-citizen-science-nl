@@ -1,0 +1,15 @@
+---
+name: GrowApp
+description: 'Citizens make pictures of a certain spot in nature, which the app transforms
+  into a time-lapse to capture the change of seasons. The app sheds light on the impact
+  of climate change on nature. '
+category: Ecology
+organization: Wageningen University & Research and GLOBE
+location: Officially worldwide, but most activity is in the Netherlands.
+start_date: 2017.0
+end_date: ongoing
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.naturetoday.com/intl/nl/observations/growapp
+link_to_data: https://www.growapp.today/#/

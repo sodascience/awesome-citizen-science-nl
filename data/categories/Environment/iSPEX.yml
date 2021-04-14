@@ -1,0 +1,13 @@
+---
+name: iSPEX
+description: Citizens help measure fine dust in the air.
+category: Environment
+organization: RIVM, NOVA, SRON and the KNMI
+location: The Netherlands
+start_date: 2012.0
+end_date: '2013'
+notes_duration: '-'
+available_data: No direct download
+available_for_research: No
+main_source: https://www.samenmetenaanluchtkwaliteit.nl/ispex
+link_to_data: '-'

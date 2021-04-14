@@ -1,0 +1,16 @@
+---
+name: Nationale NajaarsVleermuistuintelling
+description: Citizens count on one of the predetermined days the number of bats in
+  their backyards and also report on their species from sunset until they have not
+  seen a bat in over 10 minutes. They also give information on where in their backyard
+  they saw the bats and where they did not see any.
+category: Ecology
+organization: 'Zoogdiervereniging '
+location: The Netherlands
+start_date: 2019.0
+end_date: recurring
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.vleermuis.net/
+link_to_data: https://www.ndff.nl/overdendff/data/

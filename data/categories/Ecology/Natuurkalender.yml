@@ -1,0 +1,16 @@
+---
+name: Natuurkalender
+description: Citizens observe a certain animal species on a location they have chosen
+  themselves and note the first day when they enter a new phenological phase.
+category: Ecology
+organization: Wageningen University & Research, FLORON, RAVON, Sovon Vogelonderzoek
+  Nederland, Stichting voor Duurzame Ontwikkeling, De Vlinderstichting, Vroege Vogels
+  and Zoogdiervereniging
+location: The Netherlands
+start_date: 1868.0
+end_date: recurring
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.naturetoday.com/intl/nl/observations/natuurkalender?utm_source=natuurkalender.nl&utm_medium=redirect&utm_campaign=olddomain
+link_to_data: https://www.ndff.nl/overdendff/data/

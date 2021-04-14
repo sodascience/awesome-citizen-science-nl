@@ -1,0 +1,14 @@
+---
+name: 'Bevolkingsregisters Amsterdam 1874 - 1893 '
+description: Citizens help index scans of population registers from Amsterdam between
+  1874 and 1893.
+category: History
+organization: Stadsarchief Amsterdam
+location: The Netherlands
+start_date: 2012.0
+end_date: '2016'
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_bvr
+link_to_data: https://archief.amsterdam/indexen/persons?f=%7B%22search_i_datum%22:%7B%22v%22:%5B%2218740000%22,%2218939999%22%5D,%22d%22:%221874%20-%201893%22%7D%7D

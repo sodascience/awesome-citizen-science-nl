@@ -12,3 +12,8 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/sodascience/awesome-citizen-science-projects
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list

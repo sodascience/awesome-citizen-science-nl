@@ -1,0 +1,13 @@
+---
+name: Grote Griep & Corona Meting
+description: Continuation of the Grote Griepmeting, now also including corona
+category: Health
+organization: Stichting Citizen Science and Science in Action
+location: The Netherlands and Belgium
+start_date: 2021.0
+end_date: recurring
+notes_duration: '-'
+available_data: Viewable
+available_for_research: Yes
+main_source: https://www.griepencorona.nl/het-project/
+link_to_data: https://www.griepencorona.nl/resultaten/

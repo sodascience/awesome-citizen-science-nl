@@ -1,3 +1,6 @@
 mkdocs==1.1.2
 mkdocs-material==7.1.0
+pymdown-extensions==8.1.1
 pandas==1.2.3
+ruamel.yaml==0.17.4
+requests==2.25.1
