@@ -6,8 +6,6 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 :x: Link is not working
 
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
-
 <!---->
 
 - [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
@@ -308,3 +306,5 @@ This list of open science projects is curated and maintained by the [ODISSEI Soc
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
 <img src="docs/word_colour-l.png" width="250px"></img>
+
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
