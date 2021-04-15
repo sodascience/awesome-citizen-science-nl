@@ -4,7 +4,7 @@ A curated list of awesome Citizen Science projects from the Netherlands with add
 
 You can easily contribute to Awesome Citizen Science Projects in the Netherlands dataset by following [our contributing guide](CONTRIBUTING.md).
 
-:x: Link is not working
+:x: Link to project might be broken
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 

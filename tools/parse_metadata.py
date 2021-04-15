@@ -149,7 +149,7 @@ def create_readme(df):
             except:
                 start_date = "NA"
             if not pd.isna(r['icon']):
-                project = f"- {r['icon']}  [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                project = f"- [{r['name']}]({r['main_source']}) {r['icon']} - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
                 list_items = list_items + project
             else:
                 project = f"- [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
