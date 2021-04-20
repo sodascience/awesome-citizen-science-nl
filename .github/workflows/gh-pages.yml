@@ -2,28 +2,23 @@ name: Build and deploy mkdocs to github pages
 on:
   push:
     branches:
-      - master
+      - main
+  pull_request:
+    branches:
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
         with:
-          submodules: "recursive"
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-      - name: Setup Python
-        uses: actions/setup-python@v1
-        with:
-          python-version: "3.8"
-          architecture: "x64"
+          python-version: 3.x
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip       # install pip
           python3 -m pip install -r requirements.txt # install requirements.txt
+      - name: Link README and index.html
+        run: ln -sf $(CURDIR)/README.md $(CURDIR)/docs/index.md
       - name: Build site
-        run: mkdocs build
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: $
-          publish_dir: ./site
+        run: mkdocs gh-deploy --force

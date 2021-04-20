@@ -4,24 +4,22 @@ A curated list of awesome Citizen Science projects from the Netherlands with add
 
 You can easily contribute to Awesome Citizen Science Projects in the Netherlands dataset by following [our contributing guide](CONTRIBUTING.md).
 
-:x: Link is not working
-
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
+:x: Link to project might be broken
 
 <!---->
 
-- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
-  - [Archaeology](#Archaeology)
-  - [Cities](#Cities)
-  - [Ecology](#Ecology)
-  - [Environment](#Environment)
-  - [Health](#Health)
-  - [History](#History)
-  - [Science](#Science)
-  - [Society](#Society)
-  - [Uncategorized](#Uncategorized)
-- [Contributing guidelines](#contributing-guidelines)
-- [Contacts](#contacts)
+- [Awesome Citizen Science NL](#awesome-citizen-science-nl)
+  - [Projects](#projects)
+    - [Archaeology](#archaeology)
+    - [Cities](#cities)
+    - [Ecology](#ecology)
+    - [Environment](#environment)
+    - [Health](#health)
+    - [History](#history)
+    - [Science](#science)
+    - [Society](#society)
+    - [Uncategorized](#uncategorized)
+  - [Contacts](#contacts)
 
 <!---->
 
@@ -288,20 +286,18 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Contributing guidelines
 
-* Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
-* Follow [`How to contribute to a new data entry`](CONTRIBUTING.md)
-* Add one project per Pull Request.
-  * Make sure the PR title is in the format of `Add project-name`.
-  * Don't mention `Citizen Science` in the description as it's implied.
-  * Write down the reason why the project is awesome.
-* For each project, use the template you can find under PULL_REQUEST_TEMPLATE.yml:
+Everyone is welcome to add new citizen science in the Netherlands to this
+list. To keep the contribution process simple and fast, we ask you to follow
+the guidelines below.
+
+* Follow [`How to add a Citizen Science project to this list?`](CONTRIBUTING.md)
+* Add one project at a time.
 * Each project should have **at least** the following information:
-  * Name;
-  * Concise and **short** description of the project;
-  * Category to which the project belongs, if the category is not present, add a new one. Please try not to add a category if there is already one that might fit;
-  * Main link where more information is present.
+  * Name of the project;
+  * Short description of the project;
+  * Category to which the project belongs, if the category is not present, create a new one.
+  * Link with more information about the project.
 * Check your spelling and grammar.
-* Remove any trailing whitespace.
 <!---->
 
 ## Contacts
@@ -310,3 +306,5 @@ This list of open science projects is curated and maintained by the [ODISSEI Soc
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
 <img src="docs/word_colour-l.png" width="250px"></img>
+
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python).

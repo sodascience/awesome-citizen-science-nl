@@ -2,9 +2,9 @@
 # coding: utf-8
 import glob
 import os
+import requests
 import urllib3
 
-import requests
 from concurrent.futures import ProcessPoolExecutor
 import pandas as pd
 from ruamel.yaml import YAML
@@ -88,7 +88,7 @@ def read_yml_files():
     problems_url["icon"] = NOT_OK
     df = df.merge(problems_url, how="left", on="name")
 
-    df.to_csv("data/citize-science-projects.csv")
+    df.to_csv("data/citizen-science-projects.csv")
 
     return df
 
