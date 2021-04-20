@@ -286,18 +286,44 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 ## Contributing guidelines
 
-Everyone is welcome to add new citizen science in the Netherlands to this
+Everyone is welcome to add a new citizen science project (from the Netherlands) to this
 list. To keep the contribution process simple and fast, we ask you to follow
-the guidelines below.
+the guide below:
 
-* Follow [`How to add a Citizen Science project to this list?`](CONTRIBUTING.md)
-* Add one project at a time.
-* Each project should have **at least** the following information:
-  * Name of the project;
-  * Short description of the project;
-  * Category to which the project belongs, if the category is not present, create a new one.
-  * Link with more information about the project.
-* Check your spelling and grammar.
+1. Search previous Pull Requests before making a new one, as your project may be a duplicate.
+
+2. If this project is not a duplicate, browse to the `data/categories` folder of this repository.
+
+3. Select the category that belongs to the project you want to add and browse to that folder. If you cannt find the category that fits your project, go directly to step **4**.
+
+4. Above the list of files, using the **Add file** drop-down, click **Create new file**.
+
+5. In the file name field, type the name of the file and use as extension `yml`. For example: `NAME_OF_PROJECT.yml`. If you did not find the cateogry that fits your project, you need to add the new category name before the name of your project, for example: `CATEGORY/NAME_OF_PROJECT.yml`.
+
+6. On the **Edit new file** tab, copy and paste the content below and fill it in with the information concerning your project. Check your spelling and grammar!
+
+```yaml
+---
+name: 
+description: 
+category: 
+organization: 
+location: 
+start_date: 
+end_date: 
+notes_duration: 
+available_data: 
+available_for_research: 
+main_source: 
+link_to_data: 
+```
+
+7. At the bottom of the page, type a short commit message that describes the new file you added. It might be also very simple as: `Add PROJECT NAME, DATE START - DATE END`.
+
+8. Below the commit message choose **Create a new branch for this commit and start a pull request**.
+
+9.  Click **Propose new file**.
+
 <!---->
 
 ## Contacts
