@@ -305,6 +305,6 @@ the guidelines below.
 This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
-<img src="docs/word_colour-l.png" width="250px"></img>
+<img src="docs/img/word_colour-l.png" width="250px"></img>
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
