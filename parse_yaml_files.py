@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
+from concurrent.futures import ProcessPoolExecutor
 import glob
 import os
-import requests
 import urllib3
 
-from concurrent.futures import ProcessPoolExecutor
 import pandas as pd
+import requests
 from ruamel.yaml import YAML
 
 # Path data
@@ -20,7 +20,10 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def read_csv_data():
-    """Read CSV data and output individual yml files."""
+    """!!!DEPRECATED!!!
+
+    Read CSV data and output individual yml files.
+    """
     # Excel not used anymore
     # xlsl = pd.read_excel("data/citizen-science-projects.xlsx")
     # xlsl.to_csv("data/citizen-science-projects.csv")
@@ -88,7 +91,10 @@ def read_yml_files():
     problems_url["icon"] = NOT_OK
     df = df.merge(problems_url, how="left", on="name")
 
-    df.to_csv("data/citizen-science-projects.csv")
+    # Save to CSV
+    df.to_csv("data/citizen-science-projects-nl.csv")
+    # Save to Excel
+    df.to_excel("data/citizen-science-projects-nl.xls")
 
     return df
 

@@ -1,4 +1,4 @@
-name: Run parser to update README.md and data outputs
+name: Build and deploy mkdocs to github pages
 on:
   push:
     branches:
@@ -15,8 +15,7 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip       # install pip
           python3 -m pip install -r requirements.txt # install requirements.txt
-      - name: Build
-        run: |
-          sed 's/docs\/img\//img\//g' README.md > docs/index.md
-      - name: Deploy site
-        run: mkdocs gh-deploy --force
+      - name: Run parse_yaml_files.py
+        run: python3 parse_yaml_files
+      - name: Run test
+        run: python3 tests/test_outputs.py
