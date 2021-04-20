@@ -2,6 +2,7 @@
 # coding: utf-8
 import glob
 import os
+import urllib3
 
 import requests
 from concurrent.futures import ProcessPoolExecutor
@@ -13,6 +14,9 @@ CSV = "data/citizen-science-projects.csv"
 DATA = "data/categories"
 NOT_OK = ":x:"
 OK = ":white_check_mark:"
+
+# Ignore InsecureRequestWarning warning
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def read_csv_data():
@@ -84,12 +88,15 @@ def read_yml_files():
     problems_url["icon"] = NOT_OK
     df = df.merge(problems_url, how="left", on="name")
 
+    df.to_csv("data/citize-science-projects.csv")
+
     return df
 
 
 def check_url(url, name):
     try:
-        response = requests.head(url, allow_redirects=True, timeout=25)
+        response = requests.head(
+            url, allow_redirects=True, verify=False, timeout=25)
         if response.status_code in [301, 302]:
             return name, url, f'Redirects to {response.headers["Location"]}'
     except Exception as e:
