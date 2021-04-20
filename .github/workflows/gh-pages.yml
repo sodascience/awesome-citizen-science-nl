@@ -17,6 +17,6 @@ jobs:
           python3 -m pip install -r requirements.txt # install requirements.txt
       - name: Build
         run: |
-          sed 's/docs\/img\//img//g' README.md > docs/index.md
+          sed 's/docs\/img\//img\//g' README.md > docs/index.md
       - name: Deploy site
         run: mkdocs gh-deploy --force
