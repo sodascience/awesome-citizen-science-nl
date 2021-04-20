@@ -8,18 +8,18 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 <!---->
 
-- [Awesome Citizen Science NL](#awesome-citizen-science-nl)
-  - [Projects](#projects)
-    - [Archaeology](#archaeology)
-    - [Cities](#cities)
-    - [Ecology](#ecology)
-    - [Environment](#environment)
-    - [Health](#health)
-    - [History](#history)
-    - [Science](#science)
-    - [Society](#society)
-    - [Uncategorized](#uncategorized)
-  - [Contacts](#contacts)
+- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
+  - [Archaeology](#Archaeology)
+  - [Cities](#Cities)
+  - [Ecology](#Ecology)
+  - [Environment](#Environment)
+  - [Health](#Health)
+  - [History](#History)
+  - [Science](#Science)
+  - [Society](#Society)
+  - [Uncategorized](#Uncategorized)
+- [Contributing guidelines](#contributing-guidelines)
+- [Contacts](#contacts)
 
 <!---->
 
