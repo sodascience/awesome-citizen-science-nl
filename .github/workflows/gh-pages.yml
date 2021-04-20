@@ -15,9 +15,8 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip       # install pip
           python3 -m pip install -r requirements.txt # install requirements.txt
-      - name: Create index.md
-        run: touch docs/index.md
-      - name: Link README and index.html
-        run: ln -sf README.md docs/index.md
-      - name: Build site
+      - name: Build
+        run: |
+          sed 's/docs\/img\//img//g' README.md > docs/index.md
+      - name: Deploy site
         run: mkdocs gh-deploy --force
