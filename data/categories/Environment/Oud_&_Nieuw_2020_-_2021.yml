@@ -11,5 +11,5 @@ end_date: '2020'
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/oud-nieuw-2020-2021
-data_url: https://samenmeten.rivm.nl/vuurwerk/
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/
+data_url: https://samenmeten.rivm.nl/dataportaal/

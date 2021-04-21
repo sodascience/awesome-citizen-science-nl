@@ -13,4 +13,4 @@ notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
 project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/watermetingen-door-mijn-omgeving
-data_url: https://grafana.sensemakersams.org/d/m2HAkciWk/mijnomgeving?orgId=1
+data_url: https://grafana.sensemakersams.org/d/m2HAkciWk/mijn-omgeving?orgId=1

@@ -28,10 +28,6 @@ y.indent(sequence=4, offset=2)
 
 def read_csv_data():
     """Read CSV data and output individual yml files."""
-    # Excel not used anymore
-    xlsl = pd.read_excel(
-        "data/citizen-science-projects-nl.xlsx", engine='openpyxl')
-    xlsl.to_csv("data/citizen-science-projects-nl.csv", index=False)
     csv = pd.read_csv(CSV)
 
     # Find unique categories

@@ -13,4 +13,4 @@ notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
 project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_bvr
-data_url: https://archief.amsterdam/indexen/persons?f=%7B%22search_i_datum%22:%7B%22v%22:%5B%2218740000%22,%2218939999%22%5D,%22d%22:%221874%20%201893%22%7D%7D
+data_url: https://archief.amsterdam/indexen/persons?f=%7B%22search_i_datum%22:%7B%22v%22:%5B%2218740000%22,%2218939999%22%5D,%22d%22:%221874%20-%201893%22%7D%7D

@@ -12,5 +12,5 @@ end_date: '2017'
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-1-waterkwaliteit-in-europa
-data_url: https://www.arcgis.com/home/webmap/viewer.html?webmap=9f6c2e258f2f40a884335feaf85501a7&extent=3.9538,51.8158,4.968,52.1811
+project_information_url: https://data.smartemission.nl/home
+data_url: https://data.smartemission.nl/data
