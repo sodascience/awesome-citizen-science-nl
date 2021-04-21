@@ -8,18 +8,18 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 <!---->
 
-- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)
-  - [Archaeology](#Archaeology)
-  - [Cities](#Cities)
-  - [Ecology](#Ecology)
-  - [Environment](#Environment)
-  - [Health](#Health)
-  - [History](#History)
-  - [Science](#Science)
-  - [Society](#Society)
-  - [Uncategorized](#Uncategorized)
-- [Contributing guidelines](#contributing-guidelines)
-- [Contacts](#contacts)
+- [Awesome Citizen Science NL](#awesome-citizen-science-nl)
+  - [Projects](#projects)
+    - [Archaeology](#archaeology)
+    - [Cities](#cities)
+    - [Ecology](#ecology)
+    - [Environment](#environment)
+    - [Health](#health)
+    - [History](#history)
+    - [Science](#science)
+    - [Society](#society)
+    - [Uncategorized](#uncategorized)
+  - [Contacts](#contacts)
 
 <!---->
 
@@ -290,15 +290,15 @@ Everyone is welcome to add a new citizen science project (from the Netherlands) 
 list. To keep the contribution process simple and fast, we ask you to follow
 the guide below:
 
-1. Search previous Pull Requests before making a new one, as your project may be a duplicate.
+1. Search [previous Pull Requests](https://github.com/sodascience/awesome-citizen-science-nl/pulls) before making a new one, as your project may be a duplicate.
 
-2. If this project is not a duplicate, browse to the `data/categories` folder of this repository.
+2. Browse to the [`data/categories`](data/categories) folder of this repository.
 
-3. Select the category that belongs to the project you want to add and browse to that folder. If you cannt find the category that fits your project, go directly to step **4**.
+3. Select the category that belongs to the project you want to add and browse to that folder. If you cannot find the category that fits your project, go directly to step **4**.
 
 4. Above the list of files, using the **Add file** drop-down, click **Create new file**.
 
-5. In the file name field, type the name of the file and use as extension `yml`. For example: `NAME_OF_PROJECT.yml`. If you did not find the cateogry that fits your project, you need to add the new category name before the name of your project, for example: `CATEGORY/NAME_OF_PROJECT.yml`.
+5. In the file name field, type the name of the file and use as extension `yml`. For example: `NAME_OF_NEW_PROJECT.yml`. If you did not find the cateogry that fits your project, you need to add the new category name before the name of your project, for example: `NEW_CATEGORY/NAME_OF_NEW_PROJECT.yml`.
 
 6. On the **Edit new file** tab, copy and paste the content below and fill it in with the information concerning your project. Check your spelling and grammar!
 
@@ -318,11 +318,13 @@ main_source:
 link_to_data: 
 ```
 
-7. At the bottom of the page, type a short commit message that describes the new file you added. It might be also very simple as: `Add PROJECT NAME, DATE START - DATE END`.
+7. At the bottom of the page, in the **Propose new file** box add a title describing the new file you added. It might be also very simple as: `Add PROJECT NAME, DATE START - DATE END`. You might also specify the new addition further in the *optional extended description field*.
 
-8. Below the commit message choose **Create a new branch for this commit and start a pull request**.
+<p align="center">
+  <img src="docs/img/readme-propose-message.png">
+</p>
 
-9.  Click **Propose new file**.
+8. Below the commit message click **Propose new file**.
 
 <!---->
 
@@ -331,6 +333,6 @@ link_to_data:
 This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
-<img src="docs/img/word_colour-l.png" width="250px"></img>
+<img src="docs/img/readme-soda-logo.png" width="250px"></img>
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
