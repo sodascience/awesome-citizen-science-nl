@@ -4,11 +4,13 @@ description: 'Sensors are placed in places in Maastricht that are chosen by citi
   The sensors measure the local air quality. '
 category: Environment
 organization: Gemeente Maastricht
+country: The Netherlands
 location: Maastricht
-start_date: 2016.0
+notes_location: .nan
+start_date: 2016
 end_date: ongoing
-notes_duration: '-'
-available_data: 'Viewable '
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/maastricht
-link_to_data: https://www.luchtmeetnet-maastricht.nl/maastricht/
+notes_duration: .nan
+data_accessibility: 'Viewable '
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/maastricht
+data_url: https://www.luchtmeetnetmaastricht.nl/maastricht/

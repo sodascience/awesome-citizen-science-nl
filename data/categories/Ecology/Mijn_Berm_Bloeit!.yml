@@ -5,11 +5,13 @@ description: Citizens choose between a predetermined period a road verge. Then, 
   the nectar plants that are within one meter of themselves.
 category: Ecology
 organization: FLORON and Vlinderstichting
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.floron.nl/bermen
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.floron.nl/bermen
+data_url: https://www.ndff.nl/overdendff/data/

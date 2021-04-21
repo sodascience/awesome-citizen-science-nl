@@ -4,13 +4,15 @@ description: 'Citizens get one of the measuring toolboxes and measure the qualit
   of the water in their neighborhood. '
 category: Environment
 organization: Gemeente Almere, Waterschap Zuiderzeeland, knowledge institutions Deltares
-  and Wageningen Environmental Research (WEnR), artist Pavèl van Houten, Almere Stad
+  and Wageningen Environmental Research (WEnR), artist Pav√®l van Houten, Almere Stad
   & Natuur and Waterburgemeester Almere
+country: The Netherlands
 location: Almere
-start_date: 2019.0
+notes_location: .nan
+start_date: 2019
 end_date: '2019'
-notes_duration: '-'
-available_data: 'Viewable '
-available_for_research: Yes
-main_source: https://almeremeetwater.nl/
-link_to_data: https://almeremeetwater.nl/kaart/
+notes_duration: .nan
+data_accessibility: 'Viewable '
+accessibility_for_research: Yes
+project_information_url: https://almeremeetwater.nl/
+data_url: https://almeremeetwater.nl/kaart/

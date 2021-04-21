@@ -7,11 +7,13 @@ description: 'Citizens count the number and species of flies they see in their b
 category: Ecology
 organization: 'EIS Kenniscentrum Insecten, waarneming.nl, Nederlandse Entomologische
   Vereniging and the youthgroups of naturestudies '
-location: The Netherlands
-start_date: 2012.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2012
 end_date: '2014'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.eis-nederland.nl/actueel/projecten/leuke-vliegen
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.eis-nederland.nl/actueel/projecten/leuke-vliegen
+data_url: https://www.ndff.nl/overdendff/data/

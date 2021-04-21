@@ -4,11 +4,13 @@ description: Citizens register their observations of color ringed oystercatchers
 category: Ecology
 organization: Sovon Vogelonderzoek Nederland, NIOO-KNAW, IMARES and Rijksuniversiteit
   Groningen
-location: The Netherlands
-start_date: 2012.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2012
 end_date: '2020'
-notes_duration: to CR-Birding Submit
-available_data: No direct download
-available_for_research: No
-main_source: https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=25068
-link_to_data: '-'
+notes_duration: To CRBirding Submit
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=25068
+data_url: .nan

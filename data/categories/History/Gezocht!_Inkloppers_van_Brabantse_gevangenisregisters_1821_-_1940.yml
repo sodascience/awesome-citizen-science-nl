@@ -4,11 +4,13 @@ description: Citizens help digitalize the registration files from prisons in Bra
   from the period from 1821 up until 1940.
 category: History
 organization: Brabants Historisch Informatie Centrum
-location: The Netherlands
-start_date: 2014.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2014
 end_date: '2015'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/bhic_strafgevangenissen
-link_to_data: http://www.bhic.nl/onderzoeken/hulp-bij-onderzoek/gevangenisarchieven
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/bhic_strafgevangenissen
+data_url: http://www.bhic.nl/onderzoeken/hulpbijonderzoek/gevangenisarchieven

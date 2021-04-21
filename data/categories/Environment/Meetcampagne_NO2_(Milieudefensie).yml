@@ -4,11 +4,13 @@ description: Citizens help measure nitrogen dioxide in the air by placing sensor
   around place that are important to them.
 category: Environment
 organization: Milieudefensie
-location: Utrecht, Den Haag, Rotterdam and Amsterdam
-start_date: 2015.0
+country: The Netherlands
+location: Utrecht, Den Haag, Rotterdam, Amsterdam
+notes_location: .nan
+start_date: 2015
 end_date: '2015'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/meetcampagne-no2-milieudefensie
-link_to_data: https://milieudefensie.nl/actueel/rapport-wat-adem-jij-in.pdf
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/meetcampagne-no2-milieudefensie
+data_url: https://milieudefensie.nl/actueel/rapportwatademjijin.pdf

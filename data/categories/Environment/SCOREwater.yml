@@ -6,12 +6,14 @@ description: 'Citizens help investigate how the city of Amersfoort can become mo
 category: Environment
 organization: 'Gemeente Amersfoort, Civity, Eurecat, City of Gothenburg, HydroLogic,
   IERMB, IVL, s::can, Talkpool, Universeum, ICRA, Swedish Hydro Solutions, Future
-  City Foundation and Barcelona Cicle de l’Aigua. '
-location: The Netherlands (Amersfoort), Sweden (Gothenburg) and Spain (Barcelona)
-start_date: 2019.0
+  City Foundation and Barcelona Cicle de l‚ÄôAigua. '
+country: The Netherlands, Sweden, Spain
+location: .nan
+notes_location: 'The Netherlands: Amersfoort; Sweden: Gothenburg; Spain: Barcelona'
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.scorewater.eu/#3cases
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.scorewater.eu/#3cases
+data_url: .nan

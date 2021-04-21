@@ -5,11 +5,13 @@ description: 'Citizens help index scans of repatriation lists of the people that
   between 1945 and 1967. '
 category: History
 organization: Indisch Herinneringscentrum
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable once finished
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/project/moei_index_30dagen
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: Probably viewable once finished
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/moei_index_30dagen
+data_url: .nan

@@ -4,11 +4,13 @@ description: High school students help calibrate the measures of a satellite by 
   the amount of aerosols in an area of the air.
 category: Science
 organization: GLOBE Nederland and the KNMI
-location: The Netherlands
-start_date: 2004.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2004
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://globenederland.nl/onderzoeksproject/aerosolen/#info
-link_to_data: https://www.globe.gov/globe-data/visualize-and-retrieve-data
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://globenederland.nl/onderzoeksproject/aerosolen/#info
+data_url: https://www.globe.gov/globedata/visualizeandretrievedata

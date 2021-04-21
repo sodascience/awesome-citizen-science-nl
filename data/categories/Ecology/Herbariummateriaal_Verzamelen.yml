@@ -6,11 +6,13 @@ description: 'Citizens collect samples of plants that are either rare, believed 
   species. After collecting the sample, it is send to a predetermined address. '
 category: Ecology
 organization: FLORON and Naturalis
-location: The Netherlands
-start_date: 2013.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2013
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.floron.nl/meedoen/herbariummateriaal
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.floron.nl/meedoen/herbariummateriaal
+data_url: .nan

@@ -4,11 +4,13 @@ description: 'Citizens take part in the study of the RIVM to investigate what me
   motivate young adults to change their diet. '
 category: Society
 organization: RIVM
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.rivm.nl/burgerwetenschap/shift-diets
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.rivm.nl/burgerwetenschap/shift-diets
+data_url: .nan

@@ -4,11 +4,13 @@ description: 'Citizens help index the old labels on microscopic glass preparatio
   containing mites, springtails and other small organisms in the collection of Naturalis. '
 category: History
 organization: Naturalis Biodiversity Center
-location: The Netherlands
-start_date: 2013.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2013
 end_date: '2014'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/nat_nbc
-link_to_data: https://www.naturalis.nl/collectie
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/nat_nbc
+data_url: https://www.naturalis.nl/collectie

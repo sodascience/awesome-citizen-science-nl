@@ -4,11 +4,13 @@ description: 'Citizens help researchers use the new technique Next Generation Se
   to determine whether water is a fresh product. '
 category: Environment
 organization: Waternet and KWR Watercycle Research Institute
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2015'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.kwrwater.nl/projecten/citizen-science-praktijkpilot-versheid-water/
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.kwrwater.nl/projecten/citizen-science-praktijkpilot-versheid-water/
+data_url: .nan

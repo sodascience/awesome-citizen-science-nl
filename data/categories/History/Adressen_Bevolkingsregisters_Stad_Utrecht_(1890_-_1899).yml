@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from Utrecht betw
   1890 and 1899.
 category: History
 organization: Utrechts Archief
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: '2019'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://utrecht.nieuws.nl/onderwijswetenschap/74887/utrechts-archief-vraagt-hulp-bij-het-ontsluiten-van-utrechtse-bevolkingsregisters/
-link_to_data: https://hetutrechtsarchief.nl/onderzoek/resultaten/archieven?mivast=39&mizig=210&miadt=39&miaet=1&micode=1007-2&minr=1307084&miview=inv2&milang=nl
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://utrecht.nieuws.nl/onderwijswetenschap/74887/utrechts-archief-vraagt-hulp-bij-het-ontsluiten-van-utrechtse-bevolkingsregisters/
+data_url: https://hetutrechtsarchief.nl/onderzoek/resultaten/archieven?mivast=39&mizig=210&miadt=39&miaet=1&micode=10072&minr=1307084&miview=inv2&milang=nl

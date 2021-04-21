@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from Nijmegen bet
   1820 and 1850.
 category: History
 organization: Regionaal Archief Nijmegen
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2016'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/picvh_han_nijmegen
-link_to_data: https://studiezaal.nijmegen.nl/zoeken.php
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/picvh_han_nijmegen
+data_url: https://studiezaal.nijmegen.nl/zoeken.php

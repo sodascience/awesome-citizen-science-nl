@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from Amsterdam be
   1864 and 1874.
 category: History
 organization: Stadsarchief Amsterdam
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: '2020'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_index_bvr3
-link_to_data: https://archief.amsterdam/indexen/persons?f=%7B%22search_i_datum%22:%7B%22v%22:%5B%2218640000%22,%2218749999%22%5D,%22d%22:%221864%20-%201874%22%7D%7D
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_index_bvr3
+data_url: https://archief.amsterdam/indexen/persons?f=%7B%22search_i_datum%22:%7B%22v%22:%5B%2218640000%22,%2218749999%22%5D,%22d%22:%221864%20%201874%22%7D%7D

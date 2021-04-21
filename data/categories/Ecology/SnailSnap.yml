@@ -6,11 +6,13 @@ description: Citizens download an app with which they make pictures of snails th
 category: Ecology
 organization: EvoScope (Gemeente Leiden, Leiden University and Naturalis)  and EIS
   Kenniscentrum Insecten
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.universiteitleiden.nl/citizensciencelab/projecten/naturalis
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/naturalis
+data_url: https://www.ndff.nl/overdendff/data/

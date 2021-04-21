@@ -4,11 +4,13 @@ description: 'Citizens count the number of clumps of spawn in the ponds in their
   during a predetermined period of time. '
 category: Ecology
 organization: Stichting RAVON and Jaarrond Tuintelling
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.tuintelling.nl/evenementen/kikkerdriltelling
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.tuintelling.nl/evenementen/kikkerdriltelling
+data_url: https://www.ndff.nl/overdendff/data/

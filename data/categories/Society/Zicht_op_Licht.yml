@@ -4,11 +4,13 @@ description: 'Citizens report with the help of an app how dark it is in their su
   and how much trouble they experience in their sight. '
 category: Society
 organization: UMC Grongingen and Weekend van de Wetenschap
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2018'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://ronaldbierings.com/over-zicht-op-licht/
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://ronaldbierings.com/over-zicht-op-licht/
+data_url: .nan

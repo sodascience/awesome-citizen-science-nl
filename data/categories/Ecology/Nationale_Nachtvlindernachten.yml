@@ -4,11 +4,13 @@ description: 'Citizens count on one of the predetermined nights the number and s
   of moths they see in their backyard. '
 category: Ecology
 organization: Vlinderstichting
-location: The Netherlands
-start_date: 2005.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2005
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.vlinderstichting.nl/nachtvlindernacht/
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.vlinderstichting.nl/nachtvlindernacht/
+data_url: https://www.ndff.nl/overdendff/data/

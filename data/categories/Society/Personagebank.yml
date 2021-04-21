@@ -3,11 +3,13 @@ name: Personagebank
 description: 'Citizens answer questions on the characters in the book they last read. '
 category: Society
 organization: Utrecht University
-location: The Netherlands
-start_date: 2016.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2016
 end_date: '2019'
 notes_duration: Possibly still ongoing
-available_data: Viewable
-available_for_research: Yes
-main_source: http://personagebank.nl/
-link_to_data: http://personagebank.nl/resultaten/
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: http://personagebank.nl/
+data_url: http://personagebank.nl/resultaten/

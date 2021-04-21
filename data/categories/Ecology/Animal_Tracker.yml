@@ -3,11 +3,13 @@ name: Animal Tracker
 description: 'Citizens localize spoonbills and report on them. '
 category: Ecology
 organization: NIOZ Koninklijk Instituut voor Zeeonderzoek
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Partly viewable
-available_for_research: Yes
-main_source: https://www.iedereenwetenschapper.be/projects/volg-de-weg-van-trekvogels
-link_to_data: https://www.nioz.nl/en/about/cos/movement-connectivity/bird-movement/tracking-movements-of-spoonbills/follow-spoonbills-from-the-netherlands
+notes_duration: .nan
+data_accessibility: Partly viewable
+accessibility_for_research: Yes
+project_information_url: https://www.iedereenwetenschapper.be/projects/volg-de-weg-van-trekvogels
+data_url: https://www.nioz.nl/en/about/cos/movementconnectivity/birdmovement/trackingmovementsofspoonbills/followspoonbillsfromthenetherlands

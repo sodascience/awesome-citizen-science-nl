@@ -5,11 +5,13 @@ description: Citizens help measure nitrogen dioxide in the air by placing sensor
   which they cycle every day.
 category: Environment
 organization: Milieudefensie
-location: Mostly Amsterdam, Rotterdam and Den Haag
-start_date: 2012.0
+country: The Netherlands
+location: Amsterdam, Rotterdam, Den Haag
+notes_location: .nan
+start_date: 2012
 end_date: '2014'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://milieudefensie.nl/actueel/eindrapport-hoe-gezond-is-onze-lucht.pdf
-link_to_data: https://milieudefensie.nl/actueel/eindrapport-hoe-gezond-is-onze-lucht.pdf
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://milieudefensie.nl/actueel/eindrapport-hoe-gezond-is-onze-lucht.pdf
+data_url: https://milieudefensie.nl/actueel/eindrapporthoegezondisonzelucht.pdf

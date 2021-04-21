@@ -4,11 +4,13 @@ description: Elementary school children partake in science projects and help gat
   data for research.
 category: Society
 organization: University of Twente together with the other science hubs in the country
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.wetenschapsknooppunten.nl/alle-scholen-verzamelen/citizen-science/
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.wetenschapsknooppunten.nl/alle-scholen-verzamelen/citizen-science/
+data_url: .nan

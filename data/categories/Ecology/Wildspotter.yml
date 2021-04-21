@@ -4,11 +4,13 @@ description: 'Citizens check whether animals can find their way at fauna passage
   by watching videos. '
 category: Ecology
 organization: Arcadis
-location: The Netherlands
-start_date: 2016.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2016
 end_date: .nan
 notes_duration: No indication when the project ended
-available_data: No direct download
-available_for_research: No
-main_source: https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=22655
-link_to_data: '-'
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=22655
+data_url: .nan

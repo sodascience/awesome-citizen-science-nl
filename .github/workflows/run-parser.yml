@@ -15,7 +15,7 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip       # install pip
           python3 -m pip install -r requirements.txt # install requirements.txt
-      - name: Run parse_yaml_files
-        run: python3 parse_yaml_files.py
+      - name: Run parser
+        run: python3 parser.py --yaml-to-csv-to-readme
       - name: Run test
         run: bash tests/test.sh

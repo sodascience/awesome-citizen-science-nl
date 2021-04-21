@@ -5,11 +5,13 @@ description: 'Citizens listen to fragments of songs from the Top 2000 and click 
 category: Society
 organization: University of Amsterdam, Meertens Institute, Sound & Vision, and Utrecht
   University
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: '2017'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.iedereenwetenschapper.be/projects/hoe-snel-herken-jij-een-liedje
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.iedereenwetenschapper.be/projects/hoe-snel-herken-jij-een-liedje
+data_url: .nan

@@ -3,11 +3,13 @@ name: Waterlab Flevoland
 description: 'Citizens test innovative purification systems for two years. '
 category: Environment
 organization: 'Gemeente Almere and Waterschap Zuiderzeeland '
+country: The Netherlands
 location: Flevoland
-start_date: 2019.0
+notes_location: .nan
+start_date: 2019
 end_date: '2021'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.waterforum.net/officiele-start-waterlab-flevoland/
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.waterforum.net/officiele-start-waterlab-flevoland/
+data_url: .nan

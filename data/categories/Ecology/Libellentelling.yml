@@ -4,11 +4,13 @@ description: Citizens register how many and what kinds of dragonflies they have 
   on two predetermined days. They also register whether they saw any dead dragonflies.
 category: Ecology
 organization: Vlinderstichting
-location: The Netherlands
-start_date: 1998.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 1998
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.tuintelling.nl/evenementen/libellentelling
-link_to_data: https://www.clo.nl/indicatoren/nl1387-libellen
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.tuintelling.nl/evenementen/libellentelling
+data_url: https://www.clo.nl/indicatoren/nl1387libellen

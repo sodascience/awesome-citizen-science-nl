@@ -5,11 +5,13 @@ description: Citizens indicate how much their airways bother them and what sympt
   respiratory diseases.
 category: Health
 organization: RIVM
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: ongoing
-notes_duration: '-'
-available_data: 'No direct download '
-available_for_research: No
-main_source: https://www.rivm.nl/rivm/kennis-en-kunde/strategisch-programma-rivm/spr-2015-2018/integrale-risicobeoordeling/ik-heb-nu-last-app
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: 'No direct download '
+accessibility_for_research: No
+project_information_url: https://www.rivm.nl/rivm/kennis-en-kunde/strategisch-programma-rivm/spr-2015-2018/integrale-risicobeoordeling/ik-heb-nu-last-app
+data_url: .nan

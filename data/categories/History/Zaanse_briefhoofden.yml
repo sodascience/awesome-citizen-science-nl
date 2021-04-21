@@ -4,11 +4,13 @@ description: 'Citizens describe the information in letterheads of old letters fr
   the 19th and 20th century from companies in the Zaanstreek. '
 category: History
 organization: Gemeente Zaanstad and Gemeente Oostzaan
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: '2020'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/zaa_index_bron
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/zaa_index_bron
+data_url: .nan

@@ -4,11 +4,13 @@ description: Citizens register which fructuous trees are in their backyard and w
   birds make use of them.
 category: Ecology
 organization: Sovon Vogelonderzoek Nederland
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.sovon.nl/nl/actueel/nieuws/lijsters-en-bessen-tellen
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.sovon.nl/nl/actueel/nieuws/lijsters-en-bessen-tellen
+data_url: https://www.ndff.nl/overdendff/data/

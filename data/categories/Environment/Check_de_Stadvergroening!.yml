@@ -6,11 +6,13 @@ description: Citizens first register, alone or in a group, and then follow a ste
   after heavy rain.
 category: Environment
 organization: WaterLab (TU Delft) and the Hoogheemsraadschap of Delftland
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-2-check-de-stadsvergroening
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-2-check-de-stadsvergroening
+data_url: .nan

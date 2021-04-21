@@ -5,11 +5,13 @@ description: Citizens count on predetermined days the number of moles or molehil
 category: Ecology
 organization: Zoogdiervereniging, Vroege Vogels, Waarneming.nl, Natuurpunt and Jaarrond
   Tuintelling
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.zoogdiervereniging.nl/wat-we-doen/monitoring/jaarrond-tuintelling/mollentelling
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.zoogdiervereniging.nl/wat-we-doen/monitoring/jaarrond-tuintelling/mollentelling
+data_url: https://www.ndff.nl/overdendff/data/

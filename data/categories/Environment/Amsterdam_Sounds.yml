@@ -5,11 +5,13 @@ description: 'Citizens in Amsterdam place sensors that measure the amount and ki
 category: Environment
 organization: Gemeente Amsterdam, Ombudsman Metropool Amsterdam, Sensemakers Amsterdam,
   Sensing Clues and Waag Technology & Society
+country: The Netherlands
 location: Amsterdam
-start_date: 2019.0
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable (though there is almost nothing)
-available_for_research: Yes
-main_source: https://amsterdamsounds.waag.org/
-link_to_data: https://amsterdamsounds.waag.org/kaart/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://amsterdamsounds.waag.org/
+data_url: https://amsterdamsounds.waag.org/kaart/

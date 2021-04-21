@@ -5,11 +5,13 @@ description: 'Citizens help ring birds. What is different for this project is th
   time and place the nets on the same places. '
 category: Ecology
 organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation and NIOO-KNAW
-location: The Netherlands
-start_date: 1994.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 1994
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable after application
-available_for_research: Yes
-main_source: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/ces-het-constant-effort-site-project
-link_to_data: https://euring.org/data-and-codes/obtaining-data
+notes_duration: .nan
+data_accessibility: Viewable after application
+accessibility_for_research: Yes
+project_information_url: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/ces-het-constant-effort-site-project
+data_url: https://euring.org/dataandcodes/obtainingdata

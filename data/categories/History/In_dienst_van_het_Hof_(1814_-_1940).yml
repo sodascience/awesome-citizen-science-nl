@@ -4,11 +4,13 @@ description: Citizens digitalize genealogical registers of the staff from King W
   I up until Queen Wilhelmina.
 category: History
 organization: Koninklijk Huisarchief
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: '2017'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/kha
-link_to_data: https://www.wiewaswie.nl/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/kha
+data_url: https://www.wiewaswie.nl/

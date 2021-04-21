@@ -4,11 +4,13 @@ description: Citizens living close to Maaspoort place sensors that measure the l
   air quality.
 category: Environment
 organization: 'The Things Network and the RIVM '
+country: The Netherlands
 location: Maaspoort
-start_date: 2017.0
+notes_location: .nan
+start_date: 2017
 end_date: ongoing
-notes_duration: '-'
-available_data: 'Viewable '
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/maaspoort-meet
-link_to_data: https://samenmeten.rivm.nl/dataportaal/
+notes_duration: .nan
+data_accessibility: 'Viewable '
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/maaspoort-meet
+data_url: https://samenmeten.rivm.nl/dataportaal/

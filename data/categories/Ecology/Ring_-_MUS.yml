@@ -3,11 +3,13 @@ name: Ring - MUS
 description: Citizens report on the color-rings they see on birds.
 category: Ecology
 organization: Vogeltrekstation, Vogelbescherming Nederland and NIOO-KNAW
-location: The Netherlands
-start_date: 2011.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2011
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable
-available_for_research: Yes
-main_source: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/ring-mus%20
-link_to_data: https://euring.org/data-and-codes/obtaining-data
+notes_duration: .nan
+data_accessibility: Probably viewable
+accessibility_for_research: Yes
+project_information_url: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/ring-mus%20
+data_url: https://euring.org/dataandcodes/obtainingdata

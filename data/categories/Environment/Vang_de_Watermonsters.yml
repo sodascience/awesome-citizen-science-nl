@@ -8,11 +8,13 @@ organization: Natuur&Milieu, ASN Bank, Hoogheemraadschap van Delfland, Hoogheemr
   Hoogheemraadschap van Rijnland, Hoogheemraadschap van Schieland en de Krimpenerwaard
   en Waterschap Rijn en IJssel, Nederlands Instituut voor Ecologie (NIOO-KNAW), NWB
   Bank
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.natuurenmilieu.nl/themas/voedsel/projecten-voedsel/waterkwaliteit-biodiversiteit/watermonsters/
-link_to_data: https://watermonsters.natuurenmilieu.nl/kaart
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.natuurenmilieu.nl/themas/voedsel/projecten-voedsel/waterkwaliteit-biodiversiteit/watermonsters/
+data_url: https://watermonsters.natuurenmilieu.nl/kaart

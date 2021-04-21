@@ -4,11 +4,13 @@ description: 'Citizens describe photos of Persfotobureau D. van der Veen from th
   sixties and seventies of the 20th century. '
 category: History
 organization: Groninger Archieven
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable once finished
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/project/gra_tagging_vanderveen
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: Probably viewable once finished
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/gra_tagging_vanderveen
+data_url: .nan
