@@ -4,11 +4,13 @@ description: 'A project that was started by a citizen where bird houses measure 
   air quality. When the quality increases, you get free wifi in return. '
 category: Ecology
 organization: Joris Lam
-location: The Netherlands
-start_date: 2016.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2016
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/treewifi
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/treewifi
+data_url: '-'

@@ -4,11 +4,13 @@ description: 'Citizens help index scans of population registers of the populatio
   of Voorne-Putten between 1826 and 1939. '
 category: History
 organization: Streekarchief Voorne-Putten
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2017'
-notes_duration: '-'
-available_data: Probably viewable
-available_for_research: '-'
-main_source: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/picvh_vpr
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: Probably viewable
+accessibility_for_research: Unsure
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/picvh_vpr
+data_url: '-'

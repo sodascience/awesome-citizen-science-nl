@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from Terneuzen, A
   and Sas van Gent between 1812 and 1900.
 category: History
 organization: Zeeuws Archief
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: '2020'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar_index_terneuzenaxel
-link_to_data: https://www.zeeuwsarchief.nl/onderzoek-het-zelf/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar_index_terneuzenaxel
+data_url: https://www.zeeuwsarchief.nl/onderzoek-het-zelf/

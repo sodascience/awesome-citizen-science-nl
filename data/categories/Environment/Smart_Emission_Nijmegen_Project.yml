@@ -5,11 +5,13 @@ description: 'Citizens in Nijmegen place sensors that measure the air quality, t
 category: Environment
 organization: Radboud University, gemeente Nijmegen, Geonovum, Intemo, CityGIS and
   the RIVM
+country: The Netherlands
 location: Nijmegen
-start_date: 2015.0
+notes_location: .nan
+start_date: 2015
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://data.smartemission.nl/home
-link_to_data: https://data.smartemission.nl/data
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://data.smartemission.nl/home
+data_url: https://data.smartemission.nl/data

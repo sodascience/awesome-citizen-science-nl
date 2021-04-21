@@ -4,11 +4,13 @@ description: 'Citizens help describe digitalize film fragments of Omroep Amersfo
   between 1985 and 2011. '
 category: History
 organization: Archief Eemland
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2017'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/gam2
-link_to_data: https://www.archiefeemland.nl/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/gam2
+data_url: https://www.archiefeemland.nl/

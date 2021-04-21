@@ -4,11 +4,13 @@ description: 'Citizens help index archives of notaries located in Breda from 184
   to 1905. '
 category: History
 organization: Stadsarchief Breda
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: 'Viewable once finished '
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/project/brd_index_repertoria
-link_to_data: https://www.wiewaswie.nl/
+notes_duration: .nan
+data_accessibility: 'Viewable once finished '
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/brd_index_repertoria
+data_url: https://www.wiewaswie.nl/

@@ -4,11 +4,13 @@ description: 'Citizens help researchers by cleaning up rivers and investigating 
   they find. '
 category: Environment
 organization: IVN Natuureducatie, Plastic Soup Foundation and Stichting de Noordzee
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.iedereenwetenschapper.be/projects/word-afvalonderzoeker
-link_to_data: https://www.schonerivieren.org/join/resultaten-onderzoeken/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.iedereenwetenschapper.be/projects/word-afvalonderzoeker
+data_url: https://www.schonerivieren.org/join/resultaten-onderzoeken/

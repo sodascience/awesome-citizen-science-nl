@@ -4,11 +4,13 @@ description: 'Citizens do georeferencing by placing old maps of Noordwest-Hollan
   over existing ones to determine their placement. '
 category: History
 organization: Regionaal Archief Alkmaar
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: '2018'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/raa
-link_to_data: https://www.regionaalarchiefalkmaar.nl/collecties/beelden/beelden-2/?q=kaarten&mode=gallery&view=horizontal
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/raa
+data_url: https://www.regionaalarchiefalkmaar.nl/collecties/beelden/beelden-2/?q=kaarten&mode=gallery&view=horizontal

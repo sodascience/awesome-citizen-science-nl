@@ -4,11 +4,13 @@ description: 'Citizens register the information on scans of cards from Amsterdam
   1920 and 1970. '
 category: History
 organization: Stadsarchief Amsterdam
-location: The Netherlands
-start_date: 2021.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2021
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably once finished
-available_for_research: '-'
-main_source: https://velehanden.nl/projecten/bekijk/details/project/amsterdam_index_vreemdelingenkaarten
-link_to_data: https://archief.amsterdam/indexen/persons
+notes_duration: .nan
+data_accessibility: Probably once finished
+accessibility_for_research: Unsure
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/amsterdam_index_vreemdelingenkaarten
+data_url: https://archief.amsterdam/indexen/persons

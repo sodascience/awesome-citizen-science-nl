@@ -4,11 +4,13 @@ description: Citizens help index membership registers from the union for diamond
   from 1894 on up.
 category: History
 organization: Internationaal Instituut voor Sociale Geschiedenis
-location: The Netherlands
-start_date: 2018.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2018
 end_date: '2019'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/mbi
-link_to_data: https://search.iisg.amsterdam/Record/ARCH00210
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/mbi
+data_url: https://search.iisg.amsterdam/Record/ARCH00210

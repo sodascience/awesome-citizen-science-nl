@@ -5,11 +5,13 @@ description: Citizens install an app to report on opportunities to sport and pla
 category: Society
 organization: Hogeschool van Amsterdam, RIVM, Gemeente Amsterdam Nieuw-West, Huis
   van de Wijk, EigenWijks, GGD Amsterdam
+country: The Netherlands
 location: Slotermeer
-start_date: 2017.0
+notes_location: .nan
+start_date: 2017
 end_date: '2017'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: http://www.kijkeengezondewijk.nl/#/info
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: http://www.kijkeengezondewijk.nl/#/info
+data_url: '-'

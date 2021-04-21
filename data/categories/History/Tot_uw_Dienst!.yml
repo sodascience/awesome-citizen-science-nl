@@ -4,11 +4,13 @@ description: Citizens help index retirement cards from people that have worked f
   the municipality of Amsterdam.
 category: History
 organization: Stadsarchief Amsterdam
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2016'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_pensioen
-link_to_data: https://archief.amsterdam/uitleg/indexen/41-pensioenkaarten-1894-1915?utm_source=OpenArchieven&utm_medium=browser&utm_campaign=OpenData
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_pensioen
+data_url: https://archief.amsterdam/uitleg/indexen/41-pensioenkaarten-1894-1915?utm_source=OpenArchieven&utm_medium=browser&utm_campaign=OpenData

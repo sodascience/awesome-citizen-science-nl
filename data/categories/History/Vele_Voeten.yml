@@ -5,11 +5,13 @@ description: 'Citizens help digitalize participant registers of the Nijmegen Fou
   and a closed project (regarding the participants between 1941 and 1987). '
 category: History
 organization: Regionaal Archief Nijmegen
-location: The Netherlands
-start_date: 2015.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2015
 end_date: '2016'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/picvh_han
-link_to_data: https://www.huisvandenijmeegsegeschiedenis.nl/info/Deelnemersregistratie_Vierdaagse
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/picvh_han
+data_url: https://www.huisvandenijmeegsegeschiedenis.nl/info/Deelnemersregistratie_Vierdaagse

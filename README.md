@@ -42,7 +42,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Animal Tracker](https://www.iedereenwetenschapper.be/projects/volg-de-weg-van-trekvogels) - Citizens localize spoonbills and report on them.  (`2019` - `ongoing`)
 - [Plonzenweekend](https://www.tuintelling.nl/data/result/evenement/EPLONS) - Citizens count the number of splashes they hear when passing the pond in their backyard or another pond on a walk. If they are able to get close enough to see a frog, they can also count the frog species.  (`2008` - `recurring`)
 - [Special Project Muggenradar](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=27308) - Citizens send researchers the mosquitos they have killed. (`2021` - `ongoing`)
-- [Zomerganzentelling](https://www.jagersvereniging.nl/downloads/bestuurdersdocumenten/telprotocol-zomerganzentelling/) - Citizens count summer geese and report on their number and species.  (`2005` - `recurring`)
+- [Zomerganzentelling](https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/zo%C3%B6nosenproject) - Citizens count summer geese and report on their number and species.  (`2005` - `recurring`)
 - [Wantsen](https://www.eis-nederland.nl/wantsenproject) - Citizens make photos of the bugs they encounter and load them unto waarneming.nl.  (`2017` - `2018`)
 - [Libellentelling](https://www.tuintelling.nl/evenementen/libellentelling) - Citizens register how many and what kinds of dragonflies they have seen on two predetermined days. They also register whether they saw any dead dragonflies. (`1998` - `recurring`)
 - [Nationale Waterdiertjes Telling](https://www.waterdiertjes.nl/#/info) - Citizens report which and how many animals live in the water in their nearby ditches. They also report the type and quality of the water. (`2018` - `recurring`)
@@ -60,7 +60,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Bioblitz](https://www.tuintelling.nl/data/result/evenement/EBB) - A contest where citizens try to discover as many animals and plants in their backyard within a 24-hour time period.  (`2020` - `recurring`)
 - [Wadertrack ](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=25068) - Citizens register their observations of color ringed oystercatchers. (`2012` - `2020`)
 - [SnailSnap](https://www.universiteitleiden.nl/citizensciencelab/projecten/naturalis) - Citizens download an app with which they make pictures of snails they encountered from April up until October. The app sends the photo, along with the coordinates of the place it was taken at to waarneming.nl. (`2017` - `recurring`)
-- [Witte Gebieden](https://www.floron.nl/meedoen/witte-gebieden ) - Citizens (mostly florists) reserve a “Wit Gebied” beforehand. These are areas where florists are not as active, so there are less observations compared to other areas. Florists then visit such an area for a maximum of one day and fill in lists of what they found in the area that covers at least three “kilometerhokken”.  (`2016` - `ongoing`)
+- [Witte Gebieden](https://www.floron.nl/meedoen/witte-gebieden ) - Citizens (mostly florists) reserve a ‚ÄúWit Gebied‚Äù beforehand. These are areas where florists are not as active, so there are less observations compared to other areas. Florists then visit such an area for a maximum of one day and fill in lists of what they found in the area that covers at least three ‚Äúkilometerhokken‚Äù.  (`2016` - `ongoing`)
 - [Muggenradar](https://www.naturetoday.com/intl/nl/observations/mosquito-radar) - Citizens report how much trouble they experience from mosquitoes (none, a little, much, very much).  (`2016` - `ongoing`)
 - [Kilometerhokken Inventariseren](https://www.floron.nl/meedoen/kilometerhokken-inventariseren ) - Citizens register the locations plant species by crossing them off on a list in a predetermined area. (`1988` - `ongoing`)
 - [Van Kroeg tot Kraamkamer](https://www.tuintelling.nl/kraamkamer) - Citizens observe the animals in their backyards for a predetermined period of ten days and note what kind of behavior they display (kroeg, hotel or kraamkamer).  (`2017` - `recurring`)
@@ -68,6 +68,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Egelweekend](https://www.tuintelling.nl/data/result/evenement/EE) - Citizens register when and how many hedgehogs they have encountered. Dead hedgehogs are also reported.  (`2009` - `recurring`)
 - [GrowApp](https://www.naturetoday.com/intl/nl/observations/growapp) - Citizens make pictures of a certain spot in nature, which the app transforms into a time-lapse to capture the change of seasons. The app sheds light on the impact of climate change on nature.  (`2017` - `ongoing`)
 - [Nationale Nachtvlindernachten](https://www.vlinderstichting.nl/nachtvlindernacht/) - Citizens count on one of the predetermined nights the number and species of moths they see in their backyard.  (`2005` - `recurring`)
+- [Avondtelling Amfibie√´n](https://www.tuintelling.nl/evenementen/avondtelling) - Citizens report how many and what kind of amphibians they have seen and heard on a predetermined evening.  (`2016` - `2016`)
 - [Tuinvijver-opschoontelling](https://tuintelling.nl/evenementen/tuinvijvertelling) - Citizens cleaning the ponds in their backyards report on what species they encountered and how many of each species they saw.  (`2015` - `2015`)
 - [Pullen](https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/pullen#quicktabs-pullen=0) - Citizens ring young birds to gain insights in the first year of life of their peers.  (`2007` - `ongoing`)
 - [Nationale Bijentelling](https://www.nationalebijentelling.nl/) - Citizens count on one of the predetermined days for 30 minutes  the number of bees in their backyards and also report on their species. (`2017` - `recurring`)
@@ -77,7 +78,6 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Nationale NajaarsVleermuistuintelling](https://www.vleermuis.net/) - Citizens count on one of the predetermined days the number of bats in their backyards and also report on their species from sunset until they have not seen a bat in over 10 minutes. They also give information on where in their backyard they saw the bats and where they did not see any. (`2019` - `recurring`)
 - [Meetnet Urbane Soorten](https://www.sovon.nl/nl/MUS) - Citizens count birds and species three times per season, on top of the yearly separate counts.  (`2007` - `ongoing`)
 - [CR-Birding Submit](https://submit.cr-birding.org/page/who_are_we/) - Citizens register their observations of color marked birds. (`2016` - `ongoing`)
-- [Avondtelling Amfibieën](https://www.tuintelling.nl/evenementen/avondtelling) - Citizens report how many and what kind of amphibians they have seen and heard on a predetermined evening.  (`2016` - `2016`)
 - [Boerenzwaluwproject](https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/boerenzwaluw) - Citizens put in extra effort to ring barn swallows and thereby gain insights in the survival and reproduction of the species.  (`1997` - `ongoing`)
 - [Natuurkalender](https://www.naturetoday.com/intl/nl/observations/natuurkalender?utm_source=natuurkalender.nl&utm_medium=redirect&utm_campaign=olddomain) - Citizens observe a certain animal species on a location they have chosen themselves and note the first day when they enter a new phenological phase. (`1868` - `recurring`)
 - [TreeWiFi](https://www.samenmetenaanluchtkwaliteit.nl/projecten/treewifi) - A project that was started by a citizen where bird houses measure the air quality. When the quality increases, you get free wifi in return.  (`2016` - `ongoing`)
@@ -157,7 +157,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 ### Health
 
 - [Grote Griep & Corona Meting](https://www.griepencorona.nl/het-project/) - Continuation of the Grote Griepmeting, now also including corona (`2021` - `recurring`)
-- [Zoönosenproject](https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/zo%C3%B6nosenproject) - Citizens take blood samples, throat and cloacal swabs of bird species in order for researchers to be able to investigate how the spread of viruses can be prohibited.  (`2017` - `ongoing`)
+- [Zoönosenproject](https://www.jagersvereniging.nl/downloads/bestuurdersdocumenten/telprotocol-zomerganzentelling/) - Citizens take blood samples, throat and cloacal swabs of bird species in order for researchers to be able to investigate how the spread of viruses can be prohibited.  (`2017` - `ongoing`)
 - [Ik heb last-app](https://www.rivm.nl/rivm/kennis-en-kunde/strategisch-programma-rivm/spr-2015-2018/integrale-risicobeoordeling/ik-heb-nu-last-app) - Citizens indicate how much their airways bother them and what symptoms they experience to provide further insights into the causes (and aggrevation) of respiratory diseases. (`2015` - `ongoing`)
 - [MyCardio](https://www.mycardio.nl/) - Citizens with cardiovascular diseases or citizens that are at risk of hart problems, report on their health to get more insights into the cause.  (`2019` - `ongoing`)
 - [Tekenradar](https://www.tekenradar.nl/) - Citizens report whether they or their child have a tick bite, tick bite fever, a red circular rash (Erythema Migrans) and/or Lyme disease, alongside their age. (`2012` - `ongoing`)
@@ -166,18 +166,17 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 ### History
 
+- [Opgemaakt samengevat en ingeklopt: notari√´le akten in Brabant 1743 - 1935](https://velehanden.nl/projecten/bekijk/details/page/2/project/bhic_repnot) - Citizens transcribe notary deeds from notaries from Brabant between 1743 and 1935.  (`2015` - `ongoing`)
 - [In dienst van het Hof (1814 - 1940)](https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/kha) - Citizens digitalize genealogical registers of the staff from King Willem I up until Queen Wilhelmina. (`2017` - `2017`)
 - [Hallo Midden-Holland! De bevolkingsregisters van Midden-Holland ](https://velehanden.nl/projecten/bekijk/details/project/sahm_index_bevolkingsregisters) - Citizens help index scans of population registers from Midden-Holland between 1825 and 1930. (`2019` - `ongoing`)
 - [WieWasWie - Bevolkingsregisters](https://velehanden.nl/projecten/bekijk/details/page/2/project/wiewaswie_bvr) - Citizens help index scans of population registers from Breda, Rotterdam and Maastricht between 1850 and 1938. (`2014` - `ongoing`)
+- [Wonen op Walcheren vervolg Bevolkingsregisters 1812 - 1900](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar) - Citizens help index scans of population registers from Zeeland between 1812 and 1900. (`2015` - `2018`)
 - [Tags en uitleg](https://velehanden.nl/projecten/bekijk/details/page/2/project/mai_tagging) - Citizens describe photos in the archives of the Maria Austria Instituut. (`2013` - `ongoing`)
 - [Met Oprechte Deelneming](https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/gda_2) - Citizens help index scans of death certificates from Gelderland between 1951 and 1960.  (`2017` - `2017`)
 - [Gezocht! Inkloppers van Brabantse gevangenisregisters 1821 - 1940](https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/bhic_strafgevangenissen) - Citizens help digitalize the registration files from prisons in Brabant from the period from 1821 up until 1940. (`2014` - `2015`)
-- [Wonen op Walcheren, vervolg Bevolkingsregisters 1812 - 1900](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar) - Citizens help index scans of population registers from Zeeland between 1812 and 1900. (`2015` - `2018`)
 - [Van de kaart: georefereren van historische kaarten van Stadsarchief Amsterdam](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_kaarten) - Citizens do georeferencing by placing old maps of Amsterdam over existing ones to determine their placement.  (`2016` - `2019`)
 - [Toen-en-nu: Zet Noordwest-Holland op de kaart](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/raa) - Citizens do georeferencing by placing old maps of Noordwest-Holland over existing ones to determine their placement.  (`2018` - `2018`)
 - [Het beeld van Groningen: Persfotobureau D. van der Veen](https://velehanden.nl/projecten/bekijk/details/project/gra_tagging_vanderveen) - Citizens describe photos of Persfotobureau D. van der Veen from the sixties and seventies of the 20th century.  (`2018` - `ongoing`)
-- [Nieuws! Lokale kronieken, 1500 - 1850](https://velehanden.nl/projecten/bekijk/details/project/vua_train_kronieken_transkribus) - Citizens transcribe local chronicles made available by the Koninklijke Bibliotheek. (`2019` - `ongoing`)
-- [Opgemaakt, samengevat en ingeklopt: notariële akten in Brabant 1743 - 1935](https://velehanden.nl/projecten/bekijk/details/page/2/project/bhic_repnot) - Citizens transcribe notary deeds from notaries from Brabant between 1743 and 1935.  (`2015` - `ongoing`)
 - [Oudste bevolkingsregisters van Nijmegen (1820 - 1850)](https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/picvh_han_nijmegen) - Citizens help index scans of population registers from Nijmegen between 1820 and 1850. (`2015` - `2016`)
 - [Westfriezen Geregistreerd](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/wfg_index) - Citizens help index scans of population registers from West Friesland betweeen 1840 and 1930. (`2017` - `2018`)
 - [Surinaamse slavenregisters 1830 - 1863](https://velehanden.nl/projecten/bekijk/details/page/2/project/run_slavenregisters) - Citizens index scans of slave registers of plantations in Suriname between 1830 and 1863. (`2017` - `ongoing`)
@@ -190,6 +189,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Compareerden voor mij](https://velehanden.nl/projecten/bekijk/details/project/wfg_transcription_notarieel) - Citizens transcribe notary deeds from notaries from Westfriesland between 1843 and 1915.  (`2019` - `ongoing`)
 - [Amsterdamse Doodsoorzaken 1854 – 1940](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_run) - Citizens register the information on scans of cards regarding cause of death in Amsterdam betweeen 1854 and 1940. (`2016` - `2020`)
 - [Geef de Belgische vluchtelingen in Gouda een naam](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/sahm_indexing_persons) - Citizens help index scans of registers containing the information of refugees from Belgium that came to Gouda during WWI. (`2018` - `2018`)
+- [Nieuws! Lokale kronieken - 1500 - 1850](https://velehanden.nl/projecten/bekijk/details/project/vua_train_kronieken_transkribus) - Citizens transcribe local chronicles made available by the Koninklijke Bibliotheek. (`2019` - `ongoing`)
 - [Duik in historisch Amsterdam](https://www.iedereenwetenschapper.be/projects/duik-historisch-amsterdam) - Citizens describe photos of monuments in Amsterdam so they can be digitalized.  (`2014` - `2017`)
 - [Waarvan Akte!](https://velehanden.nl/projecten/bekijk/details/project/rar_index_repertoria) - Citizens transcribe notary deeds from notaries from the Rivierengebied between 1811 and 1935.  (`2020` - `ongoing`)
 - [Extra serie Amersfoortse bevolkingsregisters online](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/gam_gezinskaarten) - Citizens help index scans of population registers from Amersfoort between 1860 and 1915. (`2017` - `2019`)
@@ -201,6 +201,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Maak geschiedenis: Zet Groningen op de kaart](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/gra_kaarten) - Citizens do georeferencing by placing old maps of Groningen over existing ones to determine their placement.  (`2017` - `2019`)
 - [Notaris van toen zoekt transcribent van nu](https://velehanden.nl/projecten/bekijk/details/page/2/project/tlb_index) - Citizens transcribe notary deeds from 19th and 20th century notaries from Tilburg.  (`2017` - `ongoing`)
 - [Volgende Patiënt!](https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_patient) - Citizens help index patient registers from hospitals in Amsterdam between 1818 and 1899.  (`2014` - `2016`)
+- [Ja -  ik wil!](https://velehanden.nl/projecten/bekijk/details/project/ja_ik_wil) - Citizens help digitalize registered banns from Amsterdam between 1602 and 1811.  (`2014` - `2016`)
 - [Verlos Gelderse Geboorteakten](https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/gda) - Citizens help index birth certificates from Gelderland between 1819 and 1912.  (`2015` - `2016`)
 - [Holland Amerika Lijn Passagierslijsten](https://velehanden.nl/projecten/bekijk/details/project/cbg_index_hal) - Citizens help index scans of repatriation lists of the people that were emigrated using the Holland Amerika Lijn between 1900 and 1969. (`2018` - `ongoing`)
 - [Captions for Cas](https://velehanden.nl/projecten/bekijk/details/page/2/project/nfm_tagging_photos) - Citizens caption photos made by Cas Oorthuys between 1935 and 1975.  (`2018` - `ongoing`)
@@ -210,7 +211,6 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Wittebroodsweken](https://velehanden.nl/projecten/bekijk/details/project/gda_index_huwelijk) - Citizens help index scans of marriage certificates from Gelderland between 1923 and 1942.  (`2019` - `ongoing`)
 - [Bredase notarissen 1843 - 1905](https://velehanden.nl/projecten/bekijk/details/project/brd_index_repertoria) - Citizens help index archives of notaries located in Breda from 1843 to 1905.  (`2020` - `ongoing`)
 - [AlleFriezen - Bevolkingsregisters](https://velehanden.nl/projecten/bekijk/details/page/2/project/frl) - Citizens help index scans of population registers from Friesland between 1850 and 1939. (`2013` - `ongoing`)
-- [Nieuws 2.0! Lokale kronieken, 1500 - 1850](https://velehanden.nl/projecten/bekijk/details/project/vua_annoteer_kronieken_transkribus) - Citizens help annotate transcribed Dutch chronicles.  (`2020` - `ongoing`)
 - [Glashelder!](https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/nat_nbc) - Citizens help index the old labels on microscopic glass preparations containing mites, springtails and other small organisms in the collection of Naturalis.  (`2013` - `2014`)
 - [Geboeid door boeven! Inschrijfboeken van Brabantse Huizen van Bewaring 19e eeuw](https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/bhic_strafgevangenissen_2) - Citizens help digitalize the registration files from prisons in Brabant in the 19th century.  (`2015` - `2017`)
 - [Goetgevonden! Besluiten van de Staten-Generaal (1576 - 1796)](https://velehanden.nl/projecten/bekijk/details/project/huy_correct_resoluties_transkribus) - Citizens help transcribe the resolutions adopted by the Staten-Generaal between 1576 and 1796. (`2020` - `ongoing`)
@@ -221,9 +221,9 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Vreemdelingenkaarten](https://velehanden.nl/projecten/bekijk/details/project/amsterdam_index_vreemdelingenkaarten) - Citizens register the information on scans of cards from Amsterdam between 1920 and 1970.  (`2021` - `ongoing`)
 - [Bevolkingsregisters gemeentearchief Steenwijkerland 1826 - 1939](https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/swl_bvr) - Citizens help index scans of population registers from Steenwijkerland between 1826 and 1939. (`2015` - `2016`)
 - [Bevolkingsregisters Noord-Hollands Archief](https://velehanden.nl/projecten/bekijk/details/page/2/project/ranh_index) - Citizens help index scans of population registers from Kennemerland, and Amstel- and Meerlanden from 19th and 20th century. (`2017` - `ongoing`)
-- [Ja, ik wil!](https://velehanden.nl/projecten/bekijk/details/project/ja_ik_wil) - Citizens help digitalize registered banns from Amsterdam between 1602 and 1811.  (`2014` - `2016`)
 - [Dijken van Polders](https://velehanden.nl/projecten/bekijk/details/project/hfl_tagging_rijpcollectie) - Citizens add unto the already existing description of photos with events and people depicted on them.  (`2020` - `ongoing`)
 - [Overgenomen Delen 1892-1920](https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/amsterdam_ogd) - Citizens help index the data from scans on people that have died or left Amsterdam from 1892 up until 1920.  (`2012` - `2015`)
+- [Nieuws 2.0! Lokale kronieken -  1500 - 1850](https://velehanden.nl/projecten/bekijk/details/project/vua_annoteer_kronieken_transkribus) - Citizens help annotate transcribed Dutch chronicles.  (`2020` - `ongoing`)
 - [Vele Voeten](https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/picvh_han) - Citizens help digitalize participant registers of the Nijmegen Four Days Marches in a public project (regarding the participants between 1921 and 1939) and a closed project (regarding the participants between 1941 and 1987).  (`2015` - `2016`)
 - [Familie van je?](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/dre_index_inschrijvingsregisters) - Citizens help index scans with data of the people that have lived between 1822 and 1859 in Veenhuizen, on the Ommerschans and in the colonies Frederiksoord, Wilhelminaoord and Willemsoord. (`2018` - `2019`)
 - [Utrechtse notariële akten (1780 - 1811)](https://velehanden.nl/projecten/bekijk/details/project/utrecht_transcription_notarieel) - Citizens transcribe notary deeds from notaries from Utrecht between 1780 and 1811.  (`2019` - `ongoing`)
@@ -280,24 +280,52 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 ### Uncategorized
 
-- [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of “Kilometerhokken Inventariseren”. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `ongoing`)
+- [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of ‚ÄúKilometerhokken Inventariseren‚Äù. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `ongoing`)
 
 <!---->
 
 ## Contributing guidelines
 
-Everyone is welcome to add new citizen science in the Netherlands to this
+Everyone is welcome to add a new citizen science project (from the Netherlands) to this
 list. To keep the contribution process simple and fast, we ask you to follow
-the guidelines below.
+the guide below:
 
-* Follow [`How to add a Citizen Science project to this list?`](CONTRIBUTING.md)
-* Add one project at a time.
-* Each project should have **at least** the following information:
-  * Name of the project;
-  * Short description of the project;
-  * Category to which the project belongs, if the category is not present, create a new one.
-  * Link with more information about the project.
-* Check your spelling and grammar.
+1. Search [previous Pull Requests](https://github.com/sodascience/awesome-citizen-science-nl/pulls) before making a new one, as your project may be a duplicate.
+
+2. Browse to the [`data/categories`](data/categories) folder of this repository.
+
+3. Select the category that belongs to the project you want to add and browse to that folder. If you cannot find the category that fits your project, go directly to step **4**.
+
+4. Above the list of files, using the **Add file** drop-down, click **Create new file**.
+
+5. In the file name field, type the name of the file and use as extension `yml`. For example: `NAME_OF_NEW_PROJECT.yml`. If you did not find the cateogry that fits your project, you need to add the new category name before the name of your project, for example: `NEW_CATEGORY/NAME_OF_NEW_PROJECT.yml`.
+
+6. On the **Edit new file** tab, copy and paste the content below and fill it in with the information concerning your project. Check your spelling and grammar!
+
+```yaml
+---
+name: 
+description: 
+category: 
+organization: 
+location: 
+start_date: 
+end_date: 
+notes_duration: 
+available_data: 
+available_for_research: 
+main_source: 
+link_to_data: 
+```
+
+7. At the bottom of the page, in the **Propose new file** box add a title describing the new file you added. It might be also very simple as: `Add PROJECT NAME, DATE START - DATE END`. You might also specify the new addition further in the *optional extended description field*.
+
+<p align="center">
+  <img src="docs/img/readme-propose-message.png">
+</p>
+
+8. Below the commit message click **Propose new file**.
+
 <!---->
 
 ## Contacts
@@ -305,6 +333,6 @@ the guidelines below.
 This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
-<img src="docs/img/word_colour-l.png" width="250px"></img>
+<img src="docs/img/readme-soda-logo.png" width="250px"></img>
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).

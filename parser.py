@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+import argparse
 from concurrent.futures import ProcessPoolExecutor
 import glob
 import os
@@ -10,7 +11,7 @@ import requests
 from ruamel.yaml import YAML
 
 # Path data
-CSV = "data/citizen-science-projects.csv"
+CSV = "data/citizen-science-projects-nl.csv"
 DATA = "data/categories"
 NOT_OK = ":x:"
 OK = ":white_check_mark:"
@@ -18,15 +19,15 @@ OK = ":white_check_mark:"
 # Ignore InsecureRequestWarning warning
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+# Setup YAML
+y = YAML()
+y.default_flow_style = False
+y.explicit_start = True
+y.indent(sequence=4, offset=2)
+
 
 def read_csv_data():
-    """!!!DEPRECATED!!!
-
-    Read CSV data and output individual yml files.
-    """
-    # Excel not used anymore
-    # xlsl = pd.read_excel("data/citizen-science-projects.xlsx")
-    # xlsl.to_csv("data/citizen-science-projects.csv")
+    """Read CSV data and output individual yml files."""
     csv = pd.read_csv(CSV)
 
     # Find unique categories
@@ -44,7 +45,6 @@ def read_csv_data():
         if not os.path.exists(PATH_CATEGORY):
             os.makedirs(PATH_CATEGORY)
         cat_data = csv[csv["category"] == categories[cat]].copy()
-        cat_data.drop(columns=['Unnamed: 0'], inplace=True)
         # Save each line of each cateogry in json file
         # but only if file was updated
         for i, r in cat_data.iterrows():
@@ -54,14 +54,25 @@ def read_csv_data():
             if os.path.isfile(PATH_FILE):
                 with open(PATH_FILE, "r") as old_file:
                     old = y.load(old_file.read())
+                    if old is None:
+                        save_dict_to_yaml(PATH_FILE, dict_r)
                     #  if not equal then overwrite with new
-                    if not dict(old) == dict(dict_r):
+                    elif not dict(old) == dict(dict_r):
                         old_file.close()
-                        with open(PATH_FILE, 'w') as ofile:
-                            y.dump(dict_r, ofile)
+                        save_dict_to_yaml(PATH_FILE, dict_r)
             else:
-                with open(PATH_FILE, 'w') as ofile:
-                    y.dump(dict_r, ofile)
+                save_dict_to_yaml(PATH_FILE, dict_r)
+
+
+def save_dict_to_yaml(PATH, dict):
+    with open(PATH, 'w') as file:
+        start_date = dict["start_date"]
+        try:
+            if isinstance(start_date, int) or isinstance(start_date, float):
+                dict["start_date"] = int(start_date)
+        except ValueError:
+            dict["start_date"] = None
+        y.dump(dict, file)
 
 
 def read_yml_files():
@@ -84,17 +95,21 @@ def read_yml_files():
     list_urls = []
     for i, r in df.iterrows():
         list_urls.append({
-            "url": r["main_source"],
+            "url": r["project_information_url"],
             "name": r["name"]})
     problems_url = pd.DataFrame(check_urls(list_urls), columns=[
         "name", "url", "error"])
     problems_url["icon"] = NOT_OK
     df = df.merge(problems_url, how="left", on="name")
 
+    # Clean df before saving
+    df_save = df.copy()
+    df_save.drop(columns=["icon", "url", "error"], inplace=True)
     # Save to CSV
-    df.to_csv("data/citizen-science-projects-nl.csv")
+    df_save.to_csv("data/citizen-science-projects-nl.csv", index=False)
     # Save to Excel
-    df.to_excel("data/citizen-science-projects-nl.xls")
+    df_save.to_excel("data/citizen-science-projects-nl.xlsx",
+                     index=False, engine='openpyxl')
 
     return df
 
@@ -162,10 +177,10 @@ def create_readme(df):
             except:
                 start_date = "NA"
             if not pd.isna(r['icon']):
-                project = f"- {r['icon']}  [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                project = f"- {r['icon']}  [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
                 list_items = list_items + project
             else:
-                project = f"- [{r['name']}]({r['main_source']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                project = f"- [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
                 list_items = list_items + project
         list_blocks = list_blocks + block + list_items
 
@@ -176,12 +191,27 @@ def create_readme(df):
     readme += '<!---->' + text_contributing
     readme += '<!---->' + text_contacts
 
-    return readme
-
-
-# Write new README.md
-if __name__ == "__main__":
-    df = read_yml_files()
-    readme_file = create_readme(df)
     with open('README.md', 'w+', encoding='utf-8') as sorted_file:
-        sorted_file.write(readme_file)
+        sorted_file.write(readme)
+
+
+def read_yml_files_to_readme():
+    df = read_yml_files()
+    create_readme(df)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--csv-to-yaml",
+                        dest="csv_to_yaml",
+                        help="Read the CSV and convert each project to YAML",
+                        action="store_true")
+    parser.add_argument("--yaml-to-csv-to-readme",
+                        dest="yaml_to_csv_to_readme", help="Read all the YAML files and convert them to CSV",
+                        action="store_true")
+    args = parser.parse_args()
+
+    if args.csv_to_yaml:
+        read_csv_data()
+    if args.yaml_to_csv_to_readme:
+        read_yml_files_to_readme()

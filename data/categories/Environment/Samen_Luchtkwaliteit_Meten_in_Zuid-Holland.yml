@@ -5,11 +5,13 @@ description: 'Citizens place sensors that measure the local air quality. This is
   in cluster. '
 category: Environment
 organization: Provincie Zuid-Holland, RIVM and DCMR Milieudienst Rijnmond
-location: 'Zuid-Holland '
-start_date: 2017.0
+country: The Netherlands
+location: 'ZuidHolland '
+notes_location: .nan
+start_date: 2017
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-luchtkwaliteit-meten-in-zuid-holland
-link_to_data: 'https://samenmeten.rivm.nl/dataportaal/  '
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-luchtkwaliteit-meten-in-zuid-holland
+data_url: 'https://samenmeten.rivm.nl/dataportaal/  '

@@ -5,11 +5,13 @@ description: 'Citizens fill out short surveys about their perception of their cu
   doing. '
 category: Society
 organization: TU Delft
-location: Amsterdam (pilot)
-start_date: 2019.0
+country: The Netherlands
+location: Amsterdam
+notes_location: Pilot
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: http://www.wesense.info/en/index.html
-link_to_data: http://www.wesense.info/en/maps.html
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: http://www.wesense.info/en/index.html
+data_url: http://www.wesense.info/en/maps.html

@@ -5,11 +5,13 @@ category: Environment
 organization: RIVM, Waag Technology and Society, de Gemeente Zaanstad, Gemeente Haarlem,
   Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaal, TATA Steel, Smart City Haarlem,
   Buiksloterham Circulair, Studio O, Stofmelder and Brak! IJmuiden
-location: Noord-Holland
-start_date: 2019.0
+country: The Netherlands
+location: NoordHolland
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://hollandseluchten.waag.org/
-link_to_data: https://hollandseluchten.waag.org/kaart/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://hollandseluchten.waag.org/
+data_url: https://hollandseluchten.waag.org/kaart/

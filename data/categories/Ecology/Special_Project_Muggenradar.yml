@@ -3,11 +3,13 @@ name: Special Project Muggenradar
 description: Citizens send researchers the mosquitos they have killed.
 category: Ecology
 organization: Wageningen University & Research
-location: The Netherlands
-start_date: 2021.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2021
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=27308
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=27308
+data_url: '-'

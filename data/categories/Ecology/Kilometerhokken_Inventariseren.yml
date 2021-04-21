@@ -4,11 +4,13 @@ description: Citizens register the locations plant species by crossing them off 
   a list in a predetermined area.
 category: Ecology
 organization: FLORON
-location: The Netherlands
-start_date: 1988.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 1988
 end_date: ongoing
-notes_duration: Also in 1902 - 1980
-available_data: Viewable
-available_for_research: Yes
-main_source: 'https://www.floron.nl/meedoen/kilometerhokken-inventariseren '
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: Also in 1902  1980
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: 'https://www.floron.nl/meedoen/kilometerhokken-inventariseren '
+data_url: https://www.ndff.nl/overdendff/data/

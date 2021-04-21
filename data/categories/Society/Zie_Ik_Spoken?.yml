@@ -8,11 +8,13 @@ description: Citizens first complete an extensive questionnaire about who they a
   use (drugs and alcohol) and the project concludes with a hearing test.
 category: Society
 organization: UMC Utrecht
-location: The Netherlands
-start_date: 2016.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2016
 end_date: '2016'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.nemokennislink.nl/publicaties/zie-ik-spoken/
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.nemokennislink.nl/publicaties/zie-ik-spoken/
+data_url: '-'

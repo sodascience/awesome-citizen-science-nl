@@ -4,11 +4,13 @@ description: 'Citizens report where and what plants/weeds they found on their si
 category: Ecology
 organization: Hortus Leiden, Nederlandse Vereniging Botanische Tuinen, Singelpark
   and Verwonder om de Hoek
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: Not yet, but likely later
-available_for_research: No
-main_source: https://www.hortusleiden.nl/onderwijs/stoepplantjes-1
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.hortusleiden.nl/onderwijs/stoepplantjes-1
+data_url: '-'

@@ -4,11 +4,13 @@ description: 'Citizens measure air quality through sensors attached to their bic
   by cycling different routes. '
 category: Environment
 organization: Provincie Utrecht, Civity, SODAQ and the RIVM
-location: Provincie Utrecht
-start_date: 2019.0
+country: The Netherlands
+location: Utrecht province
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
 notes_duration: 2018 pilot
-available_data: 'Viewable '
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/snuffelfiets
-link_to_data: https://snuffelfiets.nl/data/
+data_accessibility: 'Viewable '
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/snuffelfiets
+data_url: https://snuffelfiets.nl/data/

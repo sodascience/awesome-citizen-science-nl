@@ -6,11 +6,13 @@ description: Citizens count on one of the predetermined days the number of bats 
   they saw the bats and where they did not see any.
 category: Ecology
 organization: 'Zoogdiervereniging '
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.vleermuis.net/
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.vleermuis.net/
+data_url: https://www.ndff.nl/overdendff/data/

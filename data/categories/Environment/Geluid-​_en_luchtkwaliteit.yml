@@ -5,11 +5,13 @@ description: 'Citizens in Schiedam place sensors that measure the amount of nois
 category: Environment
 organization: 'Gemeente Schiedam, DCMR, Ministerie van Infrastructuur en Milieu and
   the RIVM '
+country: The Netherlands
 location: 'Schiedam '
-start_date: 2017.0
+notes_location: .nan
+start_date: 2017
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/burgermetingen-schiedam
-link_to_data: https://www.webgispublisher.nl/schiedam/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/burgermetingen-schiedam
+data_url: https://www.webgispublisher.nl/schiedam/

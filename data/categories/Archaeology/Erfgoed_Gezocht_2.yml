@@ -6,11 +6,13 @@ description: 'The project consists of two stages. In the first stage, citizen ex
   on their excavations. '
 category: Archaeology
 organization: Leiden University and Landschap Erfgoed Utrecht
+country: The Netherlands
 location: Utrechtse Heuvelrug
-start_date: 2020.0
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.universiteitleiden.nl/citizensciencelab/projecten/erfgoed-gezocht
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/erfgoed-gezocht
+data_url: '-'

@@ -4,11 +4,13 @@ description: 'Citizens match photos made of places on the Earth in the night fro
   space with the correct location. '
 category: Science
 organization: Cities At Night (collaboration between ESA and NASA)
-location: Worldwide
-start_date: 2014.0
+country: Worldwide
+location: .nan
+notes_location: .nan
+start_date: 2014
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.iedereenwetenschapper.be/projects/bekijk-de-aarde-vanuit-de-ruimte
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.iedereenwetenschapper.be/projects/bekijk-de-aarde-vanuit-de-ruimte
+data_url: '-'

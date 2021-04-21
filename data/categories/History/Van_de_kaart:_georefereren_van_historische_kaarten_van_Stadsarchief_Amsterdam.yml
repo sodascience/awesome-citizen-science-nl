@@ -4,11 +4,13 @@ description: 'Citizens do georeferencing by placing old maps of Amsterdam over e
   ones to determine their placement. '
 category: History
 organization: Stadsarchief Amsterdam
-location: The Netherlands
-start_date: 2016.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2016
 end_date: '2019'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_kaarten
-link_to_data: https://archief.amsterdam/inventarissen/details/10035
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_kaarten
+data_url: https://archief.amsterdam/inventarissen/details/10035

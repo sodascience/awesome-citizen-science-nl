@@ -4,11 +4,13 @@ description: 'Citizens put in extra effort to ring barn swallows and thereby gai
   insights in the survival and reproduction of the species. '
 category: Ecology
 organization: Vogeltrekstation, Vogelbescherming Nederland and NIOO-KNAW
-location: The Netherlands
-start_date: 1997.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 1997
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable
-available_for_research: Yes
-main_source: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/boerenzwaluw
-link_to_data: https://euring.org/data-and-codes/obtaining-data
+notes_duration: .nan
+data_accessibility: Probably viewable
+accessibility_for_research: Yes
+project_information_url: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/boerenzwaluw
+data_url: https://euring.org/data-and-codes/obtaining-data

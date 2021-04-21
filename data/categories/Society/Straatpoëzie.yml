@@ -5,11 +5,13 @@ description: 'Citizens report streetpoetry, poetry that is placed out in the ope
 category: Society
 organization: Utrecht University and the Nederlandse Organisatie voor Wetenschappelijk
   Onderzoek (NWO)
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: ongoing
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://straatpoezie.nl/
-link_to_data: https://straatpoezie.nl/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://straatpoezie.nl/
+data_url: https://straatpoezie.nl/

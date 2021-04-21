@@ -4,11 +4,13 @@ description: Citizens register the information on scans of the newspapers from t
   17th century.
 category: History
 organization: Radboud University and the Meertens Instituut
-location: The Netherlands
-start_date: .nan
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date:
 end_date: .nan
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd
+data_url: '-'

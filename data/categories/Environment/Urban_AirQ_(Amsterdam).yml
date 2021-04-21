@@ -5,11 +5,13 @@ description: Citizens help measure fine dust and nitrogen dioxide in the air in 
 category: Environment
 organization: Wageningen University & Research, KNMI, Waag Technology and Society,
   and GGD Amsterdam
+country: The Netherlands
 location: Amsterdam
-start_date: 2016.0
+notes_location: .nan
+start_date: 2016
 end_date: '2016'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/projecten/urban-airq-amsterdam
-link_to_data: https://amt.copernicus.org/articles/11/1297/2018/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/urban-airq-amsterdam
+data_url: https://amt.copernicus.org/articles/11/1297/2018/

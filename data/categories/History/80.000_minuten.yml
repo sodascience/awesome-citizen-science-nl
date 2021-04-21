@@ -4,11 +4,13 @@ description: 'Citizens transcribe notary deeds from notaries from Leiden between
   and 1811. '
 category: History
 organization: Regionaal Archief Leiden
-location: The Netherlands
-start_date: 2014.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2014
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable once finished
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/page/2/project/leiden_na1
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: Probably viewable once finished
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/leiden_na1
+data_url: '-'

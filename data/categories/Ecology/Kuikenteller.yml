@@ -4,11 +4,13 @@ description: 'Citizens count the number of ducklings in a place near them and th
   follow them and report of their survival for the rest of the season. '
 category: Ecology
 organization: Sovon Vogelonderzoek Nederland
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: '2020'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.iedereenwetenschapper.be/projects/hoe-gaat-het-met-de-wilde-eend
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.iedereenwetenschapper.be/projects/hoe-gaat-het-met-de-wilde-eend
+data_url: '-'

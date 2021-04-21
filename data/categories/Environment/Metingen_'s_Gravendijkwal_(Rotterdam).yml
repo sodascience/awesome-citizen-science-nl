@@ -5,11 +5,13 @@ description: "Citizens investigate how the emissions of hazardous substances on 
   \ small particles of water. "
 category: Environment
 organization: Stadslab Luchtkwaliteit
+country: The Netherlands
 location: Rotterdam
-start_date: 2015.0
+notes_location: .nan
+start_date: 2015
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.samenmetenaanluchtkwaliteit.nl/metingen-s-gravendijkwal-rotterdam
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/metingen-s-gravendijkwal-rotterdam
+data_url: '-'

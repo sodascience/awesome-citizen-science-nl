@@ -4,11 +4,13 @@ description: 'Citizens count the number of new nests of the barn swallow in thei
   own backyards. '
 category: Ecology
 organization: Sovon and the Vogelbescherming
-location: The Netherlands
-start_date: 2011.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2011
 end_date: '2019'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: 'https://www.tuintelling.nl/evenementen '
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: 'https://www.tuintelling.nl/evenementen '
+data_url: https://www.ndff.nl/overdendff/data/

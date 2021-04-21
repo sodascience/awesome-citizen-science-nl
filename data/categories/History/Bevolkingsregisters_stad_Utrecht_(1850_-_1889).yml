@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from Utrecht betw
   1850 and 1889.
 category: History
 organization: Utrechts Archief
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable once finished
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/project/utr_index_bvr_1850_1889
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: Probably viewable once finished
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/utr_index_bvr_1850_1889
+data_url: '-'

@@ -6,14 +6,16 @@ category: History
 organization: Archief Delft, Archief Eemland, Historisch Informatie Centrum,  Gemeentearchief
   Barneveld, Gemeentearchief Ede, Gemeentearchief Waalwijk, Het Markiezenhof, Het
   Utrechts Archief, Noord-Hollands Archief, Regionaal Archief Nijmegen, Regionaal
-  Archief Zutphen, Stadsarchief ’s-Hertogenbosch, Stadsarchief Amsterdam, Streekarchief
+  Archief Zutphen, Stadsarchief ‚Äôs-Hertogenbosch, Stadsarchief Amsterdam, Streekarchief
   Land van Heusden en Altena, Streekarchief Voorne-Putten en Rozenburg and Tresoar
   (Friesland)
-location: The Netherlands
-start_date: 2011.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2011
 end_date: '2014'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/militieregisters
-link_to_data: https://www.openarch.nl/indexen/9/militieregisters?lang=nl
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/militieregisters
+data_url: https://www.openarch.nl/indexen/9/militieregisters?lang=nl

@@ -5,11 +5,13 @@ description: 'Citizens identify fish species on paintings to gain information on
 category: Ecology
 organization: Leiden University Centre for the Arts in Society (LUCAS) and the Naturalis
   Biodiversity Center
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: '2020'
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.zooniverse.org/projects/anneoverduin/fishing-in-the-past/about/research
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.zooniverse.org/projects/anneoverduin/fishing-in-the-past/about/research
+data_url: '-'

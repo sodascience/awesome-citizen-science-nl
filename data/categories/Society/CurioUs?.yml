@@ -7,11 +7,13 @@ description: 'Citizens can go up to  the CurioUs lab to borrow measuring equipme
 category: Society
 organization: Science LinX, Forum Groningen and the Aletta Jacobs School of Public
   Health
+country: The Netherlands
 location: Groningen
-start_date: 2020.0
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.rug.nl/sciencelinx/maatschappij/curious
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.rug.nl/sciencelinx/maatschappij/curious
+data_url: '-'

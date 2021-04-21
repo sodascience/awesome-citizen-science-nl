@@ -4,11 +4,13 @@ description: 'A contest where citizens try to discover as many animals and plant
   in their backyard within a 24-hour time period. '
 category: Ecology
 organization: Jaarrond Tuintelling
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.tuintelling.nl/data/result/evenement/EBB
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.tuintelling.nl/data/result/evenement/EBB
+data_url: https://www.ndff.nl/overdendff/data/

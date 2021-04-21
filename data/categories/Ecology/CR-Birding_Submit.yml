@@ -4,11 +4,13 @@ description: Citizens register their observations of color marked birds.
 category: Ecology
 organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation Nederland and Dirk
   Raes
-location: The Netherlands
-start_date: 2016.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2016
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://submit.cr-birding.org/page/who_are_we/
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://submit.cr-birding.org/page/who_are_we/
+data_url: '-'

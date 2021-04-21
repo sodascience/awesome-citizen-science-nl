@@ -4,11 +4,13 @@ description: 'Citizens register when and how many hedgehogs they have encountere
   Dead hedgehogs are also reported. '
 category: Ecology
 organization: Zoogdiervereniging and the Egelwerkgroep Nederland
-location: The Netherlands
-start_date: 2009.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2009
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.tuintelling.nl/data/result/evenement/EE
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.tuintelling.nl/data/result/evenement/EE
+data_url: https://www.ndff.nl/overdendff/data/

@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from Midden-Holla
   between 1825 and 1930.
 category: History
 organization: Streekarchief Midden-Holland
-location: The Netherlands
-start_date: 2019.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2019
 end_date: ongoing
-notes_duration: '-'
-available_data: Probably viewable once finished
-available_for_research: No
-main_source: https://velehanden.nl/projecten/bekijk/details/project/sahm_index_bevolkingsregisters
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: Probably viewable once finished
+accessibility_for_research: No
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/sahm_index_bevolkingsregisters
+data_url: '-'

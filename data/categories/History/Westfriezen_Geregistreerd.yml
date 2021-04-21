@@ -4,11 +4,13 @@ description: Citizens help index scans of population registers from West Friesla
   betweeen 1840 and 1930.
 category: History
 organization: Westfries Archief
-location: The Netherlands
-start_date: 2017.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2017
 end_date: '2018'
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/wfg_index
-link_to_data: https://www.westfriesarchief.nl/onderzoek/zoeken/personen
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/wfg_index
+data_url: https://www.westfriesarchief.nl/onderzoek/zoeken/personen

@@ -4,11 +4,13 @@ description: 'Citizens (mostly in groups) report how many and what kind of toads
   transferred. '
 category: Ecology
 organization: Stichting RAVON
-location: The Netherlands
-start_date: 2008.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2008
 end_date: recurring
-notes_duration: '-'
-available_data: Viewable
-available_for_research: Yes
-main_source: https://www.ravon.nl/Portals/2/Bestanden/Publicaties/Rapporten/2007.003k.pdf
-link_to_data: https://www.ndff.nl/overdendff/data/
+notes_duration: .nan
+data_accessibility: Viewable
+accessibility_for_research: Yes
+project_information_url: https://www.ravon.nl/Portals/2/Bestanden/Publicaties/Rapporten/2007.003k.pdf
+data_url: https://www.ndff.nl/overdendff/data/

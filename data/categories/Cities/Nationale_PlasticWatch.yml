@@ -5,11 +5,13 @@ description: Citizens report litter to help Rijkswaterstaat gain insights on the
 category: Cities
 organization: WaterLab (TU Delft), Rijkswaterstaat, Hogeschool Rotterdam and HZ University
   of Applied Sciences
-location: The Netherlands
-start_date: 2020.0
+country: The Netherlands
+location: .nan
+notes_location: .nan
+start_date: 2020
 end_date: ongoing
-notes_duration: '-'
-available_data: No direct download
-available_for_research: No
-main_source: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-6-nationale-plasticwatch
-link_to_data: '-'
+notes_duration: .nan
+data_accessibility: No direct download
+accessibility_for_research: No
+project_information_url: https://www.tudelft.nl/scd/waterlab/doe-mee-aan-onderzoek/project-6-nationale-plasticwatch
+data_url: '-'
