@@ -318,8 +318,8 @@ status: # Choose from: ongoing, recurring or ended
 notes_duration: # Additional notes on the duration of the project
 data_accessibility: # Choose from: Viewable, Probably viewable, Probably viewable once finished, No direct download
 accessibility_for_research: # Choose from: yes, no or unsure
-project_information_url: # Url to the main page of the project | *Compulsory
 data_url: # Url to the main source of the project's data, if not available please use '-'
+project_information_url: # Url to the main page of the project | *Compulsory
 ```
 
 7. At the bottom of the page, in the **Propose new file** box add a title describing the new file you added. It might be also very simple as: `Add PROJECT NAME, DATE START - DATE END`. You might also specify the new addition further in the *optional extended description field*.
