@@ -30,12 +30,12 @@ y.indent(sequence=4, offset=2)
 def excel_to_csv():
     """Convert excel to csv for other uses."""
     excel = pd.read_excel(EXCEL, engine='openpyxl')
-    excel.to_csv(CSV, index=False)
+    excel.to_csv(CSV, index=False, sep="|")
 
 
 def csv_to_yaml():
     """Read CSV data and output individual yml files."""
-    csv = pd.read_csv(CSV)
+    csv = pd.read_csv(CSV, sep="|")
 
     # Find unique categories
     categories = pd.unique(csv["main_category"])
@@ -102,7 +102,8 @@ def yml_to_csv_and_excel():
     df_save = df.copy()
     df_save.drop(columns=["icon", "url", "error"], inplace=True)
     # Save to CSV
-    df_save.to_csv("data/citizen-science-projects-nl.csv", index=False)
+    df_save.to_csv("data/citizen-science-projects-nl.csv",
+                   index=False, sep="|")
     # Save to Excel
     df_save.to_excel("data/citizen-science-projects-nl.xlsx",
                      index=False, engine='openpyxl')
@@ -152,6 +153,10 @@ def create_readme(df):
         for i, r in filtered.iterrows():
             start_date = convert_date(r, 'start_date')
             end_date = convert_date(r, 'end_date')
+            if end_date == "NA":
+                # If end date is NA, the status is a better indication of the current
+                # state of the proejct
+                end_date = r["status"]
             if not pd.isna(r['icon']):
                 project = f"- {r['icon']}  [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{end_date}`)\n"
                 list_items = list_items + project
