@@ -1,13 +1,15 @@
 ---
 name: Vele Ajacieden
 description: Citizens describe photos in the archives of Ajax.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Ajax Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2014
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

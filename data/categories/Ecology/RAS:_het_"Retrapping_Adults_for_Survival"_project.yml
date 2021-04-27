@@ -3,13 +3,15 @@ name: 'RAS: het "Retrapping Adults for Survival" project'
 description: 'Citizens focus on one bird species they decide on themselves and then
   try the trap birds in nets to ring them. When a bird was also ringed last year,
   this is noted. Together, this gives insights in the survival of birds. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation and NIOO-KNAW
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 1998
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Yes

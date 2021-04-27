@@ -2,13 +2,15 @@
 name: Tuinvijver-opschoontelling
 description: 'Citizens cleaning the ponds in their backyards report on what species
   they encountered and how many of each species they saw. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Stichting RAVON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2015'
+end_date: 2015
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

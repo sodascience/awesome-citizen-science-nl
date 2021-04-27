@@ -2,13 +2,15 @@
 name: Wittebroodsweken
 description: 'Citizens help index scans of marriage certificates from Gelderland between
   1923 and 1942. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Gelders Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

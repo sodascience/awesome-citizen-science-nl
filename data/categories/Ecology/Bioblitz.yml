@@ -2,13 +2,15 @@
 name: Bioblitz
 description: 'A contest where citizens try to discover as many animals and plants
   in their backyard within a 24-hour time period. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Jaarrond Tuintelling
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

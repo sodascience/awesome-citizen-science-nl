@@ -2,13 +2,15 @@
 name: 'Van de kaart: georefereren van historische kaarten van Stadsarchief Amsterdam'
 description: 'Citizens do georeferencing by placing old maps of Amsterdam over existing
   ones to determine their placement. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

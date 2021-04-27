@@ -2,13 +2,15 @@
 name: Muggenradar
 description: 'Citizens report how much trouble they experience from mosquitoes (none,
   a little, much, very much). '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Wageningen University & Research
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: 1 observation in 2009 and 2014
 data_accessibility: Viewable
 accessibility_for_research: Yes

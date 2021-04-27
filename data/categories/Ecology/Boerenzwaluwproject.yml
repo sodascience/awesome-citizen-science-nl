@@ -2,13 +2,15 @@
 name: Boerenzwaluwproject
 description: 'Citizens put in extra effort to ring barn swallows and thereby gain
   insights in the survival and reproduction of the species. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Vogeltrekstation, Vogelbescherming Nederland and NIOO-KNAW
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 1997
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Yes

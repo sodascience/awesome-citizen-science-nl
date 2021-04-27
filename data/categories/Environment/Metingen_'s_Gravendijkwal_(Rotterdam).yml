@@ -3,13 +3,15 @@ name: Metingen 's Gravendijkwal (Rotterdam)
 description: "Citizens investigate how the emissions of hazardous substances on the\
   \ 's Gravendijkwasstraat can be limited with the use of a hoze that spreads very\
   \ small particles of water. "
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Stadslab Luchtkwaliteit
 country: The Netherlands
 location: Rotterdam
 notes_location: .nan
 start_date: 2015
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

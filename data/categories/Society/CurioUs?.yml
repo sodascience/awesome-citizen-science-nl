@@ -4,14 +4,16 @@ description: 'Citizens can go up to  the CurioUs lab to borrow measuring equipme
   and receive tips on how to use it. Moreover, the lab encourages the citizens to
   partake in different citizen science projects. For instance, the first project they
   took on was Onze Lucht (also on this list). '
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: Science LinX, Forum Groningen and the Aletta Jacobs School of Public
   Health
 country: The Netherlands
 location: Groningen
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

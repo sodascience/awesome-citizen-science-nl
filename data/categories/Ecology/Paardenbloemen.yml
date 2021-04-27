@@ -3,13 +3,15 @@ name: Paardenbloemen
 description: 'Citizens collect blowballs of dandelions, and report how long and how
   wide the tails are. Then they go inside, select five achenes which they let go five
   times each and report how long it takes them to land on the ground. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: 'EvoScope (Gemeente Leiden, Leiden University and Naturalis) '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

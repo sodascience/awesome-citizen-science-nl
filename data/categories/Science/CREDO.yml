@@ -2,13 +2,15 @@
 name: CREDO
 description: 'Citizens help detect glowing pixels with the cameras of their phones
   to test one of the theories of what dark matter could be. '
-category: Science
+main_category: Science
+extra_categories: .nan
 organization: Institute for Nuclear Physics Polish Academy of Sciences
 country: Worldwide
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

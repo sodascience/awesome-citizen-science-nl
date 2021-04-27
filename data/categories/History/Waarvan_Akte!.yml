@@ -2,13 +2,15 @@
 name: Waarvan Akte!
 description: 'Citizens transcribe notary deeds from notaries from the Rivierengebied
   between 1811 and 1935. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Regionaal Archief Rivierenland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

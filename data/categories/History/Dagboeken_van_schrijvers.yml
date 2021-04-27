@@ -2,13 +2,15 @@
 name: Dagboeken van schrijvers
 description: Citizens transcribe diaries of Lodewijk van Deyssel, Henri van Booven
   and J. Greshoff.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Literatuurmuseum
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Partly viewable
 accessibility_for_research: Yes

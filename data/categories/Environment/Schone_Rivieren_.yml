@@ -2,13 +2,15 @@
 name: 'Schone Rivieren '
 description: 'Citizens help researchers by cleaning up rivers and investigating what
   they find. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: IVN Natuureducatie, Plastic Soup Foundation and Stichting de Noordzee
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

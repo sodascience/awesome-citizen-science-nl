@@ -3,13 +3,15 @@ name: Missing Links
 description: Citizens link data related to photos to data already present in population
   registers of Hillegom, Leiden, Leiderdorp, Noordwijk, Rijnsburg, Sassenheim, Voorhout,
   Voorschoten, Warmond and Zoeterwoude.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Regionaal Archief Leiden
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

@@ -2,13 +2,15 @@
 name: Kijk Je Rijk(er)!
 description: 'Citizens help describe digitalize film fragments of Omroep Amersfoort
   between 1985 and 2011. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Archief Eemland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

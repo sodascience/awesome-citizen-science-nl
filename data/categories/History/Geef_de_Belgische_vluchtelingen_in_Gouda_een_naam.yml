@@ -2,13 +2,15 @@
 name: Geef de Belgische vluchtelingen in Gouda een naam
 description: Citizens help index scans of registers containing the information of
   refugees from Belgium that came to Gouda during WWI.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Streekarchief Midden-Holland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: '2018'
+end_date: 2018
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

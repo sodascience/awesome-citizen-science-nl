@@ -1,14 +1,16 @@
 ---
 name: Grote Griep Meting
 description: 'Citizens report when they or someone they know gets a cold or the flu. '
-category: Health
+main_category: Health
+extra_categories: .nan
 organization: Kennislink, Natuurwetenschap&Techniek, NIBI, CWI, RIVM, de Digitale
   School, Kennisnet, Nijgh Versluys, NVON and NIVEL
 country: The Netherlands, Belgium
 location: .nan
 notes_location: .nan
 start_date: 2003
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

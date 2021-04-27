@@ -2,13 +2,15 @@
 name: 'Maak geschiedenis: Zet Groningen op de kaart'
 description: 'Citizens do georeferencing by placing old maps of Groningen over existing
   ones to determine their placement. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: 'De Groninger Archieven '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

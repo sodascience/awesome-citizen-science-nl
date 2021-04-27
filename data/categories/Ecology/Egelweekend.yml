@@ -2,13 +2,15 @@
 name: Egelweekend
 description: 'Citizens register when and how many hedgehogs they have encountered.
   Dead hedgehogs are also reported. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Zoogdiervereniging and the Egelwerkgroep Nederland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2009
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

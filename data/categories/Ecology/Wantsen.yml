@@ -1,13 +1,15 @@
 ---
 name: Wantsen
 description: 'Citizens make photos of the bugs they encounter and load them unto waarneming.nl. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: EIS Kenniscentrum Insecten
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2018'
+end_date: 2018
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

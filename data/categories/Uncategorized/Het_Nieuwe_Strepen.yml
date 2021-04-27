@@ -1,15 +1,17 @@
 ---
 name: Het Nieuwe Strepen
-description: 'Special form of ‚ÄúKilometerhokken Inventariseren‚Äù. It works similar
-  to that project, but now the area is searched by two citizens, independent from
-  each other. '
-category: Uncategorized
+description: 'Special form of "Kilometerhokken Inventariseren". It works similar to
+  that project, but now the area is searched by two citizens, independent from each
+  other. '
+main_category: Uncategorized
+extra_categories: .nan
 organization: FLORON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

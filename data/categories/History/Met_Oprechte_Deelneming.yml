@@ -2,13 +2,15 @@
 name: Met Oprechte Deelneming
 description: 'Citizens help index scans of death certificates from Gelderland between
   1951 and 1960. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Gelders Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Unsure

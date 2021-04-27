@@ -2,13 +2,15 @@
 name: Wildspotter
 description: 'Citizens check whether animals can find their way at fauna passages
   by watching videos. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Arcadis
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
 end_date: .nan
+status: unknown
 notes_duration: No indication when the project ended
 data_accessibility: No direct download
 accessibility_for_research: No

@@ -2,13 +2,15 @@
 name: Alumni KABK
 description: 'Citizens help digitalize scans of cards containing the alumni and teachers
   of the KABK. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Koninklijke Academie van Beeldende Kunsten
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: '2013'
+end_date: 2013
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

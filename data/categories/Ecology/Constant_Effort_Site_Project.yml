@@ -3,13 +3,15 @@ name: Constant Effort Site Project
 description: 'Citizens help ring birds. What is different for this project is that
   it is all very standardized: citizens go every ten days, for the same amount of
   time and place the nets on the same places. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation and NIOO-KNAW
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 1994
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable after application
 accessibility_for_research: Yes

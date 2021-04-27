@@ -2,13 +2,15 @@
 name: 'Toen-en-nu: Zet Noordwest-Holland op de kaart'
 description: 'Citizens do georeferencing by placing old maps of Noordwest-Holland
   over existing ones to determine their placement. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Regionaal Archief Alkmaar
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: '2018'
+end_date: 2018
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

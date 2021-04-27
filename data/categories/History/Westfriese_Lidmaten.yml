@@ -2,13 +2,15 @@
 name: Westfriese Lidmaten
 description: Citizens help index membership registers from churches between 1572 and
   1913.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Westfries Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2013
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

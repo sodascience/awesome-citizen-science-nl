@@ -3,13 +3,15 @@ name: GrowApp
 description: 'Citizens make pictures of a certain spot in nature, which the app transforms
   into a time-lapse to capture the change of seasons. The app sheds light on the impact
   of climate change on nature. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Wageningen University & Research and GLOBE
 country: The Netherlands
 location: .nan
 notes_location: Officially worldwide, but most activity is in The Netherlands
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

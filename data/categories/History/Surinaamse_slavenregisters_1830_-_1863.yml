@@ -2,13 +2,15 @@
 name: Surinaamse slavenregisters 1830 - 1863
 description: Citizens index scans of slave registers of plantations in Suriname between
   1830 and 1863.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Radboud University and Anton de Kom Universiteit Suriname
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

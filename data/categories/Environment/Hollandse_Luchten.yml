@@ -1,7 +1,8 @@
 ---
 name: Hollandse Luchten
 description: 'Citizens in Noord-Holland place sensors that measure the local air quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: RIVM, Waag Technology and Society, de Gemeente Zaanstad, Gemeente Haarlem,
   Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaal, TATA Steel, Smart City Haarlem,
   Buiksloterham Circulair, Studio O, Stofmelder and Brak! IJmuiden
@@ -9,7 +10,8 @@ country: The Netherlands
 location: NoordHolland
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

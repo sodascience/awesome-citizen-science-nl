@@ -2,13 +2,15 @@
 name: Boerenzwaluw - nestentelling
 description: 'Citizens count the number of nests of the barn swallow in their own
   backyards. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon and the Vogelbescherming
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2011
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

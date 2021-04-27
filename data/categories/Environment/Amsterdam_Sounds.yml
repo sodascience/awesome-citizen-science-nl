@@ -2,14 +2,16 @@
 name: Amsterdam Sounds
 description: 'Citizens in Amsterdam place sensors that measure the amount and kind
   of noise. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Gemeente Amsterdam, Ombudsman Metropool Amsterdam, Sensemakers Amsterdam,
   Sensing Clues and Waag Technology & Society
 country: The Netherlands
 location: Amsterdam
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

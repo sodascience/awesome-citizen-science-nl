@@ -2,13 +2,15 @@
 name: Officiersboekjes Nationaal Militair Museum 1811 - 1940
 description: 'Citizens help transcribe books of officers in service between 1811 and
   1940. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: 'Nationaal Militair Museum '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2013
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

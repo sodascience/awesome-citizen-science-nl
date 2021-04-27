@@ -3,14 +3,16 @@ name: Drinkable Rivers
 description: 'Citizens sign in and pick up one of the test kits from one of the locations
   located all over Europe. The kits are used to collect samples of water and measure
   the water quality. Results are entered into a database. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: WaterLab (TU Delft), Li An Phoa (started it) and Dr. Renata van der
   Weijden (WUR)
 country: Europe
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

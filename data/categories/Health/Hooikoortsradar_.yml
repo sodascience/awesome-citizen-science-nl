@@ -2,13 +2,15 @@
 name: 'Hooikoortsradar '
 description: 'Citizens report how much they suffer from hayfever at the moment of
   reporting on a ten-point scale. '
-category: Health
+main_category: Health
+extra_categories: .nan
 organization: FLORA, Buienradar, Elkerliek and Venta
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2009
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

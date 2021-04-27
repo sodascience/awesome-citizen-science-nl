@@ -2,13 +2,15 @@
 name: Aerosolen
 description: High school students help calibrate the measures of a satellite by measuring
   the amount of aerosols in an area of the air.
-category: Science
+main_category: Science
+extra_categories: .nan
 organization: GLOBE Nederland and the KNMI
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2004
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

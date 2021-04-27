@@ -2,13 +2,15 @@
 name: OeverWatch
 description: 'Citizens report on biodiversity and biological water quality. They also
   measure the chemical water quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'WaterLab (TU Delft) and Hoogheemraadschap of Delftland '
 country: The Netherlands
 location: Midden Delftland
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

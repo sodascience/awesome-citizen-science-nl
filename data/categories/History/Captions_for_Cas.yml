@@ -1,13 +1,15 @@
 ---
 name: Captions for Cas
 description: 'Citizens caption photos made by Cas Oorthuys between 1935 and 1975. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Nederlands Fotomuseum
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

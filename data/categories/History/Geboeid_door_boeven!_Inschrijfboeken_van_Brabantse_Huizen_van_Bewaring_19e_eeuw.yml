@@ -2,13 +2,15 @@
 name: Geboeid door boeven! Inschrijfboeken van Brabantse Huizen van Bewaring 19e eeuw
 description: 'Citizens help digitalize the registration files from prisons in Brabant
   in the 19th century. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Brabants Historisch Informatie Centrum
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Unsure

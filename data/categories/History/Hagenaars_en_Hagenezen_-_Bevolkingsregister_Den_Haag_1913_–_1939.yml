@@ -2,13 +2,15 @@
 name: Hagenaars en Hagenezen - Bevolkingsregister Den Haag 1913 – 1939
 description: 'Citizens describe cards with photos of families that lived in Den Haag
   between 1913 and 1939. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Haags Gemeentearchief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

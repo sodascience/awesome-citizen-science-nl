@@ -2,13 +2,15 @@
 name: Regionaal Archief Nijmegen - Bevolkingsregisters 1850 - 1890
 description: Citizens help index scans of population registers from Nijmegen between
   1850 and 1890.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Regionaal Archief Nijmegen
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2013
-end_date: '2014'
+end_date: 2014
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

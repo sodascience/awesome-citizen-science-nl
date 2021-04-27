@@ -2,13 +2,15 @@
 name: Jubileumproject DCMR - NO2 burgermetingen in Rijnmondgebied
 description: In honor of their anniversary, the DCMR provided 230 citizens with sensors
   to measure nitrogen dioxide.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: DCMR Milieudienst Rijnmond
 country: The Netherlands
 location: Rotterdam Rijnmond
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

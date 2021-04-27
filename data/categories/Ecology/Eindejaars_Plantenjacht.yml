@@ -2,13 +2,15 @@
 name: Eindejaars Plantenjacht
 description: Citizens count between predetermined days which plants bloom in their
   backyard.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: FLORON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2014
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

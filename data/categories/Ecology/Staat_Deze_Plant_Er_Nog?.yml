@@ -2,13 +2,15 @@
 name: Staat Deze Plant Er Nog?
 description: 'Citizens search for rare plant species, guided by a map of where they
   were previously found. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: FLORON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

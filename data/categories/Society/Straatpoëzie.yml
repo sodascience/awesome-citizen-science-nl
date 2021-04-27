@@ -2,14 +2,16 @@
 name: Straatpoëzie
 description: 'Citizens report streetpoetry, poetry that is placed out in the open
   and can be read by anyone. '
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: Utrecht University and the Nederlandse Organisatie voor Wetenschappelijk
   Onderzoek (NWO)
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

@@ -2,7 +2,8 @@
 name: Natuurkalender
 description: Citizens observe a certain animal species on a location they have chosen
   themselves and note the first day when they enter a new phenological phase.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Wageningen University & Research, FLORON, RAVON, Sovon Vogelonderzoek
   Nederland, Stichting voor Duurzame Ontwikkeling, De Vlinderstichting, Vroege Vogels
   and Zoogdiervereniging
@@ -10,7 +11,8 @@ country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 1868
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

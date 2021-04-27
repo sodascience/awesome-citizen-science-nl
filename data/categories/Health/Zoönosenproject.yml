@@ -3,13 +3,15 @@ name: Zoönosenproject
 description: 'Citizens take blood samples, throat and cloacal swabs of bird species
   in order for researchers to be able to investigate how the spread of viruses can
   be prohibited. '
-category: Health
+main_category: Health
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation and NIOO-KNAW
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: Date of start uncertain
 data_accessibility: Probably viewable
 accessibility_for_research: Yes

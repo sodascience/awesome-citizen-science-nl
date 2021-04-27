@@ -3,7 +3,8 @@ name: SCOREwater
 description: 'Citizens help investigate how the city of Amersfoort can become more
   adaptive to the changing climate, especially with regards to flooding as this is
   a problem in the city. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'Gemeente Amersfoort, Civity, Eurecat, City of Gothenburg, HydroLogic,
   IERMB, IVL, s::can, Talkpool, Universeum, ICRA, Swedish Hydro Solutions, Future
   City Foundation and Barcelona Cicle de l‚ÄôAigua. '
@@ -11,7 +12,8 @@ country: The Netherlands, Sweden, Spain
 location: .nan
 notes_location: 'The Netherlands: Amersfoort; Sweden: Gothenburg; Spain: Barcelona'
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

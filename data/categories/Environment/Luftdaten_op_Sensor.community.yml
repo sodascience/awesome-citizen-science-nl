@@ -1,13 +1,15 @@
 ---
 name: Luftdaten op Sensor.community
 description: 'Citizens place sensors that measure the local air quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: RIVM, Luftdaten and Sensor Community
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

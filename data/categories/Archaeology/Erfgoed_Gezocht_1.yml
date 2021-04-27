@@ -4,13 +4,15 @@ description: 'The project consists of two stages. In the first stage, citizen ex
   elevation maps of the designated area where they identify possible locations for
   excavations. In the second stage, citizens can actually join and assist archeologists
   on their excavations. '
-category: Archaeology
+main_category: Archaeology
+extra_categories: .nan
 organization: Leiden University and Erfgoed Gelderland
 country: The Netherlands
 location: Veluwe
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

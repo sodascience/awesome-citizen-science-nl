@@ -3,13 +3,15 @@ name: WeSense
 description: 'Citizens fill out short surveys about their perception of their current
   surroundings and wellbeing, who they are with, where they are, and what they are
   doing. '
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: TU Delft
 country: The Netherlands
 location: Amsterdam
 notes_location: Pilot
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

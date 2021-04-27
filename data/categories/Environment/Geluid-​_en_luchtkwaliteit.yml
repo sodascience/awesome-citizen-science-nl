@@ -2,14 +2,16 @@
 name: Geluid-​ en luchtkwaliteit
 description: 'Citizens in Schiedam place sensors that measure the amount of noise
   and the air quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'Gemeente Schiedam, DCMR, Ministerie van Infrastructuur en Milieu and
   the RIVM '
 country: The Netherlands
 location: 'Schiedam '
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

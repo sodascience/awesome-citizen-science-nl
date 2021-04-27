@@ -6,13 +6,15 @@ description: Citizens first complete an extensive questionnaire about who they a
   have to press a certain key when they see a specific item of clothing or hear a
   specific word in a movie. Finally, they receive a few questions about substance
   use (drugs and alcohol) and the project concludes with a hearing test.
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: UMC Utrecht
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

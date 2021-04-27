@@ -1,16 +1,18 @@
 ---
 name: Witte Gebieden
-description: 'Citizens (mostly florists) reserve a ‚ÄúWit Gebied‚Äù beforehand. These
+description: 'Citizens (mostly florists) reserve a "Wit Gebied" beforehand. These
   are areas where florists are not as active, so there are less observations compared
   to other areas. Florists then visit such an area for a maximum of one day and fill
-  in lists of what they found in the area that covers at least three ‚Äúkilometerhokken‚Äù. '
-category: Ecology
+  in lists of what they found in the area that covers at least three "kilometerhokken". '
+main_category: Ecology
+extra_categories: .nan
 organization: FLORON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

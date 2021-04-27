@@ -1,14 +1,16 @@
 ---
 name: Meet je Stad
 description: 'Citizens measure temperature, humidity, air quity and soil moisture. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Gemeente Amersfoort, Waterschap Vallei en Veluwe and Hogeschool van
   Amsterdam
 country: The Netherlands
 location: Amersfoort
 notes_location: .nan
 start_date: 2015
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

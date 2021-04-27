@@ -2,13 +2,15 @@
 name: Utrechtse notariële akten (1780 - 1811)
 description: 'Citizens transcribe notary deeds from notaries from Utrecht between
   1780 and 1811. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Gemeentearchief Utrecht
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

@@ -2,7 +2,8 @@
 name: Almere meet water
 description: 'Citizens get one of the measuring toolboxes and measure the quality
   of the water in their neighborhood. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Gemeente Almere, Waterschap Zuiderzeeland, knowledge institutions Deltares
   and Wageningen Environmental Research (WEnR), artist Pav√®l van Houten, Almere Stad
   & Natuur and Waterburgemeester Almere
@@ -10,7 +11,8 @@ country: The Netherlands
 location: Almere
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: 'Viewable '
 accessibility_for_research: Yes

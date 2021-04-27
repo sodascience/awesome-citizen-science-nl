@@ -2,13 +2,15 @@
 name: Goed geregeld! Brabanders in het Bosch' Protocol 1501 - 1793
 description: "Citizens help transcribe scans of the Bosch' Protocol by name, location\
   \ and event. "
-category: History
+main_category: History
+extra_categories: .nan
 organization: Erfgoed 's-Hertogenbosch
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

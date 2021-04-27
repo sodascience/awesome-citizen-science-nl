@@ -1,13 +1,15 @@
 ---
 name: Samen Geluid Meten
 description: 'Citizens place sensors that measure the amount of noise. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: RIVM
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2021
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

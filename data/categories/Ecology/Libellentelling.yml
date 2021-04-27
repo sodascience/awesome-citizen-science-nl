@@ -2,13 +2,15 @@
 name: Libellentelling
 description: Citizens register how many and what kinds of dragonflies they have seen
   on two predetermined days. They also register whether they saw any dead dragonflies.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Vlinderstichting
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 1998
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

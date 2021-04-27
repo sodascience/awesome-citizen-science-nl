@@ -1,13 +1,15 @@
 ---
 name: Dagboeken Caspar Reuvens
 description: Citizens transcribe the diaries of Caspar Reuvens.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Gemeente Leidschendam-Voorburg
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: '2020'
+end_date: 2020
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

@@ -1,13 +1,15 @@
 ---
 name: Kruidenrijk Grasland App
 description: 'Citizens make pictures with an app of different kinds of grasslands. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: WWF, RVO, Wageningen University & Research and BoerenNatuur
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

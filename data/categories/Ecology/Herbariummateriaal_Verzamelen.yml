@@ -4,13 +4,15 @@ description: 'Citizens collect samples of plants that are either rare, believed 
   have gone extinct in the Netherlands, plants with flowers or fruits that they are
   unable to identify or they want to argue a species can better be split into multiple
   species. After collecting the sample, it is send to a predetermined address. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: FLORON and Naturalis
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2013
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

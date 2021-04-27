@@ -3,13 +3,15 @@ name: Ik heb last-app
 description: Citizens indicate how much their airways bother them and what symptoms
   they experience to provide further insights into the causes (and aggrevation) of
   respiratory diseases.
-category: Health
+main_category: Health
+extra_categories: .nan
 organization: RIVM
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: 'No direct download '
 accessibility_for_research: No

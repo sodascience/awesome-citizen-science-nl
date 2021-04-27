@@ -2,13 +2,15 @@
 name: TreeWiFi
 description: 'A project that was started by a citizen where bird houses measure the
   air quality. When the quality increases, you get free wifi in return. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Joris Lam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

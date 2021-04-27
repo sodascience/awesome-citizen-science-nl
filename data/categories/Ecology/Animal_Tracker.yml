@@ -1,13 +1,15 @@
 ---
 name: Animal Tracker
 description: 'Citizens localize spoonbills and report on them. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: NIOZ Koninklijk Instituut voor Zeeonderzoek
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Partly viewable
 accessibility_for_research: Yes

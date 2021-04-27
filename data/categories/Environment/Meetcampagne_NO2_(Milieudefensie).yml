@@ -2,13 +2,15 @@
 name: Meetcampagne NO2 (Milieudefensie)
 description: Citizens help measure nitrogen dioxide in the air by placing sensors
   around place that are important to them.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Milieudefensie
 country: The Netherlands
 location: Utrecht, Den Haag, Rotterdam, Amsterdam
 notes_location: .nan
 start_date: 2015
-end_date: '2015'
+end_date: 2015
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

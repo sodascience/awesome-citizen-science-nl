@@ -2,13 +2,15 @@
 name: Er zit muziek in de crowd
 description: 'Citizens help digitalize music written for radio or television from
   1930 to 1980. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stichting Omroep Muziek
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

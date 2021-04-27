@@ -3,13 +3,15 @@ name: Samen Luchtkwaliteit Meten in Zuid-Holland
 description: 'Citizens place sensors that measure the local air quality. This is mostly
   done in so-called "meetclubs", where multiple sensors are placed close to each other
   in cluster. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Provincie Zuid-Holland, RIVM and DCMR Milieudienst Rijnmond
 country: The Netherlands
 location: 'ZuidHolland '
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

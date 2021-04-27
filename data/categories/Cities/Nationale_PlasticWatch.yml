@@ -2,14 +2,16 @@
 name: Nationale PlasticWatch
 description: Citizens report litter to help Rijkswaterstaat gain insights on the origin,
   transport and distribution of litter.
-category: Cities
+main_category: Cities
+extra_categories: .nan
 organization: WaterLab (TU Delft), Rijkswaterstaat, Hogeschool Rotterdam and HZ University
   of Applied Sciences
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

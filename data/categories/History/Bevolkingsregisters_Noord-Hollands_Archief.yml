@@ -2,13 +2,15 @@
 name: Bevolkingsregisters Noord-Hollands Archief
 description: Citizens help index scans of population registers from Kennemerland,
   and Amstel- and Meerlanden from 19th and 20th century.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Noord-Hollands Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

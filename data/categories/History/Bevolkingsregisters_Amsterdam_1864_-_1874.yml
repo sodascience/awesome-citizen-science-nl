@@ -2,13 +2,15 @@
 name: Bevolkingsregisters Amsterdam 1864 - 1874
 description: Citizens help index scans of population registers from Amsterdam between
   1864 and 1874.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: '2020'
+end_date: 2020
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

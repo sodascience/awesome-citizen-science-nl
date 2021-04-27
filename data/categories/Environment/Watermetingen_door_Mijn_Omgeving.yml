@@ -2,13 +2,15 @@
 name: Watermetingen door Mijn Omgeving
 description: 'Citizens buy cheap sensors that measure the electrical conductivity
   of the water all day long. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Mijn Omgeving and the RIVM
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

@@ -1,13 +1,15 @@
 ---
 name: Het Vrije Volk
 description: Citizens describe photos that have appeared in the paper Het Vrije Volk.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

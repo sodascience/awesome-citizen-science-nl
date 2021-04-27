@@ -1,13 +1,15 @@
 ---
 name: De Levende Bodem
 description: 'High school students take samples of the soil and measure their quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: GLOBE Nederand and RIVM
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2011
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

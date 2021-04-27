@@ -2,13 +2,15 @@
 name: 'Fotografisch Geheugen: de reportages van Fotopersbureau De Boer'
 description: 'Citizens link the photos on a camera roll sorted by subject to the descriptions
   provided by the photographers that made the photos. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Noord-Hollands Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

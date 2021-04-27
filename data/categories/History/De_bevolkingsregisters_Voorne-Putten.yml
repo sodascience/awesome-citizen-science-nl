@@ -2,13 +2,15 @@
 name: De bevolkingsregisters Voorne-Putten
 description: 'Citizens help index scans of population registers of the population
   of Voorne-Putten between 1826 and 1939. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Streekarchief Voorne-Putten
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Unsure

@@ -2,14 +2,16 @@
 name: Grip Op Water - Altena
 description: 'Citizens report abnormal water circumstances. For instance, flooding
   or a place where the water does not drain. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Agrarische Natuur Vereniging,, Gemeente Altena, Waterschap Rivierenland
   and AgroExact
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

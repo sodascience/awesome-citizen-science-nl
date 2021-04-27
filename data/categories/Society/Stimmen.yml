@@ -2,13 +2,15 @@
 name: Stimmen
 description: 'Citizens record themselves saying different words and take a quiz to
   determine what dialect they speak. '
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: University of Groningen and L√¢n fan Taal
 country: The Netherlands
 location: Friseland
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

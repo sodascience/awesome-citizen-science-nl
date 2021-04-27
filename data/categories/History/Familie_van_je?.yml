@@ -3,13 +3,15 @@ name: Familie van je?
 description: Citizens help index scans with data of the people that have lived between
   1822 and 1859 in Veenhuizen, on the Ommerschans and in the colonies Frederiksoord,
   Wilhelminaoord and Willemsoord.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Drents Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

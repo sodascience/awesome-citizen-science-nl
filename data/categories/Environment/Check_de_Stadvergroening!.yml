@@ -4,13 +4,15 @@ description: Citizens first register, alone or in a group, and then follow a ste
   plan of what they ought to do. They inspect a place they choose themselves on what
   the soil consists of, and check the draining of rainwater and whether flooding occurs
   after heavy rain.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: WaterLab (TU Delft) and the Hoogheemsraadschap of Delftland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

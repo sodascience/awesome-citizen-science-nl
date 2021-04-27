@@ -1,13 +1,15 @@
 ---
 name: Ring - MUS
 description: Citizens report on the color-rings they see on birds.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Vogeltrekstation, Vogelbescherming Nederland and NIOO-KNAW
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2011
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Yes

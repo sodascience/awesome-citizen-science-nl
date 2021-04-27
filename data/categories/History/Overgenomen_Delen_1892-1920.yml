@@ -2,13 +2,15 @@
 name: Overgenomen Delen 1892-1920
 description: 'Citizens help index the data from scans on people that have died or
   left Amsterdam from 1892 up until 1920. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: '2015'
+end_date: 2015
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

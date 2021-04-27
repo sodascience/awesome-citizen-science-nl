@@ -2,13 +2,15 @@
 name: Dijken van Polders
 description: 'Citizens add unto the already existing description of photos with events
   and people depicted on them. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Flevolands Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

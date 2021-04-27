@@ -3,13 +3,15 @@ name: Mijn Berm Bloeit!
 description: Citizens choose between a predetermined period a road verge. Then, they
   register one hundred meter of road verge and stand still every ten meters to note
   the nectar plants that are within one meter of themselves.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: FLORON and Vlinderstichting
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

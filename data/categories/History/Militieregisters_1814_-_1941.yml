@@ -2,7 +2,8 @@
 name: Militieregisters 1814 - 1941
 description: Citizens help index scans of the people that once were registered with
   the military from the period from 1814 up until 1941.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Archief Delft, Archief Eemland, Historisch Informatie Centrum,  Gemeentearchief
   Barneveld, Gemeentearchief Ede, Gemeentearchief Waalwijk, Het Markiezenhof, Het
   Utrechts Archief, Noord-Hollands Archief, Regionaal Archief Nijmegen, Regionaal
@@ -13,7 +14,8 @@ country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2011
-end_date: '2014'
+end_date: 2014
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

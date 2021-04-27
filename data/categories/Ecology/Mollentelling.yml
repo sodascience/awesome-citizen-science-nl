@@ -2,14 +2,16 @@
 name: Mollentelling
 description: Citizens count on predetermined days the number of moles or molehills
   they see in their surroundings.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Zoogdiervereniging, Vroege Vogels, Waarneming.nl, Natuurpunt and Jaarrond
   Tuintelling
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

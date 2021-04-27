@@ -1,14 +1,16 @@
 ---
 name: Stoepplantjes
 description: 'Citizens report where and what plants/weeds they found on their sidewalks. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Hortus Leiden, Nederlandse Vereniging Botanische Tuinen, Singelpark
   and Verwonder om de Hoek
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

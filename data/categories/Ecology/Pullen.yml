@@ -2,13 +2,15 @@
 name: Pullen
 description: 'Citizens ring young birds to gain insights in the first year of life
   of their peers. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland, Vogeltrekstation and NIOO-KNAW
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2007
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Yes

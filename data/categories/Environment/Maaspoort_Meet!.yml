@@ -2,13 +2,15 @@
 name: Maaspoort Meet!
 description: Citizens living close to Maaspoort place sensors that measure the local
   air quality.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'The Things Network and the RIVM '
 country: The Netherlands
 location: Maaspoort
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: 'Viewable '
 accessibility_for_research: Yes

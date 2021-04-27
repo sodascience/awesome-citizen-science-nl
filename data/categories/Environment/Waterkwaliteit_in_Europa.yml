@@ -2,13 +2,15 @@
 name: Waterkwaliteit in Europa
 description: 'Citizens first request research packages with which they collect a sample
   of water they send back. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: WaterLab (TU Delft) and KWR
 country: Europe
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

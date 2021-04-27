@@ -2,13 +2,15 @@
 name: 'Burgerlijke stand Breda: Wie nog meer en wanneer!'
 description: 'Citizens help complete the population registers of the municipality
   of Breda and some municipalities near it. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Breda
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: '2018'
+end_date: 2018
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes

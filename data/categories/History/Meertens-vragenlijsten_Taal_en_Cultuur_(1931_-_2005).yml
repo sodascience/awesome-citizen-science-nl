@@ -1,13 +1,15 @@
 ---
 name: Meertens-vragenlijsten Taal en Cultuur (1931 - 2005)
 description: 'Citizens retype written answers to surveys. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Meertens Instituut
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

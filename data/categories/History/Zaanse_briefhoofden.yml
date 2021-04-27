@@ -2,13 +2,15 @@
 name: Zaanse briefhoofden
 description: 'Citizens describe the information in letterheads of old letters from
   the 19th and 20th century from companies in the Zaanstreek. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Gemeente Zaanstad and Gemeente Oostzaan
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: '2020'
+end_date: 2020
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No

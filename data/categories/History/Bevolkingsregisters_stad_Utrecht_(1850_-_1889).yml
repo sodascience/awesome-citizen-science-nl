@@ -2,13 +2,15 @@
 name: Bevolkingsregisters stad Utrecht (1850 - 1889)
 description: Citizens help index scans of population registers from Utrecht between
   1850 and 1889.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Utrechts Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No

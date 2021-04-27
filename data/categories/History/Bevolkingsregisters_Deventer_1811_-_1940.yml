@@ -3,13 +3,15 @@ name: Bevolkingsregisters Deventer 1811 - 1940
 description: Citizens help index scans of population registers of the population of
   Deventer between 1829 and 1940, of Diepenveen between 1840 and 1939, and of Bathmen
   between 1811 and 1937.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief en Athenaeumbibliotheek (SAB) Deventer
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2013
-end_date: '2013'
+end_date: 2013
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
