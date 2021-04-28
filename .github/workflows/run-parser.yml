@@ -1,6 +1,9 @@
-name: Build and deploy mkdocs to github pages
+name: Run parser to update README.md and data outputs
 on:
   push:
+    branches:
+      - main
+  pull_request:
     branches:
       - main
 jobs:

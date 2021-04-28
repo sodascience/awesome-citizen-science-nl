@@ -1,4 +1,4 @@
-name: Run parser to update README.md and data outputs
+name: Build and deploy mkdocs to github pages
 on:
   push:
     branches:
