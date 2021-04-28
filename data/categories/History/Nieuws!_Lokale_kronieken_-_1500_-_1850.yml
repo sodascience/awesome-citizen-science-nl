@@ -2,15 +2,17 @@
 name: Nieuws! Lokale kronieken - 1500 - 1850
 description: Citizens transcribe local chronicles made available by the Koninklijke
   Bibliotheek.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Leiden University and VU Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/vua_train_kronieken_transkribus
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/vua_train_kronieken_transkribus

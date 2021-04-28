@@ -2,15 +2,17 @@
 name: Tuinvlindertelling
 description: 'Citizens count on one of the predetermined days for 15 minutes the number
   of butterflies in their backyards and also report on their species. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Vlinderstichting
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2009
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.vlinderstichting.nl/vlindermee/
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.vlinderstichting.nl/vlindermee/

@@ -2,16 +2,18 @@
 name: Spinnentelling
 description: 'Citizens register on two predetermined days the number and kind of spiders
   they see in their backyards. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Jaarrond Tuintelling, EIS Kenniscentrum Insecten, Naturalis Biodiversity
   Center and the Natuurmuseum Frysl√¢n
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.tuintelling.nl/index.php/data/result/evenement/ES/
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.tuintelling.nl/index.php/data/result/evenement/ES/

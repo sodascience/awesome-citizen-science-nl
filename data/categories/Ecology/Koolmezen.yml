@@ -4,15 +4,17 @@ description: 'Citizens hang two fat balls outside during the winter, one with a 
   object underneath and the other without one. Then they sit down for half an hour
   and count how many great tits (koolmezen) come to the ball with the weird object
   and how many come to the ball without it. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: 'EvoScope (Gemeente Leiden, Leiden University and Naturalis) '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---koolmezen
 data_url: '-'
+project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---koolmezen

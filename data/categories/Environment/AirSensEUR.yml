@@ -1,15 +1,17 @@
 ---
 name: AirSensEUR
 description: Citizens help measure the quality of the air by placing sensors.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: ' Joint Research Centre (JRC) of the European Commission '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/airsenseur
 data_url: '-'
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/airsenseur

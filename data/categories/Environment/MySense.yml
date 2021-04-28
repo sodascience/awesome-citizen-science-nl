@@ -3,15 +3,17 @@ name: MySense
 description: 'Citizens place sensors that measure the local air quality. This project
   is special considering it entails measuring fine dust and gas in an agricultural
   context. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Stichting BurgerWetenschappers Land van Cuijk
 country: The Netherlands
 location: Region van Horst aan de Maas and Land van Cuijk
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: http://behouddeparel.nl/samen-meten
 data_url: https://samenmeten.rivm.nl/dataportaal/
+project_information_url: http://behouddeparel.nl/samen-meten

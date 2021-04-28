@@ -2,15 +2,17 @@
 name: Alle Scholen Verzamelen
 description: Elementary school children partake in science projects and help gather
   data for research.
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: University of Twente together with the other science hubs in the country
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.wetenschapsknooppunten.nl/alle-scholen-verzamelen/citizen-science/
 data_url: '-'
+project_information_url: https://www.wetenschapsknooppunten.nl/alle-scholen-verzamelen/citizen-science/

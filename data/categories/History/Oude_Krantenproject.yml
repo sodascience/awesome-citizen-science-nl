@@ -2,15 +2,17 @@
 name: Oude Krantenproject
 description: Citizens register the information on scans of the newspapers from the
   17th century.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Radboud University and the Meertens Instituut
 country: The Netherlands
 location: .nan
 notes_location: .nan
-start_date:
+start_date: .nan
 end_date: .nan
+status: unknown
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd
 data_url: '-'
+project_information_url: https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd

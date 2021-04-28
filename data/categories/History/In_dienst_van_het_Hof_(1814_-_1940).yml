@@ -2,15 +2,17 @@
 name: In dienst van het Hof (1814 - 1940)
 description: Citizens digitalize genealogical registers of the staff from King Willem
   I up until Queen Wilhelmina.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Koninklijk Huisarchief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/kha
 data_url: https://www.wiewaswie.nl/
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/kha

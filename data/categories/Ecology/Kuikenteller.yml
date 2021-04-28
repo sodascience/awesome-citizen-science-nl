@@ -2,15 +2,17 @@
 name: Kuikenteller
 description: 'Citizens count the number of ducklings in a place near them and then
   follow them and report of their survival for the rest of the season. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: '2020'
+end_date: 2020
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.iedereenwetenschapper.be/projects/hoe-gaat-het-met-de-wilde-eend
 data_url: '-'
+project_information_url: https://www.iedereenwetenschapper.be/projects/hoe-gaat-het-met-de-wilde-eend

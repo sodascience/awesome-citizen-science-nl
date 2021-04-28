@@ -1,15 +1,17 @@
 ---
 name: Zomerganzentelling
 description: 'Citizens count summer geese and report on their number and species. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Koninklijke Nederlandse Jachtvereniging and Sovon Vogelonderzoek Nederland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2005
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Partly viewable
 accessibility_for_research: No
-project_information_url: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/zo%C3%B6nosenproject
 data_url: https://euring.org/data-and-codes/obtaining-data
+project_information_url: https://vogeltrekstation.nl/nl/onderzoek/monitoringsprojecten/zo%C3%B6nosenproject

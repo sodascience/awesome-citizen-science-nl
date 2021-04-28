@@ -1,15 +1,17 @@
 ---
 name: Kauwtjes
 description: 'Citizens report how close they can venture near a jackdaw. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: 'EvoScope (Gemeente Leiden, Leiden University and Naturalis) '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---kauwtjes
 data_url: '-'
+project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/evoscope---kauwtjes

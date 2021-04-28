@@ -1,15 +1,17 @@
 ---
 name: 'Plastic Spotter '
 description: 'Citizens spot plastic in the canals of Leiden and upload photos of it. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Citizen Science Lab, Leiden University and more
 country: The Netherlands
 location: Leiden
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.plasticspotter.nl/
 data_url: https://www.plasticspotter.nl/
+project_information_url: https://www.plasticspotter.nl/

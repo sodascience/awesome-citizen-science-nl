@@ -2,7 +2,7 @@
 
 A curated list of awesome Citizen Science projects from the Netherlands with additional information such as duration, organizations, and links to resources.
 
-You can easily contribute to Awesome Citizen Science Projects in the Netherlands dataset by following [our contributing guide](CONTRIBUTING.md).
+You can easily contribute to Awesome Citizen Science Projects in the Netherlands dataset by following [our contributing guide](#contributing-guidelines).
 
 :x: Link to project might be broken
 
@@ -60,11 +60,11 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Bioblitz](https://www.tuintelling.nl/data/result/evenement/EBB) - A contest where citizens try to discover as many animals and plants in their backyard within a 24-hour time period.  (`2020` - `recurring`)
 - [Wadertrack ](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=25068) - Citizens register their observations of color ringed oystercatchers. (`2012` - `2020`)
 - [SnailSnap](https://www.universiteitleiden.nl/citizensciencelab/projecten/naturalis) - Citizens download an app with which they make pictures of snails they encountered from April up until October. The app sends the photo, along with the coordinates of the place it was taken at to waarneming.nl. (`2017` - `recurring`)
-- [Witte Gebieden](https://www.floron.nl/meedoen/witte-gebieden ) - Citizens (mostly florists) reserve a ‚ÄúWit Gebied‚Äù beforehand. These are areas where florists are not as active, so there are less observations compared to other areas. Florists then visit such an area for a maximum of one day and fill in lists of what they found in the area that covers at least three ‚Äúkilometerhokken‚Äù.  (`2016` - `ongoing`)
+- [Witte Gebieden](https://www.floron.nl/meedoen/witte-gebieden ) - Citizens (mostly florists) reserve a "Wit Gebied" beforehand. These are areas where florists are not as active, so there are less observations compared to other areas. Florists then visit such an area for a maximum of one day and fill in lists of what they found in the area that covers at least three "kilometerhokken".  (`2016` - `ongoing`)
 - [Muggenradar](https://www.naturetoday.com/intl/nl/observations/mosquito-radar) - Citizens report how much trouble they experience from mosquitoes (none, a little, much, very much).  (`2016` - `ongoing`)
 - [Kilometerhokken Inventariseren](https://www.floron.nl/meedoen/kilometerhokken-inventariseren ) - Citizens register the locations plant species by crossing them off on a list in a predetermined area. (`1988` - `ongoing`)
 - [Van Kroeg tot Kraamkamer](https://www.tuintelling.nl/kraamkamer) - Citizens observe the animals in their backyards for a predetermined period of ten days and note what kind of behavior they display (kroeg, hotel or kraamkamer).  (`2017` - `recurring`)
-- [Wildspotter](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=22655) - Citizens check whether animals can find their way at fauna passages by watching videos.  (`2016` - `nan`)
+- [Wildspotter](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=22655) - Citizens check whether animals can find their way at fauna passages by watching videos.  (`2016` - `unknown`)
 - [Egelweekend](https://www.tuintelling.nl/data/result/evenement/EE) - Citizens register when and how many hedgehogs they have encountered. Dead hedgehogs are also reported.  (`2009` - `recurring`)
 - [GrowApp](https://www.naturetoday.com/intl/nl/observations/growapp) - Citizens make pictures of a certain spot in nature, which the app transforms into a time-lapse to capture the change of seasons. The app sheds light on the impact of climate change on nature.  (`2017` - `ongoing`)
 - [Nationale Nachtvlindernachten](https://www.vlinderstichting.nl/nachtvlindernacht/) - Citizens count on one of the predetermined nights the number and species of moths they see in their backyard.  (`2005` - `recurring`)
@@ -230,7 +230,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 - [Bevolkingsregisters Deventer 1811 - 1940](https://velehanden.nl/projecten/bekijk/details/status/closed/page/3/project/sad) - Citizens help index scans of population registers of the population of Deventer between 1829 and 1940, of Diepenveen between 1840 and 1939, and of Bathmen between 1811 and 1937. (`2013` - `2013`)
 - [Bevolkingsregisters stad Utrecht (1850 - 1889)](https://velehanden.nl/projecten/bekijk/details/project/utr_index_bvr_1850_1889) - Citizens help index scans of population registers from Utrecht between 1850 and 1889. (`2020` - `ongoing`)
 - [Zaanse Verpondingsregisters e.a.](https://velehanden.nl/projecten/bekijk/details/project/zaa_index_gaarder) - Citizens enter in the names of landowners in Zaanstad from scans.  (`2019` - `ongoing`)
-- [Oude Krantenproject](https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd) - Citizens register the information on scans of the newspapers from the 17th century. (`NA` - `nan`)
+- [Oude Krantenproject](https://www.iedereenwetenschapper.be/projects/reis-terug-de-tijd) - Citizens register the information on scans of the newspapers from the 17th century. (`NA` - `unknown`)
 - [Vele Ajacieden 2.0](https://velehanden.nl/projecten/bekijk/details/project/afc_tagging_2) - Citizens describe photos in the archive of Ajax. (`2019` - `ongoing`)
 - [Zaanse briefhoofden](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/zaa_index_bron) - Citizens describe the information in letterheads of old letters from the 19th and 20th century from companies in the Zaanstreek.  (`2019` - `2020`)
 - [Buitenlui: Geannexeerde gemeenten Amsterdam](https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/amsterdam_annex_gem) - Citizens help index scans of population registers from municapalities that were annexed to Amsterdam between 1830 and 1921. (`2017` - `2019`)
@@ -280,7 +280,7 @@ You can easily contribute to Awesome Citizen Science Projects in the Netherlands
 
 ### Uncategorized
 
-- [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of ‚ÄúKilometerhokken Inventariseren‚Äù. It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `ongoing`)
+- [Het Nieuwe Strepen](https://www.floron.nl/meedoen/het-nieuwe-strepen ) - Special form of "Kilometerhokken Inventariseren". It works similar to that project, but now the area is searched by two citizens, independent from each other.  (`2012` - `ongoing`)
 
 <!---->
 
@@ -300,22 +300,26 @@ the guide below:
 
 5. In the file name field, type the name of the file and use as extension `yml`. For example: `NAME_OF_NEW_PROJECT.yml`. If you did not find the cateogry that fits your project, you need to add the new category name before the name of your project, for example: `NEW_CATEGORY/NAME_OF_NEW_PROJECT.yml`.
 
-6. On the **Edit new file** tab, copy and paste the content below and fill it in with the information concerning your project. Check your spelling and grammar!
+6. On the **Edit new file** tab, copy and paste the content below and fill it in with the information concerning your project. Next to each attribute, we provided a small description of the content we ask you to fill in. Please do follow these indications as it will speed up the process of review. If one or more attributes are unknown to you, feel free to leave the attribute empty (e.g. `data_accessibility: `). Finally, before proposing a new project remember to delete the comments (everything from "#" onwards) leaving only your newly added content.
 
 ```yaml
 ---
-name: 
-description: 
-category: 
-organization: 
-location: 
-start_date: 
-end_date: 
-notes_duration: 
-available_data: 
-available_for_research: 
-main_source: 
-link_to_data: 
+name: # Official name of the project. | *Compulsory
+description: # Description of the project. Please try to summarise the main aim of the project. | *Compulsory
+main_category: # Main category used to classify the project, choose only one! | *Compulsory
+extra_categories: # Additional categories under which the project may be classified
+organization: # Organizer(s) of the project
+country: The Netherlands
+location: # Regions/ Provinces included in the project
+notes_location: # Additional notes on the location of the project (e.g. if specific regions are included/ excluded)
+start_date: # Fill in the starting year
+end_date: # If the project is ended, fill in the ending year
+status: # Choose from: ongoing, recurring or ended
+notes_duration: # Additional notes on the duration of the project
+data_accessibility: # Choose from: Viewable, Probably viewable, Probably viewable once finished, No direct download
+accessibility_for_research: # Choose from: yes, no or unsure
+data_url: # Url to the main source of the project's data, if not available please use '-'
+project_information_url: # Url to the main page of the project | *Compulsory
 ```
 
 7. At the bottom of the page, in the **Propose new file** box add a title describing the new file you added. It might be also very simple as: `Add PROJECT NAME, DATE START - DATE END`. You might also specify the new addition further in the *optional extended description field*.

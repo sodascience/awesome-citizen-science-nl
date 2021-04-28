@@ -2,15 +2,17 @@
 name: 'Het beeld van Groningen: Persfotobureau D. van der Veen'
 description: 'Citizens describe photos of Persfotobureau D. van der Veen from the
   sixties and seventies of the 20th century. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Groninger Archieven
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/gra_tagging_vanderveen
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/gra_tagging_vanderveen

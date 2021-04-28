@@ -2,15 +2,17 @@
 name: Verlos Gelderse Geboorteakten
 description: 'Citizens help index birth certificates from Gelderland between 1819
   and 1912. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Gelders Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/gda
 data_url: https://www.geldersarchief.nl/bronnen/archieven/?mivast=37&miadt=37&mizig=128&miview=tbl&milang=nl&micols=1&misort=last_mod%7Cdesc&mib1=113
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/gda

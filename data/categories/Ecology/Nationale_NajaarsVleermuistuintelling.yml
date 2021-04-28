@@ -4,15 +4,17 @@ description: Citizens count on one of the predetermined days the number of bats 
   their backyards and also report on their species from sunset until they have not
   seen a bat in over 10 minutes. They also give information on where in their backyard
   they saw the bats and where they did not see any.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: 'Zoogdiervereniging '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.vleermuis.net/
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.vleermuis.net/

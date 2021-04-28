@@ -2,15 +2,17 @@
 name: Avondtelling Amfibie√´n
 description: 'Citizens report how many and what kind of amphibians they have seen
   and heard on a predetermined evening. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Stichting RAVON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: Also in 2020
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.tuintelling.nl/evenementen/avondtelling
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.tuintelling.nl/evenementen/avondtelling

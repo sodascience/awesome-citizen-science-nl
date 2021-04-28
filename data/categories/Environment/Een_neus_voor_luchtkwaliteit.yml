@@ -2,15 +2,17 @@
 name: Een neus voor luchtkwaliteit
 description: 'Sensors are placed in places in Maastricht that are chosen by citizens.
   The sensors measure the local air quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Gemeente Maastricht
 country: The Netherlands
 location: Maastricht
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: 'Viewable '
 accessibility_for_research: Yes
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/maastricht
 data_url: https://www.luchtmeetnet-maastricht.nl/maastricht/
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/maastricht

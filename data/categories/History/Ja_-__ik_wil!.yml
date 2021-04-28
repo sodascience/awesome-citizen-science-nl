@@ -2,15 +2,17 @@
 name: Ja -  ik wil!
 description: 'Citizens help digitalize registered banns from Amsterdam between 1602
   and 1811. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Utrecht University
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2014
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Unsure
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/ja_ik_wil
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/ja_ik_wil

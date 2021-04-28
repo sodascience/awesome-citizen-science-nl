@@ -1,15 +1,17 @@
 ---
 name: Historisch Amstelveen in beeld
 description: Citizens describe photos in the archives of Amstelveen.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Vereniging Historisch Amstelveen
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/gea_tagging
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/gea_tagging

@@ -1,15 +1,17 @@
 ---
 name: AiREAS Eindhoven
 description: Citizens set up a project to measure air quality in the city of Eindhoven.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Stichting STIR (Stad van Morgen)
 country: The Netherlands
 location: Eindhoven
 notes_location: .nan
 start_date: 2013
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/aireas-eindhoven
 data_url: '-'
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/aireas-eindhoven

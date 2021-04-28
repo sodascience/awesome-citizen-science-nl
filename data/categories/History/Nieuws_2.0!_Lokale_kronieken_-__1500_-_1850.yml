@@ -1,15 +1,17 @@
 ---
 name: Nieuws 2.0! Lokale kronieken -  1500 - 1850
 description: 'Citizens help annotate transcribed Dutch chronicles. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Leiden University and VU Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/vua_annoteer_kronieken_transkribus
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/vua_annoteer_kronieken_transkribus

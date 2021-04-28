@@ -2,15 +2,17 @@
 name: Kilometerhokken Inventariseren
 description: Citizens register the locations plant species by crossing them off on
   a list in a predetermined area.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: FLORON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 1988
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: Also in 1902  1980
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: 'https://www.floron.nl/meedoen/kilometerhokken-inventariseren '
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: 'https://www.floron.nl/meedoen/kilometerhokken-inventariseren '

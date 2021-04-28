@@ -2,15 +2,17 @@
 name: Vreemdelingenkaarten
 description: 'Citizens register the information on scans of cards from Amsterdam between
   1920 and 1970. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2021
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably once finished
 accessibility_for_research: Unsure
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/amsterdam_index_vreemdelingenkaarten
 data_url: https://archief.amsterdam/indexen/persons
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/amsterdam_index_vreemdelingenkaarten
