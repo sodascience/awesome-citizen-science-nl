@@ -2,15 +2,17 @@
 name: Lijsters- en Bessentelling
 description: Citizens register which fructuous trees are in their backyard and which
   birds make use of them.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.sovon.nl/nl/actueel/nieuws/lijsters-en-bessen-tellen
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.sovon.nl/nl/actueel/nieuws/lijsters-en-bessen-tellen

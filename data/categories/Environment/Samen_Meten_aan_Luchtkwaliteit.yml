@@ -1,15 +1,17 @@
 ---
 name: Samen Meten aan Luchtkwaliteit
 description: 'Citizens measure airquality by putting sensors in their backyards. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'RIVM '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/
 data_url: https://samenmeten.rivm.nl/dataportaal/
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/

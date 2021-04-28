@@ -3,15 +3,17 @@ name: Plonzenweekend
 description: 'Citizens count the number of splashes they hear when passing the pond
   in their backyard or another pond on a walk. If they are able to get close enough
   to see a frog, they can also count the frog species. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Stichting RAVON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2008
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.tuintelling.nl/data/result/evenement/EPLONS
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.tuintelling.nl/data/result/evenement/EPLONS

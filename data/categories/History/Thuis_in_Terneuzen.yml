@@ -2,15 +2,17 @@
 name: Thuis in Terneuzen
 description: Citizens help index scans of population registers from Terneuzen, Axel
   and Sas van Gent between 1812 and 1900.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Zeeuws Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: '2020'
+end_date: 2020
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar_index_terneuzenaxel
 data_url: https://www.zeeuwsarchief.nl/onderzoek-het-zelf/
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar_index_terneuzenaxel

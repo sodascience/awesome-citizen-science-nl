@@ -3,15 +3,17 @@ name: Onze Lucht – zelf fijnstof meten in Noord-Nederland
 description: Citizens build gaugers that measure the amount of fine dust in the air.
   For every area with the same postal code in Groningen, Friesland or Drenthe, one
   person can partake in the project.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'RIVM, University of Groningen, GGD Groningen and Longfonds '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/onze-lucht-zelf-fijnstof-meten-in-noord-nederland
 data_url: https://samenmeten.rivm.nl/dataportaal/
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/onze-lucht-zelf-fijnstof-meten-in-noord-nederland

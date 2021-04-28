@@ -2,7 +2,8 @@
 name: Boeren Meten Water
 description: Farmers and the water board work together to gain insights into the current
   situation of salinization and subsidence.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: Wetterskip Frysl√¢n, Waterschap Noorderzijlvest, Hoogheemraadschap Hollands
   Noorderkwartier, provinces Friesland, Groningen and Noord Holland, TWTG, TU Delft,
   Van Hall Larenstein, LTO Noord, Projecten LTO Noord, Acacia Water, Fixeau and farmers
@@ -10,9 +11,10 @@ country: The Netherlands
 location: .nan
 notes_location: North of The Netherlands
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: Unsure
-project_information_url: https://boerenmetenwater.nl/aanleiding/
 data_url: '-'
+project_information_url: https://boerenmetenwater.nl/aanleiding/

@@ -4,16 +4,18 @@ description: 'Citizens count the number and species of flies they see in their b
   by making photos of them. The goal is to collect information on five families of
   flies, to see how many there are and where. This information is used to determine
   which species are well and which are not. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: 'EIS Kenniscentrum Insecten, waarneming.nl, Nederlandse Entomologische
   Vereniging and the youthgroups of naturestudies '
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: '2014'
+end_date: 2014
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.eis-nederland.nl/actueel/projecten/leuke-vliegen
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.eis-nederland.nl/actueel/projecten/leuke-vliegen

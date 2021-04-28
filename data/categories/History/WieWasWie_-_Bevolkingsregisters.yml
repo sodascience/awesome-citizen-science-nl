@@ -2,16 +2,18 @@
 name: WieWasWie - Bevolkingsregisters
 description: Citizens help index scans of population registers from Breda, Rotterdam
   and Maastricht between 1850 and 1938.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Breda, Stadsarchief Rotterdam and Regionaal Historisch
   Centrum Limburg (RHCL)
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2014
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/wiewaswie_bvr
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/wiewaswie_bvr

@@ -12,6 +12,7 @@ from ruamel.yaml import YAML
 
 # Path data
 CSV = "data/citizen-science-projects-nl.csv"
+EXCEL = "data/citizen-science-projects-nl.xlsx"
 DATA = "data/categories"
 NOT_OK = ":x:"
 OK = ":white_check_mark:"
@@ -26,12 +27,18 @@ y.explicit_start = True
 y.indent(sequence=4, offset=2)
 
 
-def read_csv_data():
+def excel_to_csv():
+    """Convert excel to csv for other uses."""
+    excel = pd.read_excel(EXCEL, engine='openpyxl')
+    excel.to_csv(CSV, index=False, sep=",")
+
+
+def csv_to_yaml():
     """Read CSV data and output individual yml files."""
-    csv = pd.read_csv(CSV)
+    csv = pd.read_csv(CSV, sep=",")
 
     # Find unique categories
-    categories = pd.unique(csv["category"])
+    categories = pd.unique(csv["main_category"])
     categories.sort()
 
     # Save rows csv to yaml files
@@ -44,7 +51,7 @@ def read_csv_data():
         PATH_CATEGORY = os.path.join(DATA, categories[cat])
         if not os.path.exists(PATH_CATEGORY):
             os.makedirs(PATH_CATEGORY)
-        cat_data = csv[csv["category"] == categories[cat]].copy()
+        cat_data = csv[csv["main_category"] == categories[cat]].copy()
         # Save each line of each cateogry in json file
         # but only if file was updated
         for i, r in cat_data.iterrows():
@@ -64,19 +71,8 @@ def read_csv_data():
                 save_dict_to_yaml(PATH_FILE, dict_r)
 
 
-def save_dict_to_yaml(PATH, dict):
-    with open(PATH, 'w') as file:
-        start_date = dict["start_date"]
-        try:
-            if isinstance(start_date, int) or isinstance(start_date, float):
-                dict["start_date"] = int(start_date)
-        except ValueError:
-            dict["start_date"] = None
-        y.dump(dict, file)
-
-
-def read_yml_files():
-    """Read from yaml files each category and save to df."""
+def yml_to_csv_and_excel():
+    """Read yaml files and create CSV + XLSX file."""
     files = []
     y = YAML()
     y.default_flow_style = None
@@ -106,7 +102,8 @@ def read_yml_files():
     df_save = df.copy()
     df_save.drop(columns=["icon", "url", "error"], inplace=True)
     # Save to CSV
-    df_save.to_csv("data/citizen-science-projects-nl.csv", index=False)
+    df_save.to_csv("data/citizen-science-projects-nl.csv",
+                   index=False, sep=",")
     # Save to Excel
     df_save.to_excel("data/citizen-science-projects-nl.xlsx",
                      index=False, engine='openpyxl')
@@ -114,29 +111,11 @@ def read_yml_files():
     return df
 
 
-def check_url(url, name):
-    try:
-        response = requests.head(
-            url, allow_redirects=True, verify=False, timeout=25)
-        if response.status_code in [301, 302]:
-            return name, url, f'Redirects to {response.headers["Location"]}'
-    except Exception as e:
-        return name, url, repr(e)
-
-
-def check_urls(url_list):
-    with ProcessPoolExecutor(max_workers=20) as executor:
-        futures = [executor.submit(check_url, **file) for file in url_list]
-        responses = [future.result() for future in futures]
-
-    return [r for r in responses if r is not None]
-
-
 def create_readme(df):
     """Retrieve text from README.md and update it."""
     readme = str
 
-    categories = pd.unique(df["category"])
+    categories = pd.unique(df["main_category"])
     categories.sort()
 
     with open('README.md', 'r', encoding='utf-8') as read_me_file:
@@ -169,18 +148,20 @@ def create_readme(df):
     list_blocks = ""
     for cat in range(len(categories)):
         block = f"\n### {categories[cat]}\n\n"
-        filtered = df[df["category"] == categories[cat]]
+        filtered = df[df["main_category"] == categories[cat]]
         list_items = ""
         for i, r in filtered.iterrows():
-            try:
-                start_date = int(r['start_date'])
-            except:
-                start_date = "NA"
+            start_date = convert_date(r, 'start_date')
+            end_date = convert_date(r, 'end_date')
+            if end_date == "NA":
+                # If end date is NA, the status is a better indication of the current
+                # state of the proejct
+                end_date = r["status"]
             if not pd.isna(r['icon']):
-                project = f"- {r['icon']}  [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                project = f"- {r['icon']}  [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{end_date}`)\n"
                 list_items = list_items + project
             else:
-                project = f"- [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{str(r['end_date'])}`)\n"
+                project = f"- [{r['name']}]({r['project_information_url']}) - {r['description']} (`{start_date}` - `{end_date}`)\n"
                 list_items = list_items + project
         list_blocks = list_blocks + block + list_items
 
@@ -195,23 +176,83 @@ def create_readme(df):
         sorted_file.write(readme)
 
 
-def read_yml_files_to_readme():
-    df = read_yml_files()
+def yaml_to_csv_and_readme():
+    df = yml_to_csv_and_excel()
     create_readme(df)
+
+# Helpers
+
+
+def save_dict_to_yaml(PATH, dict):
+    """Very lazy way to update value in dict."""
+    with open(PATH, 'w') as file:
+        start_date = convert_date(dict, "start_date")
+        end_date = convert_date(dict, "end_date")
+
+        try:
+            if isinstance(start_date, int):
+                dict["start_date"] = start_date
+        except ValueError:
+            dict["start_date"] = None
+
+        try:
+            if isinstance(end_date, int):
+                dict["end_date"] = end_date
+        except ValueError:
+            dict["end_date"] = None
+        y.dump(dict, file)
+
+
+def check_url(url, name):
+    try:
+        response = requests.head(
+            url, allow_redirects=True, verify=False, timeout=25)
+        if response.status_code in [301, 302]:
+            return name, url, f'Redirects to {response.headers["Location"]}'
+    except Exception as e:
+        return name, url, repr(e)
+
+
+def check_urls(url_list):
+    with ProcessPoolExecutor(max_workers=20) as executor:
+        futures = [executor.submit(check_url, **file) for file in url_list]
+        responses = [future.result() for future in futures]
+
+    return [r for r in responses if r is not None]
+
+
+def convert_date(dict, date_key):
+    """Convert dates to int or "NA" if missing."""
+    try:
+        date = int(dict[date_key])
+    except:
+        date = "NA"
+    return date
+
+
+# Parser
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument("--excel-to-csv",
+                        dest="excel_to_csv",
+                        help="Read xlsx and convert it to CSV",
+                        action="store_true")
     parser.add_argument("--csv-to-yaml",
                         dest="csv_to_yaml",
-                        help="Read the CSV and convert each project to YAML",
+                        help="Read CSV and convert rows to YAML files",
                         action="store_true")
-    parser.add_argument("--yaml-to-csv-to-readme",
-                        dest="yaml_to_csv_to_readme", help="Read all the YAML files and convert them to CSV",
+    parser.add_argument("--yaml-to-csv-and-readme",
+                        dest="yaml_to_csv_and_readme", help="Read YAML files, convert them to CSV and create readme",
                         action="store_true")
     args = parser.parse_args()
 
+    if args.excel_to_csv:
+        excel_to_csv()
+
     if args.csv_to_yaml:
-        read_csv_data()
-    if args.yaml_to_csv_to_readme:
-        read_yml_files_to_readme()
+        csv_to_yaml()
+
+    if args.yaml_to_csv_and_readme:
+        yaml_to_csv_and_readme()

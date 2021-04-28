@@ -2,15 +2,17 @@
 name: Bevolkingsregisters stad Utrecht (1900 - 1912)
 description: Citizens help index scans of population registers from Utrecht between
   1900 and 1912.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Utrechts Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: Probably viewable
 accessibility_for_research: Unsure
-project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/utr_bvr
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/status/closed/project/utr_bvr

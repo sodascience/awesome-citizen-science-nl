@@ -3,15 +3,17 @@ name: Ik heb last-app
 description: Citizens indicate how much their airways bother them and what symptoms
   they experience to provide further insights into the causes (and aggrevation) of
   respiratory diseases.
-category: Health
+main_category: Health
+extra_categories: .nan
 organization: RIVM
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: 'No direct download '
 accessibility_for_research: No
-project_information_url: https://www.rivm.nl/rivm/kennis-en-kunde/strategisch-programma-rivm/spr-2015-2018/integrale-risicobeoordeling/ik-heb-nu-last-app
 data_url: '-'
+project_information_url: https://www.rivm.nl/rivm/kennis-en-kunde/strategisch-programma-rivm/spr-2015-2018/integrale-risicobeoordeling/ik-heb-nu-last-app

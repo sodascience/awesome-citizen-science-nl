@@ -2,16 +2,18 @@
 name: Fishing in the Past
 description: 'Citizens identify fish species on paintings to gain information on biodiversity
   and commercial use of fish species throughout history. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Leiden University Centre for the Arts in Society (LUCAS) and the Naturalis
   Biodiversity Center
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: '2020'
+end_date: 2020
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.zooniverse.org/projects/anneoverduin/fishing-in-the-past/about/research
 data_url: '-'
+project_information_url: https://www.zooniverse.org/projects/anneoverduin/fishing-in-the-past/about/research

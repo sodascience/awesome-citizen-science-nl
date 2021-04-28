@@ -2,15 +2,17 @@
 name: 80.000 minuten
 description: 'Citizens transcribe notary deeds from notaries from Leiden between 1564
   and 1811. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Regionaal Archief Leiden
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2014
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/leiden_na1
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/page/2/project/leiden_na1

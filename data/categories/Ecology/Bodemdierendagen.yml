@@ -3,16 +3,18 @@ name: Bodemdierendagen
 description: 'Citizens count the benthic animals in their backyards, planters and
   on their roof if they happen to have a so-called green roof. They register to what
   animal group (out of ten) the benthic animals belong. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Nederlands Instituut voor Ecologie (NIOO-KNAW) and the Centrum voor
   Bodemecologie
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://bodemdierendagen.nl/
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://bodemdierendagen.nl/

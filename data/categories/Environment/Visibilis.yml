@@ -3,15 +3,17 @@ name: Visibilis
 description: 'On the initiative of two citizens, a suitcase containing multiple measuring
   instruments was attached to a measuring location already in use. The goal was to
   compare different tools. The citizens have written  report detailing the results. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: RIVM and DCMR Milieudienst Rijnmond
 country: The Netherlands
 location: Hoek van Holland
 notes_location: .nan
 start_date: 2018
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/visibilis
 data_url: '-'
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/visibilis

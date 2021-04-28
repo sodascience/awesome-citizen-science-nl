@@ -1,15 +1,17 @@
 ---
 name: Essentaksterfte
 description: Citizens report whether ash trees are affected by a fungus.
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Wageningen University & Research
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.naturetoday.com/intl/nl/observations/essentaksterfte
 data_url: https://www.naturetoday.com/intl/nl/observations/essentaksterfte
+project_information_url: https://www.naturetoday.com/intl/nl/observations/essentaksterfte

@@ -2,15 +2,17 @@
 name: Binnen- en buitengesticht van Zutphen
 description: 'Citizens help index bedlam registers from the period between 1842 and
   1938.  '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Regionaal Archief Zutphen
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2016
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/szu_bevolkingsregister
 data_url: https://erfgoedcentrumzutphen.nl/onderzoeken/archieven/details/NL-ZuRAZ-0110/path/2.4.1.2.19
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/szu_bevolkingsregister

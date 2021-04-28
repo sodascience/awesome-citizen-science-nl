@@ -2,15 +2,17 @@
 name: Tot uw Dienst!
 description: Citizens help index retirement cards from people that have worked for
   the municipality of Amsterdam.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Stadsarchief Amsterdam
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2016'
+end_date: 2016
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_pensioen
 data_url: https://archief.amsterdam/uitleg/indexen/41-pensioenkaarten-1894-1915?utm_source=OpenArchieven&utm_medium=browser&utm_campaign=OpenData
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/2/project/amsterdam_pensioen

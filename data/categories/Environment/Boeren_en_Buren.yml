@@ -2,16 +2,18 @@
 name: Boeren en Buren
 description: 'Citizens place sensors that measure the local air quality and fill in
   an app regarding the smell. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: 'RIVM, Limburgse Land- en Tuinbouwbond, stichting Gezond Leefmilieu
   Venray, gemeente Venray and the province of Limburg '
 country: The Netherlands
 location: Venray
 notes_location: .nan
 start_date: 2019
-end_date: '2021'
+end_date: 2021
+status: ended
 notes_duration: .nan
 data_accessibility: 'Viewable '
 accessibility_for_research: Yes
-project_information_url: https://www.rivm.nl/boeren-en-buren
 data_url: https://samenmeten.rivm.nl/dataportaal/
+project_information_url: https://www.rivm.nl/boeren-en-buren

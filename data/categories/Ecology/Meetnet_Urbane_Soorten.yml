@@ -2,15 +2,17 @@
 name: Meetnet Urbane Soorten
 description: 'Citizens count birds and species three times per season, on top of the
   yearly separate counts. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Sovon Vogelonderzoek Nederland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2007
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.sovon.nl/nl/MUS
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.sovon.nl/nl/MUS

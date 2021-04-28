@@ -2,15 +2,17 @@
 name: Wonen op Walcheren vervolg Bevolkingsregisters 1812 - 1900
 description: Citizens help index scans of population registers from Zeeland between
   1812 and 1900.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Zeeuws Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2015
-end_date: '2018'
+end_date: 2018
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar
 data_url: https://www.zeeuwsarchief.nl/zeeuwen-gezocht/
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/picvh_zar

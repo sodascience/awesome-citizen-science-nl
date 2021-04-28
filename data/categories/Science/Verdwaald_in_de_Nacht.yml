@@ -2,15 +2,17 @@
 name: Verdwaald in de Nacht
 description: 'Citizens match photos made of places on the Earth in the night from
   space with the correct location. '
-category: Science
+main_category: Science
+extra_categories: .nan
 organization: Cities At Night (collaboration between ESA and NASA)
 country: Worldwide
 location: .nan
 notes_location: .nan
 start_date: 2014
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.iedereenwetenschapper.be/projects/bekijk-de-aarde-vanuit-de-ruimte
 data_url: '-'
+project_information_url: https://www.iedereenwetenschapper.be/projects/bekijk-de-aarde-vanuit-de-ruimte

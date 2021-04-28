@@ -4,15 +4,17 @@ description: 'Citizens choose a strip of fourty meters alongside a shore. Every 
   meters, they report all indicator plants they see and cross them out on a card.
   In the middle, they report the coordinates and afterwards they make a photo of the
   strip of land they examined. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Naturalis and Leiden University
 country: The Netherlands
 location: Leiden and Ommelanden
 notes_location: .nan
 start_date: 2018
-end_date: '2018'
+end_date: 2018
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/oeverplanten
 data_url: '-'
+project_information_url: https://www.universiteitleiden.nl/citizensciencelab/projecten/oeverplanten

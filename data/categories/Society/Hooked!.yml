@@ -2,16 +2,18 @@
 name: Hooked!
 description: 'Citizens listen to fragments of songs from the Top 2000 and click a
   button when they remember what song is played. '
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: University of Amsterdam, Meertens Institute, Sound & Vision, and Utrecht
   University
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.iedereenwetenschapper.be/projects/hoe-snel-herken-jij-een-liedje
 data_url: '-'
+project_information_url: https://www.iedereenwetenschapper.be/projects/hoe-snel-herken-jij-een-liedje

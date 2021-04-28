@@ -3,15 +3,17 @@ name: Tekenradar
 description: Citizens report whether they or their child have a tick bite, tick bite
   fever, a red circular rash (Erythema Migrans) and/or Lyme disease, alongside their
   age.
-category: Health
+main_category: Health
+extra_categories: .nan
 organization: RIVM and Wageningen University & Research
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.tekenradar.nl/
 data_url: https://www.tekenradar.nl/
+project_information_url: https://www.tekenradar.nl/

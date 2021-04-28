@@ -2,15 +2,17 @@
 name: Pilotproject transcripties Statenresoluties Overijssel 1799
 description: Citizens transcribe two books containing resolutions adopted in Overijssel
   in 1799.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Historisch Centrum Overijssel
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2020
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/hco_resoluties_transkribus
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/hco_resoluties_transkribus

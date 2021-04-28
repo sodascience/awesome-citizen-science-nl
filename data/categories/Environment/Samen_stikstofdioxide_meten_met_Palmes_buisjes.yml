@@ -1,15 +1,17 @@
 ---
 name: Samen stikstofdioxide meten met Palmes buisjes
 description: Citizens measure nitrogen dioxide using Palmes tubes.
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: RIVM
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-stikstofdioxide-meten-met-Palmes-buisjes
 data_url: 'https://samenmeten.rivm.nl/dataportaal/ '
+project_information_url: https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-stikstofdioxide-meten-met-Palmes-buisjes

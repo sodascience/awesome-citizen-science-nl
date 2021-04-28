@@ -2,15 +2,17 @@
 name: Extra serie Amersfoortse bevolkingsregisters online
 description: Citizens help index scans of population registers from Amersfoort between
   1860 and 1915.
-category: History
+main_category: History
+extra_categories: .nan
 organization: Archief Eemland
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2017
-end_date: '2019'
+end_date: 2019
+status: ended
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/gam_gezinskaarten
 data_url: https://www.archiefeemland.nl/
+project_information_url: https://velehanden.nl/projecten/bekijk/details/status/closed/page/1/project/gam_gezinskaarten

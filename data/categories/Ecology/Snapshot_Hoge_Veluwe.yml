@@ -1,15 +1,17 @@
 ---
 name: Snapshot Hoge Veluwe
 description: 'Citizens count the number of animals and species present on a photo. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Nationale Park Hoge Veluwe
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2018
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: https://www.iedereenwetenschapper.be/projects/bestudeer-wilde-dieren-de-hoge-veluwe
 data_url: '-'
+project_information_url: https://www.iedereenwetenschapper.be/projects/bestudeer-wilde-dieren-de-hoge-veluwe

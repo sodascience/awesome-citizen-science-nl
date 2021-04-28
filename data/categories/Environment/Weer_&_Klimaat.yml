@@ -1,15 +1,17 @@
 ---
 name: Weer & Klimaat
 description: 'High school students measure the air pressure, temperature and humidity. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: GLOBE Nederland and the KNMI
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2012
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://globenederland.nl/onderzoeksproject/weer/#info
 data_url: https://vis.globe.gov/GLOBE/
+project_information_url: https://globenederland.nl/onderzoeksproject/weer/#info

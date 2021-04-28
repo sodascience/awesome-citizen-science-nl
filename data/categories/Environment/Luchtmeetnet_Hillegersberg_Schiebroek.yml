@@ -1,15 +1,17 @@
 ---
 name: Luchtmeetnet Hillegersberg Schiebroek
 description: 'Citizens place sensors in their backyards that measure the air quality. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: None, the citizens in the area started it
 country: The Netherlands
 location: Rotterdam
 notes_location: .nan
 start_date: 2017
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://inhillegersberg.nl/geluid-lucht/424-luchtmeetnet-hillegersberg-schiebroek
 data_url: https://login.munisense.net/login?url=https%3A%2F%2Foutdoorclimate.munisense.net%2F&theme=munisense-v2-lhis
+project_information_url: https://inhillegersberg.nl/geluid-lucht/424-luchtmeetnet-hillegersberg-schiebroek

@@ -2,15 +2,17 @@
 name: CHARRED
 description: 'Citizens measure the amount of fine dust by putting sensors in their
   backyards. '
-category: Environment
+main_category: Environment
+extra_categories: .nan
 organization: RIVM, GGD Amsterdam, Stichting HoutrookVrij and the Longfonds
 country: The Netherlands
 location: Amsterdam
 notes_location: Pilot
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: 'Viewable '
 accessibility_for_research: Yes
-project_information_url: 'https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-houtrook-meten '
 data_url: https://samenmeten.rivm.nl/dataportaal/
+project_information_url: 'https://www.samenmetenaanluchtkwaliteit.nl/projecten/samen-houtrook-meten '

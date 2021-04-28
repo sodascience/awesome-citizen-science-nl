@@ -2,15 +2,17 @@
 name: Paddenoverzetacties
 description: 'Citizens (mostly in groups) report how many and what kind of toads they
   transferred. '
-category: Ecology
+main_category: Ecology
+extra_categories: .nan
 organization: Stichting RAVON
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2008
-end_date: recurring
+end_date: .nan
+status: recurring
 notes_duration: .nan
 data_accessibility: Viewable
 accessibility_for_research: Yes
-project_information_url: https://www.ravon.nl/Portals/2/Bestanden/Publicaties/Rapporten/2007.003k.pdf
 data_url: https://www.ndff.nl/overdendff/data/
+project_information_url: https://www.ravon.nl/Portals/2/Bestanden/Publicaties/Rapporten/2007.003k.pdf

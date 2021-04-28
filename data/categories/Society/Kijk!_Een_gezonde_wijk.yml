@@ -2,16 +2,18 @@
 name: Kijk! Een gezonde wijk
 description: Citizens install an app to report on opportunities to sport and play
   in their neighborhood
-category: Society
+main_category: Society
+extra_categories: .nan
 organization: Hogeschool van Amsterdam, RIVM, Gemeente Amsterdam Nieuw-West, Huis
   van de Wijk, EigenWijks, GGD Amsterdam
 country: The Netherlands
 location: Slotermeer
 notes_location: .nan
 start_date: 2017
-end_date: '2017'
+end_date: 2017
+status: ended
 notes_duration: .nan
 data_accessibility: No direct download
 accessibility_for_research: No
-project_information_url: http://www.kijkeengezondewijk.nl/#/info
 data_url: '-'
+project_information_url: http://www.kijkeengezondewijk.nl/#/info

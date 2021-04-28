@@ -2,15 +2,17 @@
 name: Compareerden voor mij
 description: 'Citizens transcribe notary deeds from notaries from Westfriesland between
   1843 and 1915. '
-category: History
+main_category: History
+extra_categories: .nan
 organization: Westfries Archief
 country: The Netherlands
 location: .nan
 notes_location: .nan
 start_date: 2019
-end_date: ongoing
+end_date: .nan
+status: ongoing
 notes_duration: .nan
 data_accessibility: Probably viewable once finished
 accessibility_for_research: No
-project_information_url: https://velehanden.nl/projecten/bekijk/details/project/wfg_transcription_notarieel
 data_url: '-'
+project_information_url: https://velehanden.nl/projecten/bekijk/details/project/wfg_transcription_notarieel
