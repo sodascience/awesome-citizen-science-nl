@@ -1,0 +1,17 @@
+---
+name: CoronaWatchNL
+description: Citizens help collect numbers on COVID-19 infections and deaths in The Netherlands. With these data, a dataset is compiled that meets the FAIR (Findable, Accessible, Interoperable and Reusable) guidelines.
+main_category: Health
+extra_categories: 
+organization: Utrecht University
+country: The Netherlands
+location: 
+notes_location: 
+start_date: 2020
+end_date: 2021
+status: ended
+notes_duration: 
+data_accessibility: Downloadable
+accessibility_for_research: yes
+data_url: https://github.com/J535D165/CoronaWatchNL/tree/master/data
+project_information_url: https://github.com/J535D165/CoronaWatchNL
