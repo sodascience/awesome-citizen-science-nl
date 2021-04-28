@@ -30,12 +30,12 @@ y.indent(sequence=4, offset=2)
 def excel_to_csv():
     """Convert excel to csv for other uses."""
     excel = pd.read_excel(EXCEL, engine='openpyxl')
-    excel.to_csv(CSV, index=False, sep="|")
+    excel.to_csv(CSV, index=False, sep=",")
 
 
 def csv_to_yaml():
     """Read CSV data and output individual yml files."""
-    csv = pd.read_csv(CSV, sep="|")
+    csv = pd.read_csv(CSV, sep=",")
 
     # Find unique categories
     categories = pd.unique(csv["main_category"])
@@ -103,7 +103,7 @@ def yml_to_csv_and_excel():
     df_save.drop(columns=["icon", "url", "error"], inplace=True)
     # Save to CSV
     df_save.to_csv("data/citizen-science-projects-nl.csv",
-                   index=False, sep="|")
+                   index=False, sep=",")
     # Save to Excel
     df_save.to_excel("data/citizen-science-projects-nl.xlsx",
                      index=False, engine='openpyxl')
