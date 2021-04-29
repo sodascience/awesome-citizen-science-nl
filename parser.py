@@ -127,7 +127,8 @@ def create_readme(df):
 
         # Contribution and contacts
         text_contributing = splits[3]
-        text_contacts = splits[4]
+        text_citation = splits[4]
+        text_contacts = splits[5]
 
         # TOC
         toc = "\n\n- [Awesome Citizen Science Projects](#awesome-citizen-science-projects)\n"
@@ -171,6 +172,7 @@ def create_readme(df):
 
     # Add contribution and contacts
     readme += '<!---->' + text_contributing
+    readme += '<!---->' + text_citation
     readme += '<!---->' + text_contacts
 
     with open('README.md', 'w+', encoding='utf-8') as sorted_file:
