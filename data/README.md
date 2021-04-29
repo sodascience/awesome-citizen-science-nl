@@ -1,5 +1,7 @@
 # Citizen Science Projects Dataset Specifications
 
+The dataset contains citizen science projects in the Netherlands. Citizen science is scientific work that citizens completely or partially conduct themselves on a voluntary basis. Professional researchers often provide instructions and guidance, but they are not the main collectors of the data. Alongside project names, the dataset includes supplementary information regarding a description of the project, its organizers, location, duration, data accessibility, and links to the main project information and data if applicable. This document contains a technical specification of the dataset. 
+
 ## Data availability 
 
 The list of Citizen Science projects is available in various formats. This makes the reuse 
@@ -23,8 +25,8 @@ the releases are persistent and therefore won't change anymore (important for re
 
 - Directory: [`data/`](https://github.com/sodascience/awesome-citizen-science-nl/tree/main/data)
 - File format: 
-  - CSV `data/citizen-science-projects-nl.csv` TDB
-  - Excel `data/citizen-science-projects-nl.xlsx` TDB
+  - CSV `data/citizen-science-projects-nl.csv`
+  - Excel `data/citizen-science-projects-nl.xlsx`
 
 ## Data updates
 
@@ -69,6 +71,6 @@ This dataset is published with a CC-BY-4.0 License license https://github.com/so
 
 To cite this dataset in academic publications, you can cite the following Zenodo publication. 
 
-```
-TBD
-```
+## Contact
+
+For contact, reach out to a.g.j.timmers@uu.nl or p.lugtig@uu.nl. 
