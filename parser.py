@@ -100,6 +100,8 @@ def yml_to_csv_and_excel():
 
     # Clean df before saving
     df_save = df.copy()
+    df_save["start_date"] = df_save["start_date"].astype(pd.Int64Dtype())
+    df_save["end_date"] = df_save["end_date"].astype(pd.Int64Dtype())
     df_save.drop(columns=["icon", "url", "error"], inplace=True)
     # Save to CSV
     df_save.to_csv("data/citizen-science-projects-nl.csv",
