@@ -18,8 +18,9 @@ You can easily contribute a project to the *Awesome Citizen Science Projects in 
   - [Science](#Science)
   - [Society](#Society)
   - [Uncategorized](#Uncategorized)
-- [Contributing guidelines](#contributing-guidelines)
-- [Contacts](#contacts)
+- [Contribute or update project](#contribute-or-update-project)
+- [Citation](#citation)
+- [Contact](#contact)
 
 <!---->
 
