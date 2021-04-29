@@ -339,7 +339,8 @@ project_information_url: # Url to the main page of the project | *Compulsory
 To cite this dataset in academic publications, you can cite the following Zenodo publication. 
 
 ```
-TBD
+Timmers, Annemarie, & Lugtig, Peter. (2021). List of Citizen Science Projects 
+in the Netherlands (Version v2021.4.29) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4724570
 ```
 
 <!---->
