@@ -1,8 +1,8 @@
 # Awesome Citizen Science NL
 
-A curated list of awesome Citizen Science projects from the Netherlands with additional information such as duration, organizations, and links to resources.
+A curated list of awesome Citizen Science projects from the Netherlands with additional information such as duration, organizations, and links to resources. For a full overview of all variables, see the overview table ([CSV](https://github.com/sodascience/awesome-citizen-science-nl/blob/main/data/citizen-science-projects-nl.csv), [Excel](https://github.com/sodascience/awesome-citizen-science-nl/blob/main/data/citizen-science-projects-nl.xlsx)).
 
-You can easily contribute to Awesome Citizen Science Projects in the Netherlands dataset by following [our contributing guide](#contributing-guidelines).
+You can easily contribute a project to the *Awesome Citizen Science Projects in the Netherlands* dataset by following the [contributing guide](#contributing-guidelines).
 
 :x: Link to project might be broken
 
