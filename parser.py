@@ -135,8 +135,9 @@ def create_readme(df):
         for cat in range(len(categories)):
             toc += f"  - [{categories[cat]}](#{categories[cat]})" + "\n"
         # Add contributing and contact to TOC
-        toc += "- [Contributing guidelines](#contributing-guidelines)\n"
-        toc += "- [Contacts](#contacts)\n"
+        toc += "- [Contribute or update project](#contribute-or-update-project)\n"
+        toc += "- [Citation](#citation)\n"
+        toc += "- [Contact](#contact)\n"
 
     # Add first part and toc to README
     readme = text_intro + "<!---->" + toc + "\n<!---->\n"
