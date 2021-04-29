@@ -71,6 +71,11 @@ This dataset is published with a CC-BY-4.0 License license https://github.com/so
 
 To cite this dataset in academic publications, you can cite the following Zenodo publication. 
 
+```
+Timmers, Annemarie, & Lugtig, Peter. (2021). List of Citizen Science Projects 
+in the Netherlands (Version v2021.4.29) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4724570
+```
+
 ## Contact
 
 For contact, reach out to a.g.j.timmers@uu.nl or p.lugtig@uu.nl. 
