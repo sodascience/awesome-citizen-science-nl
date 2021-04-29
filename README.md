@@ -335,7 +335,7 @@ project_information_url: # Url to the main page of the project | *Compulsory
 
 ## Contacts
 
-This list of open science projects is curated and maintained by the [ODISSEI Social Data Science
+This list of open science projects is curated by [Annemarie Timmers](https://nl.linkedin.com/in/annemarie-timmers-35381613a) (Utrecht University) and maintained by the [ODISSEI Social Data Science
 (SoDa)](https://odissei-data.nl/nl/soda/) team.
 
 <img src="docs/img/readme-soda-logo.png" width="250px"></img>
