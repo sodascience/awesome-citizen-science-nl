@@ -23,6 +23,8 @@ the releases are persistent and therefore won't change anymore (important for re
 
 ### Zenodo
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4724569.svg)](https://doi.org/10.5281/zenodo.4724569)
+
 - Directory: [`data/`](https://github.com/sodascience/awesome-citizen-science-nl/tree/main/data)
 - File format: 
   - CSV `data/citizen-science-projects-nl.csv`
@@ -69,7 +71,7 @@ This dataset is published with a CC-BY-4.0 License license https://github.com/so
 
 ## Data citation
 
-To cite this dataset in academic publications, you can cite the following Zenodo publication. 
+To cite this dataset in academic publications, you can cite the following Zenodo publication [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4724569.svg)](https://doi.org/10.5281/zenodo.4724569). 
 
 ```
 Timmers, Annemarie, & Lugtig, Peter. (2021). List of Citizen Science Projects 
