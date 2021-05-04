@@ -101,7 +101,7 @@ We aim to make this list as complete as possible; therefore, we need your help! 
 ### Environment
 
 - [Vuurwerkexperiment 2017/2018](https://www.samenmetenaanluchtkwaliteit.nl/vuurwerkexperiment-20172018) - Citizens help measure fine dust in the air during New Year's Eve. (`2017` - `2018`)
-- [Boeren Meten Water](https://boerenmetenwater.nl/aanleiding/) - Farmers and the water board work together to gain insights into the current situation of salinization and subsidence. (`2019` - `ongoing`)
+- :x:  [Boeren Meten Water](https://boerenmetenwater.nl/aanleiding/) - Farmers and the water board work together to gain insights into the current situation of salinization and subsidence. (`2019` - `ongoing`)
 - [Geluid-​ en luchtkwaliteit](https://www.samenmetenaanluchtkwaliteit.nl/burgermetingen-schiedam) - Citizens in Schiedam place sensors that measure the amount of noise and the air quality.  (`2017` - `ongoing`)
 - [Explane](https://explane.org/#:~:text=ExPlane%20is%20the%20app%20to%20register%20aviation%20noise&text=The%20app%20gives%20you%20the,by%20residents%20living%20near%20airports) - Citizens meausre the noise made by planes with their smartphones. (`2018` - `ongoing`)
 - [Boeren en Buren](https://www.rivm.nl/boeren-en-buren) - Citizens place sensors that measure the local air quality and fill in an app regarding the smell.  (`2019` - `2021`)
